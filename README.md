@@ -4,9 +4,10 @@ Discord Oficial https://discordapp.com/invite/CxR3mRy
 
 Related Links
 Steam - http://store.steampowered.com/app/544550/Stationeers/
-Website - https://stationeers.com/
-Twitter - https://twitter.com/stationeers
 
+Website - https://stationeers.com/
+
+Twitter - https://twitter.com/stationeers
 
 
 Donde copiar los archivos:
