@@ -578,7 +578,7 @@
     </Record>
     <Record>
       <Key>DynamicCrateConveyorSupplies</Key>
-      <Value>Cajón (Suministros de Cinta Transportadora)</Value>
+      <Value>Cajón (Suministros de Cinta)</Value>
     </Record>
     <Record>
       <Key>DynamicCratePipeSupplies</Key>
@@ -794,35 +794,35 @@
     </Record>
     <Record>
       <Key>ItemGasCanisterCarbonDioxide</Key>
-      <Value>Bombona de Gas (CO2)</Value>
+      <Value>Bombona (CO2)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterPollutants</Key>
-      <Value>Canister (Contaminantes)</Value>
+      <Value>Bonbona (Contaminantes)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterEmpty</Key>
-      <Value>Canister</Value>
+      <Value>Bonbona</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterFuel</Key>
-      <Value>Canister (Combustible)</Value>
+      <Value>Bonbona (Combustible)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>Canister (Volatiles)</Value>
+      <Value>Bonbona (Volatiles)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterNitrogen</Key>
-      <Value>Canister (Nitrógeno)</Value>
+      <Value>Bonbona (Nitrógeno)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterOxygen</Key>
-      <Value>Canister (Oxígeno)</Value>
+      <Value>Bonbona (Oxígeno)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterWater</Key>
-      <Value>Canister (Agua)</Value>
+      <Value>Bonbona (Agua)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterCarbonDioxide</Key>
@@ -930,7 +930,7 @@
     </Record>
     <Record>
       <Key>ItemKitConveyor</Key>
-      <Value>Kit construcción (Transportadores)</Value>
+      <Value>Kit construcción (Cintas)</Value>
     </Record>
     <Record>
       <Key>ItemKitCryoTube</Key>
@@ -958,7 +958,7 @@
     </Record>
     <Record>
       <Key>ItemKitRegulator</Key>
-      <Value>Kit Construcción (Regulador de Presión)</Value>
+      <Value>Kit Construcción (Regulador Presión)</Value>
     </Record>
     <Record>
       <Key>ItemKitSensor</Key>
@@ -978,7 +978,7 @@
     </Record>
     <Record>
       <Key>ItemKitStellarAnchor</Key>
-      <Value>Construction Kit (Stellar Anchor)</Value>
+      <Value>Kit Construcción (Stellar Anchor)</Value>
     </Record>
     <Record>
       <Key>ItemKitStorage</Key>
@@ -990,7 +990,7 @@
     </Record>
     <Record>
       <Key>ItemKitTorpedoTube</Key>
-      <Value>Construction Kit (Torpedo Launcher)</Value>
+      <Value>Kit Construcción (Torpedo Launcher)</Value>
     </Record>
     <Record>
       <Key>ItemKitTurret</Key>
@@ -1050,7 +1050,7 @@
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction</Key>
-      <Value>Pipe (Cruce Cruzado)</Value>
+      <Value>Tubería (Cruce Cruzado)</Value>
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction3</Key>
@@ -1442,23 +1442,23 @@
     </Record>
     <Record>
       <Key>StructureConveyorCorner</Key>
-      <Value>Transportador (Esquina)</Value>
+      <Value>Cinta (Esquina)</Value>
     </Record>
     <Record>
       <Key>StructureConveyorRiser</Key>
-      <Value>Transportador (Vertical)</Value>
+      <Value>Cinta (Vertical)</Value>
     </Record>
     <Record>
       <Key>StructureConveyorStraight</Key>
-      <Value>Transportador (Recto)</Value>
+      <Value>Cinta (Recto)</Value>
     </Record>
     <Record>
       <Key>StructureConveyorStraightLong</Key>
-      <Value>Transportador (Recto Largo)</Value>
+      <Value>Cinta (Recto Largo)</Value>
     </Record>
     <Record>
       <Key>StructureConveyorStraightShort</Key>
-      <Value>Transportador (Recto Corto)</Value>
+      <Value>Cinta (Recto Corto)</Value>
     </Record>
     <Record>
       <Key>StructureCryoTube</Key>
@@ -1550,7 +1550,7 @@
     </Record>
     <Record>
       <Key>StructurePipeCorner</Key>
-      <Value>Tubo (Esquina)</Value>
+      <Value>Tubería (Esquina)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction</Key>
@@ -1566,27 +1566,27 @@
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction6</Key>
-      <Value>Pipe (6-Way Junction)</Value>
+      <Value>Tubería (Unión de 6 vías)</Value>
     </Record>
     <Record>
       <Key>StructurePipeLabel</Key>
-      <Value>Pipe Label</Value>
+      <Value>Tubería Etiqueta</Value>
     </Record>
     <Record>
       <Key>StructurePipeMeter</Key>
-      <Value>Pipe Meter</Value>
+      <Value>Tubería Medidor</Value>
     </Record>
     <Record>
       <Key>StructurePipeRadiator</Key>
-      <Value>Pipe Radiator</Value>
+      <Value>Tubería Radiador</Value>
     </Record>
     <Record>
       <Key>StructurePipeStraight</Key>
-      <Value>Pipe (Straight)</Value>
+      <Value>Tubería (Recto)</Value>
     </Record>
     <Record>
       <Key>StructurePipeTJunction</Key>
-      <Value>Pipe (T Junction)</Value>
+      <Value>Tubería (Unión T)</Value>
     </Record>
     <Record>
       <Key>StructurePowerConnector</Key>
@@ -1594,11 +1594,11 @@
     </Record>
     <Record>
       <Key>StructurePressureRegulator</Key>
-      <Value>Pressure Regulator</Value>
+      <Value>Regulador de Presión</Value>
     </Record>
     <Record>
       <Key>StructureRailing</Key>
-      <Value>Railing</Value>
+      <Value>Barandilla</Value>
     </Record>
     <Record>
       <Key>StructureRocketEngine</Key>
@@ -1686,11 +1686,11 @@
     </Record>
     <Record>
       <Key>StructureWallLight</Key>
-      <Value>Wall Light</Value>
+      <Value>Luz de Pared</Value>
     </Record>
     <Record>
       <Key>UniformCommander</Key>
-      <Value>Uniform Commander</Value>
+      <Value>Uniforme Comandante</Value>
     </Record>
     <Record>
       <Key>UniformOrangeJumpSuit</Key>
@@ -1698,7 +1698,7 @@
     </Record>
     <Record>
       <Key>WeaponEnergy</Key>
-      <Value>Weapon Energy</Value>
+      <Value>Arma Energía</Value>
     </Record>
     <Record>
       <Key>WeaponTorpedo</Key>
@@ -1710,111 +1710,111 @@
     </Record>
     <Record>
       <Key>StructureCableStraightBurnt</Key>
-      <Value>Burnt Cable (Straight)</Value>
+      <Value>Cable Quemado (Recto)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner3Burnt</Key>
-      <Value>Burnt Cable (3-Way Corner)</Value>
+      <Value>Cable Quemado (Esquina 3 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerBurnt</Key>
-      <Value>Burnt Cable (Corner)</Value>
+      <Value>Cable Quemado (Esquina)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4Burnt</Key>
-      <Value>Burnt Cable (4-Way Junction)</Value>
+      <Value>Cable Quemado (Unión 4 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6Burnt</Key>
-      <Value>Burnt Cable (6-Way Junction)</Value>
+      <Value>Cable Quemado (Unión 6 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionBurnt</Key>
-      <Value>Burnt Cable (Junction)</Value>
+      <Value>Cable Quemado (Cruce)</Value>
     </Record>
     <Record>
       <Key>StructureSolidFuelGenerator</Key>
-      <Value>Generator (Solid Fuel)</Value>
+      <Value>Generador (Combustible Sólido)</Value>
     </Record>
     <Record>
       <Key>ItemKitGenerator</Key>
-      <Value>Construction Kit (Generator)</Value>
+      <Value>Kit Construcción (Generador)</Value>
     </Record>
     <Record>
       <Key>ItemCableFuse</Key>
-      <Value>Construction Kit (Cable Fuses)</Value>
+      <Value>Kit Construcción (Cable con Fusible)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightH</Key>
-      <Value>Heavy Cable (Straight)</Value>
+      <Value>Heavy Cable (Recto)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH6</Key>
-      <Value>Heavy Cable (6-Way Junction)</Value>
+      <Value>Heavy Cable (Unión 6 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH4</Key>
-      <Value>Heavy Cable (4-Way Junction)</Value>
+      <Value>Heavy Cable (Unión 4 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH</Key>
-      <Value>Heavy Cable (3-Way Junction)</Value>
+      <Value>Heavy Cable (Unión 3 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>Burnt Cable (6-Way Junction)</Value>
+      <Value>Cable Quemado (Unión 6 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>Burnt Cable (4-Way Junction)</Value>
+      <Value>Cable Quemado (Unión 4 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightHBurnt</Key>
-      <Value>Burnt Cable (Straight)</Value>
+      <Value>Cable Quemado (Recto)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionHBurnt</Key>
-      <Value>Burnt Cable (Junction)</Value>
+      <Value>Cable Quemado (Cruce)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>Burnt Cable (Corner) </Value>
+      <Value>Cable Quemado (Esquina) </Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH</Key>
-      <Value>Heavy Cable (Corner)</Value>
+      <Value>Heavy Cable (Esquina)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse1k</Key>
-      <Value>Fuse (1kW)</Value>
+      <Value>Fusible (1kW)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse5k</Key>
-      <Value>Fuse (5kW)</Value>
+      <Value>Fusible (5kW)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse50k</Key>
-      <Value>Fuse (50kW)</Value>
+      <Value>Fusible (50kW)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse100k</Key>
-      <Value>Fuse (100kW)</Value>
+      <Value>Fusible (100kW)</Value>
     </Record>
     <Record>
       <Key>StructureTransformer</Key>
-      <Value>Transformer</Value>
+      <Value>Transformador</Value>
     </Record>
     <Record>
       <Key>ItemKitTransformer</Key>
-      <Value>Kit (Transformer)</Value>
+      <Value>Kit (Transformador)</Value>
     </Record>
     <Record>
       <Key>StructureTransformerSmall</Key>
-      <Value>Transformer (Small)</Value>
+      <Value>Transformador (Pequeño)</Value>
     </Record>
     <Record>
       <Key>WeaponPistolEnergy</Key>
-      <Value>Energy Pistol</Value>
+      <Value>Pistola Energia</Value>
     </Record>
     <Record>
       <Key>StructureChuteWindow</Key>
@@ -1830,15 +1830,15 @@
     </Record>
     <Record>
       <Key>ItemKitFabrication</Key>
-      <Value>Construction Kit (Fabrication)</Value>
+      <Value>Kit Construcción (Fabrication)</Value>
     </Record>
     <Record>
       <Key>ItemPipeKit</Key>
-      <Value>Item Pipe Kit</Value>
+      <Value>Kit de Tubo Artículos</Value>
     </Record>
     <Record>
       <Key>ItemKitPipe</Key>
-      <Value>Construction Kit (Pipe)</Value>
+      <Value>Kit Construcción (Tubos)</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReader</Key>
@@ -1846,11 +1846,11 @@
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>Cable Coil (Heavy)</Value>
+      <Value>Bobina de Cable (Heavy)</Value>
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
-      <Value>Iron Frame</Value>
+      <Value>Marco de Hierro</Value>
     </Record>
     <Record>
       <Key>ItemIronFrames</Key>
@@ -2063,7 +2063,7 @@
     <Record>
       <Key>StructureTransformerSmallReversed</Key>
       <Value>Transformer (Small)</Value>
-    </Record>			 
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -3198,4 +3198,6 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
       <Value>Purpura</Value>
     </Record>
   </Colors>
+  <Keys />
+  <GameTip />
 </Language>
