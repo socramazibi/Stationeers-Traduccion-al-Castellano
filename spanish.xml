@@ -1858,55 +1858,55 @@
     </Record>
     <Record>
       <Key>ItemIronSheets</Key>
-      <Value>Iron Sheets</Value>
+      <Value>Planchas de Hierro</Value>
     </Record>
     <Record>
       <Key>ItemSilverOre</Key>
-      <Value>Ore (Silver)</Value>
+      <Value>Mineral (Plata)</Value>
     </Record>
     <Record>
       <Key>ItemNickelOre</Key>
-      <Value>Ore (Nickel)</Value>
+      <Value>Mineral (Níquel)</Value>
     </Record>
     <Record>
       <Key>ItemLeadOre</Key>
-      <Value>Ore (Lead)</Value>
+      <Value>Mineral (Plomo)</Value>
     </Record>
     <Record>
       <Key>WeaponRifleEnergy</Key>
-      <Value>Energy Rifle</Value>
+      <Value>Rifle Energía</Value>
     </Record>
     <Record>
       <Key>ItemElectrumIngot</Key>
-      <Value>Ingot (Electrum)</Value>
+      <Value>Lingote (Electrum)</Value>
     </Record>
     <Record>
       <Key>ItemSilverIngot</Key>
-      <Value>Ingot (Silver)</Value>
+      <Value>Lingote (Plata)</Value>
     </Record>
     <Record>
       <Key>ItemLeadIngot</Key>
-      <Value>Ingot (Lead)</Value>
+      <Value>Lingote (Plomo)</Value>
     </Record>
     <Record>
       <Key>ItemNickelIngot</Key>
-      <Value>Ingot (Nickel)</Value>
+      <Value>Lingote (Níquel)</Value>
     </Record>
     <Record>
       <Key>ItemInvarIngot</Key>
-      <Value>Ingot (Invar)</Value>
+      <Value>Lingote (Invar)</Value>
     </Record>
     <Record>
       <Key>ItemConstantanIngot</Key>
-      <Value>Ingot (Constantan)</Value>
+      <Value>Lingote (Constantan)</Value>
     </Record>
     <Record>
       <Key>ItemSolderIngot</Key>
-      <Value>Ingot (Solder)</Value>
+      <Value>Lingote (Solder)</Value>
     </Record>
     <Record>
       <Key>ApplianceChemistryStation</Key>
-      <Value>Chemistry Station</Value>
+      <Value>Estación de Química</Value>
     </Record>
     <Record>
       <Key>StructureDiode</Key>
@@ -1918,23 +1918,23 @@
     </Record>
     <Record>
       <Key>ItemAngleGrinder</Key>
-      <Value>Angle Grinder</Value>
+      <Value>Amoladora Angular</Value>
     </Record>
     <Record>
       <Key>ItemSiliconOre</Key>
-      <Value>Ore (Silicon)</Value>
+      <Value>Mineral (Silicio)</Value>
     </Record>
     <Record>
       <Key>ItemSiliconIngot</Key>
-      <Value>Ingot (Silicon)</Value>
+      <Value>Lingote (Silicio)</Value>
     </Record>
     <Record>
       <Key>ItemFern</Key>
-      <Value>Fern</Value>
+      <Value>Helecho</Value>
     </Record>
     <Record>
       <Key>ItemCerealBar</Key>
-      <Value>Cereal Bar</Value>
+      <Value>Barra Cereal</Value>
     </Record>
     <Record>
       <Key>StructureElectronicsPrinter</Key>
@@ -1942,19 +1942,19 @@
     </Record>
     <Record>
       <Key>ItemVolatiles</Key>
-      <Value>Ice (Volatiles)</Value>
+      <Value>Hielo (Volatiles)</Value>
     </Record>
     <Record>
       <Key>ItemOxite</Key>
-      <Value>Ice (Oxite)</Value>
+      <Value>Hielo (Oxite)</Value>
     </Record>
     <Record>
       <Key>StructureWallIron</Key>
-      <Value>Iron Wall</Value>
+      <Value>Pared de Hierro</Value>
     </Record>
     <Record>
       <Key>ItemKitWallIron</Key>
-      <Value>Kit (Iron Wall)</Value>
+      <Value>Kit (Pared de Hierro)</Value>
     </Record>
     <Record>
       <Key>StructureStorageLocker</Key>
@@ -1974,7 +1974,7 @@
     </Record>
     <Record>
       <Key>ItemKitTransformerSmall</Key>
-      <Value>Kit (Transformer Small)</Value>
+      <Value>Kit (Transformador Pequeño)</Value>
     </Record>
     <Record>
       <Key>ItemKitSuitStorage</Key>
@@ -1982,23 +1982,23 @@
     </Record>
     <Record>
       <Key>ItemKitSolidGenerator</Key>
-      <Value>Kit (Solid Generator)</Value>
+      <Value>Kit (Generador Sólido)</Value>
     </Record>
     <Record>
       <Key>ItemKitLocker</Key>
-      <Value>Kit (Locker)</Value>
+      <Value>Kit (Armario)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngineSmall</Key>
-      <Value>Kit (Engine Small)</Value>
+      <Value>Kit (Motor Pequeño)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngineMedium</Key>
-      <Value>Kit (Engine Medium)</Value>
+      <Value>Kit (Motor Mediano)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngineLarge</Key>
-      <Value>Kit (Engine Large)</Value>
+      <Value>Kit (Motor Grande)</Value>
     </Record>
     <Record>
       <Key>ItemKitElectronicsPrinter</Key>
@@ -2006,7 +2006,7 @@
     </Record>
     <Record>
       <Key>ItemKitDoor</Key>
-      <Value>Kit (Door)</Value>
+      <Value>Kit (Pueta)</Value>
     </Record>
     <Record>
       <Key>ItemKitAutolathe</Key>
@@ -2014,7 +2014,7 @@
     </Record>
     <Record>
       <Key>ItemKitBlastDoor</Key>
-      <Value>Kit (Blast Door)</Value>
+      <Value>Kit (Puerta Blindada)</Value>
     </Record>
     <Record>
       <Key>ItemKitArcFurnace</Key>
@@ -2022,69 +2022,69 @@
     </Record>
     <Record>
       <Key>StructureHydraulicPipeBender</Key>
-      <Value>Hydraulic Pipe Bender</Value>
+      <Value>Dobladora Tubería Hidráulica</Value>
     </Record>
     <Record>
       <Key>ItemKitHydraulicPipeBender</Key>
-      <Value>Kit (Hydraulic Pipe Bender)</Value>
+      <Value>Kit (Dobladora Tubería Hidráulica)</Value>
     </Record>
     <Record>
       <Key>ItemKitSorter</Key>
-      <Value>Kit (Sorter)</Value>
+      <Value>Kit (Clasificador)</Value>
     </Record>
     <Record>
       <Key>ItemKitStacker</Key>
-      <Value>Kit (Stacker)</Value>
+      <Value>Kit (Apilador)</Value>
     </Record>
     <Record>
       <Key>CartridgeTracker</Key>
-      <Value>Cartridge (Tracker)</Value>
+      <Value>Cartucho (Rastreador)</Value>
     </Record>
     <Record>
       <Key>ItemGasSensor</Key>
-      <Value>Gas Sensor</Value>
+      <Value>Sensor de Gas</Value>
     </Record>
     <Record>
       <Key>ItemBeacon</Key>
-      <Value>Tracking Beacon</Value>
+      <Value>Baliza de Seguimiento</Value>
     </Record>
     <Record>
       <Key>StructureToolManufactory</Key>
-      <Value>Tool Manufactory</Value>
+      <Value>Fabricador herramientas</Value>
     </Record>
     <Record>
       <Key>ItemKitToolManufactory</Key>
-      <Value>Kit (Tool Manufactory)</Value>
+      <Value>Kit (Fabricador Herramientas)</Value>
     </Record>
     <Record>
       <Key>StructureStackerReversed</Key>
-      <Value>Stacker</Value>
+      <Value>Apilador</Value>
     </Record>
     <Record>
       <Key>StructureTransformerSmallReversed</Key>
-      <Value>Transformer (Small)</Value>
+      <Value>Transformador (Pequeño)</Value>
     </Record>
   </Things>
   <Slots>
     <Record>
       <Key>Output</Key>
-      <Value>Output</Value>
+      <Value>Salida</Value>
     </Record>
     <Record>
       <Key>Input</Key>
-      <Value>Input</Value>
+      <Value>Entrada</Value>
     </Record>
     <Record>
       <Key>LeftHand</Key>
-      <Value>Left Hand</Value>
+      <Value>Mano izquierda</Value>
     </Record>
     <Record>
       <Key>RightHand</Key>
-      <Value>Right Hand</Value>
+      <Value>Mano derecha</Value>
     </Record>
     <Record>
       <Key>Helmet</Key>
-      <Value>Helmet</Value>
+      <Value>Casco</Value>
     </Record>
     <Record>
       <Key>Suit</Key>
@@ -2096,23 +2096,23 @@
     </Record>
     <Record>
       <Key>Brain</Key>
-      <Value>Brain</Value>
+      <Value>Cerebro</Value>
     </Record>
     <Record>
       <Key>Uniform</Key>
-      <Value>Uniform</Value>
+      <Value>Uniforme</Value>
     </Record>
     <Record>
       <Key>Lungs</Key>
-      <Value>Lungs</Value>
+      <Value>Pulmones</Value>
     </Record>
     <Record>
       <Key>Belt</Key>
-      <Value>Belt</Value>
+      <Value>Cinturón</Value>
     </Record>
     <Record>
       <Key>Battery</Key>
-      <Value>Battery</Value>
+      <Value>Batería</Value>
     </Record>
     <Record>
       <Key>GasCanister</Key>
