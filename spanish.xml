@@ -3148,7 +3148,8 @@
     </Record>
     <Record>
       <Key>TutorialCompleteMessage</Key>
-      <Value>Sigue quedando mucho por aprender. Sobretodo ahí fuera, Stationeers</Value>
+      <Value>Sigue quedando mucho por aprender.
+	  Sobretodo ahí fuera, Stationeers</Value>
     </Record>
     <Record>
       <Key>TutorialBackToMenu</Key>
@@ -3223,6 +3224,18 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
       <Key>SettingsInvertMouseWheelInventory</Key>
       <Value>Invertir Desplazamiento de Inventario</Value>
     </Record>
+    <Record>
+      <Key>SettingsTitleMultiplayerAdvanced</Key>
+      <Value>Advanced Settings</Value>
+    </Record>
+    <Record>
+      <Key>SettingsUPNPNote</Key>
+      <Value>If Universal Plug and Play (UPNP) is enabled on your router, these ports will be automatically forwarded when you host a game.</Value>
+    </Record>
+    <Record>
+      <Key>SettingsTooltipOpacity</Key>
+      <Value>Tooltip Opacity</Value>
+    </Record>									
   </Interface>
   <Colors>
     <Record>
