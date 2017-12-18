@@ -200,11 +200,11 @@
     </Record>
     <Record>
       <Key>Open</Key>
-      <Value>Abrir</Value>
+      <Value>Abierto</Value>
     </Record>
     <Record>
       <Key>Close</Key>
-      <Value>Cerrar</Value>
+      <Value>Cerrado</Value>
     </Record>
     <Record>
       <Key>Opened</Key>
@@ -3149,7 +3149,7 @@
     <Record>
       <Key>TutorialCompleteMessage</Key>
       <Value>Sigue quedando mucho por aprender.
-	  Sobretodo ahí fuera, Stationeers</Value>
+Sobretodo ahí fuera, Stationeers</Value>
     </Record>
     <Record>
       <Key>TutorialBackToMenu</Key>
@@ -3226,16 +3226,16 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayerAdvanced</Key>
-      <Value>Advanced Settings</Value>
+      <Value>Ajustes Avanzados</Value>
     </Record>
     <Record>
       <Key>SettingsUPNPNote</Key>
-      <Value>If Universal Plug and Play (UPNP) is enabled on your router, these ports will be automatically forwarded when you host a game.</Value>
+      <Value>Si Universal Plug and Play (UPNP) está habilitado en su enrutador, estos puertos se reenviarán automáticamente cuando organices un juego.</Value>
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
       <Value>Tooltip Opacity</Value>
-    </Record>									
+    </Record>			 
   </Interface>
   <Colors>
     <Record>
