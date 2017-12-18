@@ -200,11 +200,11 @@
     </Record>
     <Record>
       <Key>Open</Key>
-      <Value>Abierto</Value>
+      <Value>Abrir</Value>
     </Record>
     <Record>
       <Key>Close</Key>
-      <Value>Cerrado</Value>
+      <Value>Cerrar</Value>
     </Record>
     <Record>
       <Key>Opened</Key>
