@@ -1633,6 +1633,10 @@
       <Value>Apilador</Value>
     </Record>
     <Record>
+      <Key>StructureStackerReverse</Key>
+      <Value>Apilador</Value>
+    </Record>
+    <Record>		
       <Key>StructureStairs4x2</Key>
       <Value>Escalera</Value>
     </Record>
@@ -2057,13 +2061,65 @@
       <Value>Kit (Fabricador Herramientas)</Value>
     </Record>
     <Record>
-      <Key>StructureStackerReversed</Key>
-      <Value>Apilador</Value>
-    </Record>
-    <Record>
       <Key>StructureTransformerSmallReversed</Key>
       <Value>Transformador (Pequeño)</Value>
     </Record>
+    <Record>
+      <Key>StructureLogicUnit</Key>
+      <Value>Logic Unit</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitLogic</Key>
+      <Value>Kit (Logic Unit)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicReader</Key>
+      <Value>Logic Reader</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicMemory</Key>
+      <Value>Logic Memory</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicMath</Key>
+      <Value>Logic Math</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicWriter</Key>
+      <Value>Logic Writer</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicSelect</Key>
+      <Value>Logic Select</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicCompare</Key>
+      <Value>Logic Compare</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitLogicProcessor</Key>
+      <Value>Kit (Logic Processor)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitLogicMemory</Key>
+      <Value>Kit (Logic Memory)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitLogicInputOutput</Key>
+      <Value>Kit (Logic I/O)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitLogicSwitch</Key>
+      <Value>Kit (Logic Switch)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicSwitch</Key>
+      <Value>Logic Switch</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicMinMax</Key>
+      <Value>Logic Min/Max</Value>
+    </Record>			 
   </Things>
   <Slots>
     <Record>
@@ -2532,6 +2588,22 @@
       <Key>Eat</Key>
       <Value>Eat</Value>
     </Record>
+    <Record>
+      <Key>Input</Key>
+      <Value>Input</Value>
+    </Record>
+    <Record>
+      <Key>Setting</Key>
+      <Value>Setting</Value>
+    </Record>
+    <Record>
+      <Key>Increase</Key>
+      <Value>Increase</Value>
+    </Record>
+    <Record>
+      <Key>Decrease</Key>
+      <Value>Decrease</Value>
+    </Record>			 
   </Interactables>
   <Interface>
     <Record>
@@ -3117,7 +3189,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>SettingsExtendedTooltips</Key>
-      <Value>Información ampliada sobre herramientas</Value>
+      <Value>Información Extra de Herramientas</Value>
     </Record>
     <Record>
       <Key>TooltipUpgrade2</Key>
@@ -3146,6 +3218,10 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
       <Value>Borrar Jugadores Desconectados</Value>
+    </Record>
+    <Record>
+      <Key>SettingsInvertMouseWheelInventory</Key>
+      <Value>Invertir Desplazamiento de Inventario</Value>
     </Record>
   </Interface>
   <Colors>
@@ -3198,6 +3274,6 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
       <Value>Purpura</Value>
     </Record>
   </Colors>
-  <Keys />
-  <GameTip />
+  <Keys/>
+  <GameTip/>
 </Language>
