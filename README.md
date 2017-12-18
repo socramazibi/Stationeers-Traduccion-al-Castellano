@@ -1,4 +1,4 @@
-Stationeers 
+Stationeers Traducción al castellano (Translation into Spanish)
 
 Discord Oficial https://discordapp.com/invite/CxR3mRy
 
