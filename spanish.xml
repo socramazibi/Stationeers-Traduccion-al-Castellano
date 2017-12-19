@@ -2119,6 +2119,30 @@
     <Record>
       <Key>StructureLogicMinMax</Key>
       <Value>Logic Min/Max</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicDisplay5</Key>
+      <Value>LED Display (Small)</Value>
+    </Record>
+    <Record>
+      <Key>StructureConsoleLED5</Key>
+      <Value>LED Display (Medium)</Value>
+    </Record>
+    <Record>
+      <Key>StructureConsoleLED8Large</Key>
+      <Value>LED Display (Large)</Value>
+    </Record>
+    <Record>
+      <Key>StructureSign1x1</Key>
+      <Value>Structure Sign1x1</Value>
+    </Record>
+    <Record>
+      <Key>StructureConsoleLED5Large</Key>
+      <Value>Structure Console L E D5 Large</Value>
+    </Record>
+    <Record>
+      <Key>StructureSolarPanelDual</Key>
+      <Value>Solar Panel</Value>
     </Record>			 
   </Things>
   <Slots>
@@ -2603,7 +2627,7 @@
     <Record>
       <Key>Decrease</Key>
       <Value>Decrease</Value>
-    </Record>			 
+    </Record>
   </Interactables>
   <Interface>
     <Record>
@@ -3234,7 +3258,15 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
-      <Value>Tooltip Opacity</Value>
+      <Value>Información Herramientas Translucido</Value>
+    </Record>
+    <Record>
+      <Key>MenuDownloadDriverButton</Key>
+      <Value>Descargar Controladores</Value>
+    </Record>
+    <Record>
+      <Key>MenuDownloadDriverWarning</Key>
+      <Value>Muchos usuarios de tarjetas gráficas AMD han informado problemas con el juego que se han resuelto actualizando sus controladores. Nosotros &lt;b&gt;FUERTEMENTE&lt;/b&gt; te recomiendo que lo actualices antes de jugar.</Value>
     </Record>
   </Interface>
   <Colors>
