@@ -2114,7 +2114,7 @@
     </Record>
     <Record>
       <Key>StructureLogicSwitch</Key>
-      <Value>Logic Switch</Value>
+      <Value>Lever</Value>
     </Record>
     <Record>
       <Key>StructureLogicMinMax</Key>
@@ -2126,7 +2126,7 @@
     </Record>
     <Record>
       <Key>StructureConsoleLED5</Key>
-      <Value>LED Display (Medium)</Value>
+      <Value>LED Display (Small)</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED8Large</Key>
@@ -2138,11 +2138,27 @@
     </Record>
     <Record>
       <Key>StructureConsoleLED5Large</Key>
-      <Value>Structure Console LED 5 Large</Value>
+      <Value>LED Display (Medium)</Value>
     </Record>
     <Record>
       <Key>StructureSolarPanelDual</Key>
       <Value>Solar Panel</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicBatchWriter</Key>
+      <Value>Batch Writer</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicButton</Key>
+      <Value>Button</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicSwitch2</Key>
+      <Value>Switch</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicMathUnary</Key>
+      <Value>Math Unary</Value>
     </Record>			 
   </Things>
   <Slots>
@@ -3100,7 +3116,7 @@
     </Record>
     <Record>
       <Key>SettingsDisplayPortrait</Key>
-      <Value>Mostrar Retrato</Value>
+      <Value>Mostrar Personaje</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaMoon</Key>
@@ -3268,6 +3284,10 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
       <Key>MenuDownloadDriverWarning</Key>
       <Value>Muchos usuarios de tarjetas gráficas AMD han informado problemas con el juego que se han resuelto actualizando sus controladores. Nosotros &lt;b&gt;FUERTEMENTE&lt;/b&gt; te recomiendo que lo actualices antes de jugar.</Value>
     </Record>
+    <Record>
+      <Key>SettingsChatFadeTimer</Key>
+      <Value>Chat Fade Delay</Value>
+    </Record>			 
   </Interface>
   <Colors>
     <Record>
