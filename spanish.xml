@@ -798,31 +798,31 @@
     </Record>
     <Record>
       <Key>ItemGasCanisterPollutants</Key>
-      <Value>Bonbona (Contaminantes)</Value>
+      <Value>Bombona (Contaminantes)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterEmpty</Key>
-      <Value>Bonbona</Value>
+      <Value>Bombona</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterFuel</Key>
-      <Value>Bonbona (Combustible)</Value>
+      <Value>Bombona (Combustible)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>Bonbona (Volatiles)</Value>
+      <Value>Bombona (Volatiles)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterNitrogen</Key>
-      <Value>Bonbona (Nitrógeno)</Value>
+      <Value>Bombona (Nitrógeno)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterOxygen</Key>
-      <Value>Bonbona (Oxígeno)</Value>
+      <Value>Bombona (Oxígeno)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterWater</Key>
-      <Value>Bonbona (Agua)</Value>
+      <Value>Bombona (Agua)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterCarbonDioxide</Key>
@@ -850,7 +850,7 @@
     </Record>
     <Record>
       <Key>ItemGasTankStorage</Key>
-      <Value>Recargador de Bonbonas</Value>
+      <Value>Recargador de Bombonas</Value>
     </Record>
     <Record>
       <Key>ItemGlassSheets</Key>
@@ -2212,7 +2212,7 @@
     </Record>
     <Record>
       <Key>GasCanister</Key>
-      <Value>Bonbona Gas</Value>
+      <Value>Bombona</Value>
     </Record>
     <Record>
       <Key>GasFilter</Key>
