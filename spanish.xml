@@ -910,7 +910,7 @@
     </Record>
     <Record>
       <Key>ItemKitBattery</Key>
-      <Value>Kit (Batería Fija)</Value>
+      <Value>Kit (Batería)</Value>
     </Record>
     <Record>
       <Key>ItemKitCentrifuge</Key>
@@ -1222,11 +1222,11 @@
     </Record>
     <Record>
       <Key>ItemWallCooler</Key>
-      <Value>Wall Cooler</Value>
+      <Value>Enfriador de Pared</Value>
     </Record>
     <Record>
       <Key>ItemWallHeater</Key>
-      <Value>Wall Heater</Value>
+      <Value>Calentador de Pared</Value>
     </Record>
     <Record>
       <Key>ItemWallLight</Key>
@@ -1682,11 +1682,11 @@
     </Record>
     <Record>
       <Key>StructureWallCooler</Key>
-      <Value>Wall Cooler</Value>
+      <Value>Enfriador de Pared</Value>
     </Record>
     <Record>
       <Key>StructureWallHeater</Key>
-      <Value>Wall Heater</Value>
+      <Value>Calentador de Pared</Value>
     </Record>
     <Record>
       <Key>StructureWallLight</Key>
@@ -1962,7 +1962,7 @@
     </Record>
     <Record>
       <Key>StructureStorageLocker</Key>
-      <Value>Locker</Value>
+      <Value>Armario</Value>
     </Record>
     <Record>
       <Key>SpawnPoint</Key>
@@ -1970,11 +1970,11 @@
     </Record>
     <Record>
       <Key>ItemKitCube</Key>
-      <Value>Kit (Cube)</Value>
+      <Value>Kit (Cubo)</Value>
     </Record>
     <Record>
       <Key>Cube</Key>
-      <Value>Cube</Value>
+      <Value>Cubo</Value>
     </Record>
     <Record>
       <Key>ItemKitTransformerSmall</Key>
@@ -2114,7 +2114,7 @@
     </Record>
     <Record>
       <Key>StructureLogicSwitch</Key>
-      <Value>Lever</Value>
+      <Value>Palanca</Value>
     </Record>
     <Record>
       <Key>StructureLogicMinMax</Key>
@@ -2150,16 +2150,16 @@
     </Record>
     <Record>
       <Key>StructureLogicButton</Key>
-      <Value>Button</Value>
+      <Value>Botón</Value>
     </Record>
     <Record>
       <Key>StructureLogicSwitch2</Key>
-      <Value>Switch</Value>
+      <Value>Conmutador</Value>
     </Record>
     <Record>
       <Key>StructureLogicMathUnary</Key>
       <Value>Math Unary</Value>
-    </Record>			 
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -2212,27 +2212,27 @@
     </Record>
     <Record>
       <Key>GasCanister</Key>
-      <Value>Gas Canister</Value>
+      <Value>Bonbona Gas</Value>
     </Record>
     <Record>
       <Key>GasFilter</Key>
-      <Value>Gas Filter</Value>
+      <Value>Filtro de gas</Value>
     </Record>
     <Record>
       <Key>AirTank</Key>
-      <Value>Air Tank</Value>
+      <Value>Tanque Aire</Value>
     </Record>
     <Record>
       <Key>WasteTank</Key>
-      <Value>Waste Tank</Value>
+      <Value>Tanque Residuos</Value>
     </Record>
     <Record>
       <Key>LifeSupport</Key>
-      <Value>Life Support</Value>
+      <Value>Soporte Vital</Value>
     </Record>
     <Record>
       <Key>Filter</Key>
-      <Value>Filter</Value>
+      <Value>Filtro</Value>
     </Record>
     <Record>
       <Key>Tool</Key>
@@ -2244,23 +2244,23 @@
     </Record>
     <Record>
       <Key>Propellent</Key>
-      <Value>Propellent</Value>
+      <Value>Propulsor</Value>
     </Record>
     <Record>
       <Key>Cartridge</Key>
-      <Value>Cartridge</Value>
+      <Value>Cartucho</Value>
     </Record>
     <Record>
       <Key>CaptainsSeat</Key>
-      <Value>Captain's Seat</Value>
+      <Value>Asiento del Capitán</Value>
     </Record>
     <Record>
       <Key>PassengerSeatLeft</Key>
-      <Value>Passenger Seat Left</Value>
+      <Value>Asiento de Pasajero Izquierda</Value>
     </Record>
     <Record>
       <Key>PassengerSeatRight</Key>
-      <Value>Passenger Seat Right</Value>
+      <Value>Asiento de Pasajero Derecho</Value>
     </Record>
     <Record>
       <Key>DataDisk</Key>
@@ -2284,7 +2284,7 @@
     </Record>
     <Record>
       <Key>Seat</Key>
-      <Value>Seat</Value>
+      <Value>Sillón</Value>
     </Record>
     <Record>
       <Key>TransportSlot</Key>
@@ -2308,11 +2308,11 @@
     </Record>
     <Record>
       <Key>Bed</Key>
-      <Value>Bed</Value>
+      <Value>Cama</Value>
     </Record>
     <Record>
       <Key>Processing</Key>
-      <Value>Processing</Value>
+      <Value>Procesando</Value>
     </Record>
     <Record>
       <Key>Torpedo</Key>
@@ -2626,7 +2626,7 @@
     </Record>
     <Record>
       <Key>Eat</Key>
-      <Value>Eat</Value>
+      <Value>Comer</Value>
     </Record>
     <Record>
       <Key>Input</Key>
