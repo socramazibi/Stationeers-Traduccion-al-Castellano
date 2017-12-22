@@ -1,4 +1,4 @@
-Stationeers Traducción al castellano 90% (Translation into Spanish)
+Stationeers Traducción al castellano 95% (Translation into Spanish)
 
 Discord Oficial https://discordapp.com/invite/CxR3mRy
 
