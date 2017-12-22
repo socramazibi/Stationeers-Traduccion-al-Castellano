@@ -148,7 +148,7 @@
     </Record>
     <Record>
       <Key>Mine</Key>
-      <Value>Mine</Value>
+      <Value>Minar</Value>
     </Record>
     <Record>
       <Key>Swap</Key>
@@ -208,11 +208,11 @@
     </Record>
     <Record>
       <Key>Opened</Key>
-      <Value>Opened</Value>
+      <Value>Abieto</Value>
     </Record>
     <Record>
       <Key>Closed</Key>
-      <Value>Closed</Value>
+      <Value>Cerrado</Value>
     </Record>
     <Record>
       <Key>Off</Key>
@@ -534,7 +534,7 @@
     </Record>
     <Record>
       <Key>CircuitboardCameraDisplay</Key>
-      <Value>Placa Circuito (Camera Display)</Value>
+      <Value>Placa Circuito (Camara Monitor)</Value>
     </Record>
     <Record>
       <Key>CircuitboardDoorControl</Key>
@@ -554,7 +554,7 @@
     </Record>
     <Record>
       <Key>CircuitboardShipDisplay</Key>
-      <Value>Placa Circuito (Ship Display)</Value>
+      <Value>Placa Circuito (Nave Monitor)</Value>
     </Record>
     <Record>
       <Key>CircuitboardSolarControl</Key>
@@ -966,7 +966,7 @@
     </Record>
     <Record>
       <Key>ItemKitSign</Key>
-      <Value>Construction Kit (Sign)</Value>
+      <Value>Kit Construción (Cartel)</Value>
     </Record>
     <Record>
       <Key>ItemKitSleeper</Key>
@@ -1078,7 +1078,7 @@
     </Record>
     <Record>
       <Key>ItemPipeLabel</Key>
-      <Value>Pipe Label</Value>
+      <Value>Etiqueta de Tubo</Value>
     </Record>
     <Record>
       <Key>ItemPipeMeter</Key>
@@ -1102,7 +1102,7 @@
     </Record>
     <Record>
       <Key>ItemPipeVolumePump</Key>
-      <Value>Pipe Volume Pump</Value>
+      <Value>Bomba de Volumen de Tubería</Value>
     </Record>
     <Record>
       <Key>ItemPowerConnector</Key>
@@ -1682,7 +1682,7 @@
     </Record>
     <Record>
       <Key>StructureVolumePump</Key>
-      <Value>Volume Pump</Value>
+      <Value>Bomba de Volumen</Value>
     </Record>
     <Record>
       <Key>StructureWallCooler</Key>
@@ -1702,7 +1702,7 @@
     </Record>
     <Record>
       <Key>UniformOrangeJumpSuit</Key>
-      <Value>Jump Suit (Orange)</Value>
+      <Value>Traje Mono (Orange)</Value>
     </Record>
     <Record>
       <Key>WeaponEnergy</Key>
@@ -1862,7 +1862,7 @@
     </Record>
     <Record>
       <Key>ItemIronFrames</Key>
-      <Value>Iron Frames</Value>
+      <Value>Marcos de Hierro</Value>
     </Record>
     <Record>
       <Key>ItemIronSheets</Key>
@@ -2171,7 +2171,7 @@
     <Record>
       <Key>ItemKitRecycler</Key>
       <Value>Kit (Reciclador)</Value>
-    </Record>	 
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -2196,7 +2196,7 @@
     </Record>
     <Record>
       <Key>Suit</Key>
-      <Value>Suit</Value>
+      <Value>Traje</Value>
     </Record>
     <Record>
       <Key>Back</Key>
@@ -2248,11 +2248,11 @@
     </Record>
     <Record>
       <Key>Tool</Key>
-      <Value>Tool</Value>
+      <Value>Herramienta</Value>
     </Record>
     <Record>
       <Key>Ore</Key>
-      <Value>Ore</Value>
+      <Value>Mineral</Value>
     </Record>
     <Record>
       <Key>Propellent</Key>
@@ -2792,7 +2792,7 @@
     </Record>
     <Record>
       <Key>NewWorldEnableAwayMissions</Key>
-      <Value>Enable Away Missions</Value>
+      <Value>Habilitar Misiones Ausentes</Value>
     </Record>
     <Record>
       <Key>InventorySlotBelt</Key>
@@ -2876,7 +2876,7 @@
     </Record>
     <Record>
       <Key>WorkshopUploadProgress</Key>
-      <Value>Processing configuration data</Value>
+      <Value>Procesando Datos de Configuración</Value>
     </Record>
     <Record>
       <Key>ButtonConfirmWarning</Key>
@@ -2916,7 +2916,7 @@
     </Record>
     <Record>
       <Key>SettingsAutosaveInterval</Key>
-      <Value>Tiempo de Intervalo (Segundos)</Value>
+      <Value>Tiempo de Guardado (Segundos)</Value>
     </Record>
     <Record>
       <Key>SettingsHUDScale</Key>
@@ -3020,7 +3020,7 @@
     </Record>
     <Record>
       <Key>SettingsReflections</Key>
-      <Value>Reflections</Value>
+      <Value>Reflejos</Value>
     </Record>
     <Record>
       <Key>SettingsMasterVolume</Key>
@@ -3040,7 +3040,7 @@
     </Record>
     <Record>
       <Key>SettingsTitleKeybinds</Key>
-      <Value>Keybinds</Value>
+      <Value>Editar Teclas</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMisc</Key>
@@ -3156,7 +3156,7 @@
     </Record>
     <Record>
       <Key>SettingsServerMaxPlayers</Key>
-      <Value>Max Players</Value>
+      <Value>Maximo Players</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayer</Key>
@@ -3192,11 +3192,11 @@
     </Record>
     <Record>
       <Key>TutorialComplete</Key>
-      <Value>Tutorial completo</Value>
+      <Value>Tutorial Completo</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteHeading</Key>
-      <Value>Tutorial completo</Value>
+      <Value>Tutorial Completo</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteMessage</Key>
@@ -3282,7 +3282,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>SettingsUPNPNote</Key>
-      <Value>Si Universal Plug and Play (UPNP) está habilitado en su enrutador, estos puertos se reenviarán automáticamente cuando organices un juego.</Value>
+      <Value>Si Universal Plug and Play (UPNP) está activado en su router, estos puertos se reenviarán automáticamente cuando organices un juego.</Value>
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
@@ -3290,7 +3290,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>MenuDownloadDriverButton</Key>
-      <Value>Descargar Controladores</Value>
+      <Value>Descargar Drivers</Value>
     </Record>
     <Record>
       <Key>MenuDownloadDriverWarning</Key>
