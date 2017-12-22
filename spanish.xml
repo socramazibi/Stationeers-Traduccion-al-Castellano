@@ -766,7 +766,7 @@
     </Record>
     <Record>
       <Key>ItemEggCarton</Key>
-      <Value>Carton de huevos</Value>
+      <Value>Cartón de huevos</Value>
     </Record>
     <Record>
       <Key>ItemEggTop</Key>
@@ -963,6 +963,10 @@
     <Record>
       <Key>ItemKitSensor</Key>
       <Value>Kit Construcción (Sensores)</Value>
+			 
+			
+							
+											
     </Record>
     <Record>
       <Key>ItemKitSleeper</Key>
@@ -2134,7 +2138,7 @@
     </Record>
     <Record>
       <Key>StructureSign1x1</Key>
-      <Value>Structure Sign1x1</Value>
+      <Value>Sign 1x1</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED5Large</Key>
@@ -2160,6 +2164,14 @@
       <Key>StructureLogicMathUnary</Key>
       <Value>Math Unary</Value>
     </Record>
+    <Record>
+      <Key>StructureRecycler</Key>
+      <Value>Reciclador</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitRecycler</Key>
+      <Value>Kit (Reciclador)</Value>
+    </Record>			 
   </Things>
   <Slots>
     <Record>
