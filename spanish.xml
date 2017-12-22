@@ -963,10 +963,10 @@
     <Record>
       <Key>ItemKitSensor</Key>
       <Value>Kit Construcción (Sensores)</Value>
-			 
-			
-							
-											
+    </Record>
+    <Record>
+      <Key>ItemKitSign</Key>
+      <Value>Construction Kit (Sign)</Value>
     </Record>
     <Record>
       <Key>ItemKitSleeper</Key>
@@ -2126,23 +2126,23 @@
     </Record>
     <Record>
       <Key>StructureLogicDisplay5</Key>
-      <Value>LED Display (Small)</Value>
+      <Value>Pantalla LED (pequeña)</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED5</Key>
-      <Value>LED Display (Small)</Value>
+      <Value>Pantalla LED (Pequeña)</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED8Large</Key>
-      <Value>LED Display (Large)</Value>
+      <Value>Pantalla LED (Grande)</Value>
     </Record>
     <Record>
       <Key>StructureSign1x1</Key>
-      <Value>Sign 1x1</Value>
+      <Value>Cartel 1x1</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED5Large</Key>
-      <Value>LED Display (Medium)</Value>
+      <Value>Pantalla LED (Mediana)</Value>
     </Record>
     <Record>
       <Key>StructureSolarPanelDual</Key>
@@ -2166,12 +2166,12 @@
     </Record>
     <Record>
       <Key>StructureRecycler</Key>
-      <Value>Reciclador</Value>
+      <Value>Recicladora</Value>
     </Record>
     <Record>
       <Key>ItemKitRecycler</Key>
       <Value>Kit (Reciclador)</Value>
-    </Record>			 
+    </Record>		 
   </Things>
   <Slots>
     <Record>
