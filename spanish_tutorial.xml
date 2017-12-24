@@ -6,107 +6,107 @@
   <Interface>
     <Record>
       <Key>TutorialTitleWearSpacesuit</Key>
-      <Value>Wearing the Spacesuit</Value>
+      <Value>Usa el traje espacial</Value>
     </Record>
     <Record>
       <Key>TutorialTaskWearHelmet</Key>
-      <Value>Wear {THING:ItemSpaceHelmet}</Value>
+      <Value>Vestir {THING:ItemSpaceHelmet}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskWearSuit</Key>
-      <Value>Wear {THING:ItemEvaSuit}</Value>
+      <Value>Vestir {THING:ItemEvaSuit}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskWearJetpack</Key>
-      <Value>Wear {THING:ItemSpacepack}</Value>
+      <Value>Vestir {THING:ItemSpacepack}</Value>
     </Record>
     <Record>
       <Key>TutorialDescPickupHelmet</Key>
-      <Value>Find the {THING:ItemSpaceHelmet} and put it in your {SLOT:LeftHand} or {SLOT:RightHand} slot by clicking the {COLORRED:Left Mouse Button} over the green interactable you see when looking at it.</Value>
+      <Value>Encuentra el {THING:ItemSpaceHelmet} y ponlo en tu {SLOT:LeftHand} o {SLOT:RightHand} ranura haciendo clic en {COLORRED:Left Mouse Button} sobre el verde interactivo que ves al mirarlo.</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearHelmet</Key>
-      <Value>Press and hold {KEY:HelmetSlot} until your {THING:ItemSpaceHelmet} moves to your {SLOT:Helmet} slot.</Value>
+      <Value>Mantén presionada la tecla {KEY:HelmetSlot} hasta que tu {THING:ItemSpaceHelmet} se mueve su {SLOT:Helmet} a su ranuras.</Value>
     </Record>
     <Record>
       <Key>TutorialDescPickupSuit</Key>
-      <Value>Find the {THING:ItemEvaSuit} and put it in your {SLOT:LeftHand} or {SLOT:RightHand} slot by clicking the {COLORRED:Left Mouse Button} over the green interactable you see when looking at it.</Value>
+      <Value>Encuentra el {THING:ItemEvaSuit} y ponlo en tu {SLOT:LeftHand} o {SLOT:RightHand} ranura haciendo clic en {COLORRED:Left Mouse Button} sobre el verde interactivo que ves al mirarlo.</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearSuit</Key>
-      <Value>Press and hold the {KEY:SuitSlot} key to equip the {THING:ItemEvaSuit} to your {SLOT:Suit} slot.</Value>
+      <Value>Mantén presionada la tecla {KEY:SuitSlot} para equipar {THING:ItemEvaSuit} a tu ranura {SLOT:Suit} ranuras.</Value>
     </Record>
     <Record>
       <Key>TutorialDescPickupJetpack</Key>
-      <Value>Find the {THING:ItemSpacepack} and put it in your {SLOT:LeftHand} or {SLOT:RightHand} slot by clicking the {COLORRED:Left Mouse Button} over the green interactable you see when looking at it.</Value>
+      <Value>Encuentra el {THING:ItemSpacepack} y colócalo en tu ranura {SLOT:LeftHand} o {SLOT:RightHand} haciendo clic en {COLORRED:Left Mouse Button} sobre el verde interactivo que ves al mirarlo.</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearJetpack</Key>
-      <Value>Press and hold the {KEY:BackSlot} key to equip the {THING:ItemSpacepack} to your {SLOT:Back} slot.</Value>
+      <Value>Presione y mantenga presionada la tecla {KEY:BackSlot} para equipar el {THING:ItemSpacepack} a su ranura {SLOT:Back} ranuras.</Value>
     </Record>
     <Record>
       <Key>TutorialTitlePowerSuit</Key>
-      <Value>Powering the spacesuit</Value>
+      <Value>Alimenta el traje espacial</Value>
     </Record>
     <Record>
       <Key>TutorialDescPowerSuit</Key>
-      <Value>Find a {THING:ItemBatteryCellLarge} and pick it up into your {SLOT:LeftHand} or {SLOT:RightHand} slot by looking at it and clicking the {COLORRED:Left Mouse Button}.</Value>
+      <Value>Encuentre un {THING:ItemBatteryCellLarge} y recójalo en su ranura {SLOT:LeftHand} o {SLOT:RightHand} mirándolo y haciendo clic en {COLORRED:Left Mouse Button}.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit1</Key>
-      <Value>Pickup a {THING:ItemBatteryCellLarge}</Value>
+      <Value>Recoge un {THING:ItemBatteryCellLarge}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit2</Key>
-      <Value>Open the {THING:ItemEvaSuit} slot window</Value>
+      <Value>Abre la ventana de ranuras {THING:ItemEvaSuit} </Value>
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit3</Key>
-      <Value>Select the {SLOT:LifeSupport} slot in the {THING:ItemEvaSuit}</Value>
+      <Value>Selecciona la ranura {SLOT:LifeSupport} en {THING:ItemEvaSuit}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit4</Key>
-      <Value>Equip the {THING:ItemEvaSuit} with a {THING:ItemBatteryCellLarge}</Value>
+      <Value>Equipar {THING:ItemEvaSuit} con {THING:ItemBatteryCellLarge}</Value>
     </Record>
     <Record>
       <Key>TutorialDescLifesupport1</Key>
-      <Value>You can interact with the {SLOT:Suit} slot by pressing and releasing the {KEY:SuitSlot} key. This will cycle through Interactions and Slot Inventory, if available. Do this until you see the slot inventory.</Value>
+      <Value>Puede interactuar con la ranura {SLOT:Suit} presionando y soltando la tecla {KEY:SuitSlot} Esto recorrerá las interacciones y el inventario de ranuras, si está disponible. Haz esto hasta que veas el inventario de tragamonedas.</Value>
     </Record>
     <Record>
       <Key>TutorialDescLifesupport2</Key>
-      <Value>{COLORRED:You need to wear the {THING:ItemEvaSuit} to continue. Please put it back on.}</Value>
+      <Value>{COLORRED:debes usar {THING:ItemEvaSuit} para continuar. Por favor vuélvelo a poner.}</Value>
     </Record>
     <Record>
       <Key>TutorialDescLifesupport3</Key>
-      <Value>You can select slots inside the {THING:ItemEvaSuit} using the {COLORRED:Mouse Wheel}. Select the internal {SLOT:LifeSupport} slot to continue.</Value>
+      <Value>Puede seleccionar ranuras dentro de {THING:ItemEvaSuit} usando {COLORRED:Mouse Wheel}. Seleccione la ranura interna {SLOT:LifeSupport} para continuar.</Value>
     </Record>
     <Record>
       <Key>TutorialDescLifesupport4</Key>
-      <Value>With the {THING:ItemBatteryCellLarge} active in your {SLOT:LeftHand} or {SLOT:RightHand} slot, press the {KEY:InventorySelect} key to swap the {THING:ItemBatteryCellLarge} into the {SLOT:LifeSupport} slot. If needed you can press the {KEY:SwapHands} key to swap what is your active hand.</Value>
+      <Value>Con {THING:ItemBatteryCellLarge} activo en su ranura {SLOT:LeftHand} o {SLOT:RightHand} presione la tecla {KEY:InventorySelect} para cambiar {THING:ItemBatteryCellLarge} en el espacio {SLOT:LifeSupport} . Si es necesario, puede presionar la tecla {KEY:SwapHands} para intercambiar cuál es su mano activa.</Value>
     </Record>
     <Record>
       <Key>TutorialTitleSuitFilter</Key>
-      <Value>Equipping a Filter</Value>
+      <Value>Equipando un filtro</Value>
     </Record>
     <Record>
       <Key>TutorialDescFilter1</Key>
-      <Value>Find a {THING:ItemGasFilterCarbonDioxide} and pick it up into your {SLOT:LeftHand} or {SLOT:RightHand} slot by looking at it and clicking the {COLORRED:Left Mouse Button}.</Value>
+      <Value>Busca {THING:ItemGasFilterCarbonDioxide} y recógelo en tu ranura {SLOT:LeftHand} o {SLOT:RightHand} mirándola y haciendo clic en {COLORRED:Left Mouse Button}.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFilter1</Key>
-      <Value>Pickup a {THING:ItemGasFilterCarbonDioxide}</Value>
+      <Value>Recoge un {THING:ItemGasFilterCarbonDioxide}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFilter2</Key>
-      <Value>Open the {THING:ItemEvaSuit} slot window</Value>
+      <Value>Abre la ventana de ranura {THING:ItemEvaSuit} .</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFilter3</Key>
-      <Value>Select the {SLOT:Filter} slot in the {THING:ItemEvaSuit}</Value>
+      <Value>Selecciona el espacio {SLOT:Filter} en {THING:ItemEvaSuit}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFilter4</Key>
-      <Value>Equip the {THING:ItemEvaSuit} with a {THING:ItemGasFilterCarbonDioxide}</Value>
+      <Value>Equipar {THING:ItemEvaSuit} con {THING:ItemGasFilterCarbonDioxide}</Value>
     </Record>
     <Record>
       <Key>TutorialDescFilter2</Key>
