@@ -146,127 +146,127 @@
     </Record>
     <Record>
       <Key>TutorialTitleGoInAirlock</Key>
-      <Value>Al entrar al espacio</Value>
+      <Value>Al entrar al Espacio</Value>
     </Record>
     <Record>
       <Key>TutorialDescGoInAirlock1</Key>
-      <Value>Head through the {THING:StructureAirlock} door and ensure your {THING:ItemEvaSuit} and {THING:ItemSpaceHelmet} are ready. Press the {KEY:HelmetSlot} key until you see the interactions menu, scroll to the close option, and press {KEY:InventorySelect} to toggle the state.</Value>
+      <Value>Dirígete a la puerta {THING:StructureAirlock} asegúrate de que {THING:ItemEvaSuit} y {THING:ItemSpaceHelmet} estén listos. Presione la tecla {KEY:HelmetSlot} hasta que vea el menú de interacciones, desplácese hasta la opción de cierre y presione {KEY:InventorySelect} para alternar el estado.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskGoInAirlock1</Key>
-      <Value>Close your {THING:ItemSpaceHelmet} visor</Value>
+      <Value>Cierre su visera {THING:ItemSpaceHelmet} </Value>
     </Record>
     <Record>
       <Key>TutorialTaskGoInAirlock2</Key>
-      <Value>Go through the {THING:StructureAirlock} door into the yellow room</Value>
+      <Value>Ir a través de la puerta {THING:StructureAirlock} a la habitación amarilla</Value>
     </Record>
     <Record>
       <Key>TutorialTitleCycleAirlock</Key>
-      <Value>Cycle the airlock</Value>
+      <Value>Ciclo del airlock</Value>
     </Record>
     <Record>
       <Key>TutorialDescCycleAirlock1</Key>
-      <Value>You can cycle the Airlock using the {THING:StructureConsole} or the keypad interactable on either of the {THING:StructureAirlock} doors. This will depressurize the airlock so you can go into space.&#10;&#10;A {THING:CircuitboardAirlockControl} in the {THING:StructureConsole} is controlling the {THING:StructureActiveVent}s and other devices to cycle the airlock.</Value>
+      <Value>Puede ciclar el Airlock utilizando {THING:StructureConsole} o el teclado que se puede conectar en cualquiera de las puertas {THING:StructureAirlock} . Esto despresurizará la esclusa de aire para que puedas ir al espacio.&#10;&#10;A {THING:CircuitboardAirlockControl} en {THING:StructureConsole} está controlando {THING:StructureActiveVent} y otros dispositivos para ciclar la esclusa de aire.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskCycleAirlock1</Key>
-      <Value>Cycle the Airlock</Value>
+      <Value>Ciclo el Airlock</Value>
     </Record>
     <Record>
       <Key>TutorialTitleRepairCable</Key>
-      <Value>Repair Broken Cable</Value>
+      <Value>Reparar el cable roto</Value>
     </Record>
     <Record>
       <Key>TutorialDescRepairCable1</Key>
-      <Value>There is a broken {THING:StructureCableJunction}, find it and remove by using a {THING:ItemWireCutters} from your {THING:ItemToolBelt}. Press {KEY:ToolBeltSlot} to open your {SLOT:Belt} slot. Press {KEY:InventorySelect} to swap the highlighted interior slot item to your hands.</Value>
+      <Value>Hay un {THING:StructureCableJunction} roto, búscalo y quítalo usando {THING:ItemWireCutters} de {THING:ItemToolBelt}. Presiona {KEY:ToolBeltSlot} para abrir tu ranura {SLOT:Belt} .Presiona {KEY:InventorySelect} para intercambiar el elemento de la ranura interior resaltada a tus manos.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable1</Key>
-      <Value>Equip your {THING:ItemWireCutters}</Value>
+      <Value>Equipa tu {THING:ItemWireCutters}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable2</Key>
-      <Value>Remove the {THING:StructureCableJunctionBurnt}</Value>
+      <Value>Eliminar el {THING:StructureCableJunctionBurnt}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable3</Key>
-      <Value>Equip your {THING:ItemCableCoil}</Value>
+      <Value>Equipa tu {THING:ItemCableCoil}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable4</Key>
-      <Value>Replace with a {THING:StructureCableJunction} from the {THING:ItemCableCoil}</Value>
+      <Value>Reemplace con {THING:StructureCableJunction} de {THING:ItemCableCoil}</Value>
     </Record>
     <Record>
       <Key>TutorialDescRepairCable2</Key>
-      <Value>Look at the {THING:StructureCableJunctionBurnt} while the {THING:ItemWireCutters} are in your active hand. You will see a {COLORYELLOW:yellow} box around it. Press and hold {COLORRED:Left Mouse Button} to remove the {THING:StructureCableJunctionBurnt}.</Value>
+      <Value>Mira el {THING:StructureCableJunctionBurnt} mientras que {THING:ItemWireCutters} está en tu mano activa. Verá un cuadro {COLORYELLOW:yellow} a su alrededor. Mantén presionada {COLORRED:Left Mouse Button} para eliminar {THING:StructureCableJunctionBurnt}.</Value>
     </Record>
     <Record>
       <Key>TutorialDescRepairCable3</Key>
-      <Value>Now we need to place a {THING:StructureCableJunction}. Move the {THING:ItemCableCoil} from your {THING:ItemToolBelt} to your {SLOT:LeftHand} or {SLOT:RightHand} slot. Remember the {KEY:InventorySelect} interacts with interior slots and actions, and the {KEY:ToolBeltSlot} key will open and close your {SLOT:Belt} slot.</Value>
+      <Value>Ahora necesitamos colocar {THING:StructureCableJunction}. Mueva {THING:ItemCableCoil} de su {THING:ItemToolBelt} a su ranura {SLOT:LeftHand} o {SLOT:RightHand} . Recuerde que {KEY:InventorySelect} interactúa con las ranuras y acciones interiores, y la tecla {KEY:ToolBeltSlot} abrirá y cerrará su ranura {SLOT:Belt} .</Value>
     </Record>
     <Record>
       <Key>TutorialDescRepairCable4</Key>
-      <Value>With the {THING:ItemCableCoil} in your active hand, press {COLORRED:Right Mouse Button} to bring up the construction cursor.&#10;&#10;Use the {COLORRED:Mouse Wheel} to change placement type, selecting the {THING:StructureCableJunction} variant.&#10;&#10;Press {KEY:RotateLeft} to rotate left, {KEY:RotateRight} to rotate right, {KEY:RotateUp} to rotate up, {KEY:RotateDown} to rotate down, {KEY:RotateRollLeft} to roll left, or {KEY:RotateRollRight} to roll right.</Value>
+      <Value>Con {THING:ItemCableCoil}  en su mano activa, presione {COLORRED:Right Mouse Button} para que aparezca el cursor de construcción.&#10;&#10;Utilice {COLORRED:Mouse Wheel} para cambiar el tipo de ubicación, seleccionando la variante {THING:StructureCableJunction} .&#10;&#10;Presiona {KEY:RotateLeft} para girar hacia la izquierda, {KEY:RotateRight} para girar hacia la derecha, {KEY:RotateUp} para girar hacia la izquierda, {KEY:RotateDown} para girar hacia arriba, {KEY:RotateRollLeft} para girar hacia la izquierda o {KEY:RotateRollRight} para rodar hacia la derecha.</Value>
     </Record>
 	<Record>
       <Key>TutorialTitleFinishFrame</Key>
-      <Value>Finish Welding Frame</Value>
+      <Value>Finalizar el marco de soldadura</Value>
     </Record>
     <Record>
       <Key>TutorialDescFinishFrame</Key>
-      <Value>Some tools require two things to operate. To weld the {THING:StructureFrame} you will need a {THING:ItemWeldingTorch} in your active hand, and {THING:ItemSteelSheets} in the other hand. A quick key, {KEY:ToggleHandPower}, will automatically toggle the power on and off for any item in your active hand, or you can do it through the interactions menu.</Value>
+      <Value>Algunas herramientas requieren dos cosas para operar. Para soldar el {THING:StructureFrame} necesitarás {THING:ItemWeldingTorch} n tu mano activa, y {THING:ItemSteelSheets} n tu mano activa, y {KEY:ToggleHandPower}, activará y desactivará automáticamente cualquier elemento de la mano activa, o puede hacerlo a través del menú de interacciones.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFinishFrame1</Key>
-      <Value>Weld the {THING:StructureFrame} to complete tutorial</Value>
+      <Value>Soldar el {THING:StructureFrame} para completar el tutorial</Value>
     </Record>
 	<Record>
       <Key>TutorialTitleTablet</Key>
-      <Value>Interacting with Items in Hands</Value>
+      <Value>Interactuando con los objetos en las manos</Value>
     </Record>
     <Record>
       <Key>TutorialDescTablet1</Key>
-      <Value>Pickup a {THING:ItemTablet} and {THING:ItemBatteryCellLarge} into your {SLOT:LeftHand} or {SLOT:RightHand} slots by looking at it and clicking the {COLORYELLOW:Left Mouse Button}. You can switch your active hand by pressing the {KEY:SwapHands} key. This will allow you to put one item in each hands. Do this to continue.</Value>
+      <Value>Seleccione {THING:ItemTablet} y {THING:ItemBatteryCellLarge} en sus ranuras {SLOT:LeftHand} o {SLOT:RightHand} mirándolas y haciendo clic en {COLORYELLOW:Left Mouse Button}. Puede cambiar su mano activa presionando la tecla {KEY:SwapHands} . Esto le permitirá poner un artículo en cada mano. Haz esto para continuar.</Value>
     </Record>
     <Record>
       <Key>TutorialDescTablet2</Key>
-      <Value>You can interact with your active hand slot by pressing and releasing the {KEY:ActiveHandSlot} key. This will cycle through Interactions and Slot Inventory, if available for the item currently in your active hand. You can change your currently active hand with the {KEY:SwapHands} key. Select the {THING:ItemTablet} as your active hand and open its slot interior to continue.</Value>
+      <Value>Puede interactuar con su ranura de mano activa presionando y soltando la tecla {KEY:ActiveHandSlot} . Esto recorrerá las interacciones y el inventario de ranuras, si está disponible para el elemento que se encuentra actualmente en su mano activa. Puede cambiar su mano actualmente activa con la tecla {KEY:SwapHands} . Seleccione {THING:ItemTablet} como su mano activa y abra el interior de la ranura para continuar.</Value>
     </Record>
     <Record>
       <Key>TutorialDescTablet3</Key>
-      <Value>You can select slots inside the {THING:ItemTablet} using the {COLORRED:Mouse Wheel}, just the same as before. Select the internal {SLOT:Battery} slot to continue.</Value>
+      <Value>Puede seleccionar ranuras dentro de {THING:ItemTablet} usando {COLORRED:Mouse Wheel}, igual que antes. Seleccione la ranura interna {SLOT:Battery} para continuar.</Value>
     </Record>
     <Record>
       <Key>TutorialDescTablet4</Key>
-      <Value>Now swap your active hand with the {KEY:SwapHands} key until the {THING:ItemBatteryCellLarge} is in the active hand. You should have the internal inventory of the {THING:ItemTablet} open in one hand, and the {THING:ItemBatteryCellLarge} selected as the active hand in the other. Then press the {KEY:InventorySelect} key to equip into the selected {SLOT:Battery} slot.</Value>
+      <Value>Ahora intercambie su mano activa con la tecla {KEY:SwapHands} hasta que {THING:ItemBatteryCellLarge} esté en la mano activa. Debería tener el inventario interno de {THING:ItemTablet} open in one hand, and the {THING:ItemBatteryCellLarge} seleccionado como la mano activa en la otra. A continuación, presione la tecla {KEY:InventorySelect} para equipar en la ranura {SLOT:Battery} seleccionada.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskTablet1</Key>
-      <Value>Pickup a {THING:ItemTablet}</Value>
+      <Value>Recoge un {THING:ItemTablet}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskTablet2</Key>
-      <Value>Pickup a {THING:ItemBatteryCellLarge}</Value>
+      <Value>Recoge un {THING:ItemBatteryCellLarge}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskTablet3</Key>
-      <Value>Open the {THING:ItemTablet} slot window in hands</Value>
+      <Value>Abra la ventana de ranura {THING:ItemTablet} en las manos</Value>
     </Record>
     <Record>
       <Key>TutorialTaskTablet4</Key>
-      <Value>Select the {SLOT:Battery} slot in the {THING:ItemTablet}</Value>
+      <Value>Seleccione la ranura {SLOT:Battery} en {THING:ItemTablet}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskTablet5</Key>
-      <Value>Equip the {THING:ItemTablet} with a {THING:ItemBatteryCellLarge}</Value>
+      <Value>Equipe el {THING:ItemTablet} con {THING:ItemBatteryCellLarge}</Value>
     </Record>
 	<Record>
       <Key>TutorialTitleUseReader</Key>
-      <Value>Using the {THING:CartridgeElectronicReader}</Value>
+      <Value>Usando el {THING:CartridgeElectronicReader}</Value>
     </Record>
 	<Record>
       <Key>TutorialDescUseReader1</Key>
-      <Value>The {ItemTablet} can have different cartridges for different functions. Turn the {ItemTablet} on using the {KEY:ToggleHandPower} key, or the interactions in your hands with the {KEY:ActiveHandSlot} key.</Value>
+      <Value>{ItemTablet} puede tener diferentes cartuchos para diferentes funciones. Active la {ItemTablet} con la tecla {KEY:ToggleHandPower}, o las interacciones en sus manos con la tecla {KEY:ActiveHandSlot} .</Value>
     </Record>
 	<Record>
       <Key>TutorialDescUseReader2</Key>
