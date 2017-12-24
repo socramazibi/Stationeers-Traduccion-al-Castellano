@@ -26,7 +26,7 @@
     </Record>
     <Record>
       <Key>TutorialDescWearHelmet</Key>
-      <Value>Mantén presionada la tecla {KEY:HelmetSlot} hasta que tu {THING:ItemSpaceHelmet} se mueve su {SLOT:Helmet} a su ranuras.</Value>
+      <Value>Mantén presionada la tecla {KEY:HelmetSlot} hasta que tu {THING:ItemSpaceHelmet} se mueve a su {SLOT:Helmet} ranura.</Value>
     </Record>
     <Record>
       <Key>TutorialDescPickupSuit</Key>
@@ -34,7 +34,7 @@
     </Record>
     <Record>
       <Key>TutorialDescWearSuit</Key>
-      <Value>Mantén presionada la tecla {KEY:SuitSlot} para equipar {THING:ItemEvaSuit} a tu ranura {SLOT:Suit} ranuras.</Value>
+      <Value>Mantén presionada la tecla {KEY:SuitSlot} para equipar {THING:ItemEvaSuit} a su ranura {SLOT:Suit} .</Value>
     </Record>
     <Record>
       <Key>TutorialDescPickupJetpack</Key>
@@ -110,43 +110,43 @@
     </Record>
     <Record>
       <Key>TutorialDescFilter2</Key>
-      <Value>You can interact with the {SLOT:Suit} slot by pressing and releasing the {KEY:SuitSlot} key. This will cycle through Interactions and Slot Inventory, if available. Do this until you see the slot inventory.</Value>
+      <Value>Puede interactuar con la ranura {SLOT:Suit} presionando y soltando la tecla {KEY:SuitSlot} . Esto recorrerá las interacciones y el inventario de ranuras, si está disponible. Haz esto hasta que veas las ranuras de inventario .</Value>
     </Record>
     <Record>
       <Key>TutorialDescFilter3</Key>
-      <Value>You can select slots inside the {THING:ItemEvaSuit} using the {COLORRED:Mouse Wheel}. Select any of the internal {SLOT:Filter} slots to continue.</Value>
+      <Value>Puede seleccionar ranuras dentro de {THING:ItemEvaSuit} usando {COLORRED:Mouse Wheel}. Seleccione cualquiera de los slots internos {SLOT:Filter} para continuar.</Value>
     </Record>
     <Record>
       <Key>TutorialDescFilter4</Key>
-      <Value>With the {THING:ItemGasFilterCarbonDioxide} active in your {SLOT:LeftHand} or {SLOT:RightHand} slot, press the {KEY:InventorySelect} key to swap the battery into the slot. If needed you can press the {KEY:SwapHands} key to swap what is your active hand.</Value>
+      <Value>Con {THING:ItemGasFilterCarbonDioxide} activo en su ranura {SLOT:LeftHand} o {SLOT:RightHand} presione la tecla, {KEY:InventorySelect} para cambiar la batería a la ranura. Si es necesario, puede presionar la tecla {KEY:SwapHands} para intercambiar cuál es su mano activa.</Value>
     </Record>
     <Record>
       <Key>TutorialTitleGetTools</Key>
-      <Value>Getting Construction Equipment</Value>
+      <Value>Obtención de equipo de construcción</Value>
     </Record>
     <Record>
       <Key>TutorialDescGetTools1</Key>
-      <Value>Now we need to head outside the station to do some repairs. Drop the {THING:ItemTablet} using the {KEY:Drop} key so we can pick other things up.</Value>
+      <Value>Ahora necesitamos salir de la estación para hacer algunas reparaciones. Suelta {THING:ItemTablet} con la tecla {KEY:Drop} para que podamos elegir otras cosas.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescGetTools2</Key>
-      <Value>Collect the {THING:ItemToolBelt} and assign it to the {SLOT:Belt} slot by holding the {KEY:ToolBeltSlot} key. We will continue once the {THING:ItemToolBelt} is equipped and you have the {THING:ItemSteelSheets} in your hands.</Value>
+      <Value>Recoja {THING:ItemToolBelt} y asígnelo a la ranura {SLOT:Belt} manteniendo presionada la tecla {KEY:ToolBeltSlot} .Continuaremos una vez que {THING:ItemToolBelt} esté equipado y usted tenga {THING:ItemSteelSheets} en sus manos.</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskGetTools1</Key>
-      <Value>Drop the {THING:ItemTablet}</Value>
+      <Value>Suelta el {THING:ItemTablet}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskGetTools2</Key>
-      <Value>Wear the {THING:ItemToolBelt} in the {SLOT:Belt} slot</Value>
+      <Value>Use {THING:ItemToolBelt} en la ranura {SLOT:Belt} </Value>
     </Record>
     <Record>
       <Key>TutorialTaskGetTools3</Key>
-      <Value>Pickup the {THING:ItemSteelSheets} in the {SLOT:LeftHand} or {SLOT:RightHand} slot</Value>
+      <Value>Recoge {THING:ItemSteelSheets} en la ranura {SLOT:LeftHand} o {SLOT:RightHand} </Value>
     </Record>
     <Record>
       <Key>TutorialTitleGoInAirlock</Key>
-      <Value>Going into space</Value>
+      <Value>Al entrar al espacio</Value>
     </Record>
     <Record>
       <Key>TutorialDescGoInAirlock1</Key>
