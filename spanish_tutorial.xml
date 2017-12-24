@@ -270,92 +270,92 @@
     </Record>
 	<Record>
       <Key>TutorialDescUseReader2</Key>
-      <Value>The {THING:ItemTablet} has a {THING:CartridgeElectronicReader} inserted. This tells you the recipes you need to make for all things in the game, and what they can be made in. Find the recipe that allows you to make a {THING:ItemMuffin} by using the {COLORRED:Mouse Wheel} to scroll through the options.&#10;&#10;Using different cartridges allows you to access many different functions, such as the {THING:CartridgeNetworkAnalyser} which allows you to debug cable networks, or the {THING:CartridgeAtmosAnalyser} which provides atmospheric information.</Value>
+      <Value>{THING:ItemTablet} tiene un {THING:CartridgeElectronicReader} insertado. Esto te dice las recetas que necesitas hacer para todas las cosas en el juego, y en qué se pueden hacer. Encuentra la receta que te permite hacer {THING:ItemMuffin} usando {COLORRED:Mouse Wheel} para desplazarte las opciones.&#10;&#10;El uso de diferentes cartuchos le permite acceder a muchas funciones diferentes, como  {THING:CartridgeNetworkAnalyser} que le permite depurar redes de cable, o {THING:CartridgeAtmosAnalyser} que proporciona información atmosférica.</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskUseReader1</Key>
-      <Value>Turn on the {THING:ItemTablet}</Value>
+      <Value>Encienda {THING:ItemTablet}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskUseReader2</Key>
-      <Value>Find the recipe to make an {THING:ItemMuffin}</Value>
+      <Value>Encuentra la receta para hacer {THING:ItemMuffin}</Value>
     </Record>
 	
 	<Record>
       <Key>TutorialTitleBakeMuffin</Key>
-      <Value>Bake a {THING:ItemMuffin}</Value>
+      <Value>Hornear un {THING:ItemMuffin}</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin1</Key>
-      <Value>Some devices in the game are mounted on {THING:StructureBench}s; they are called Appliances. Pickup the {THING:ApplianceMicrowave} and walk in front of the {THING:StructureBench}.</Value>
+      <Value>Algunos dispositivos en el juego están montados en {THING:StructureBench}s; se llaman Electrodomésticos. Recoge {THING:ApplianceMicrowave} y camina de frente a {THING:StructureBench}.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin2</Key>
-      <Value>Press the {KEY:Drop} key to drop the {THING:ApplianceMicrowave} on top of the {THING:StructureBench}. Keep doing this until the {THING:ApplianceMicrowave} is sitting on top of the {THING:StructureBench}.</Value>
+      <Value>Presiona la tecla {KEY:Drop} para colocar {THING:ApplianceMicrowave} encima de {THING:StructureBench}. Sigue haciendo esto hasta que {THING:ApplianceMicrowave} esté encima de {THING:StructureBench}.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin3</Key>
-      <Value>Look at the {THING:ApplianceMicrowave}. Look at the side, rather than the door, so that you are targeting the item directly and not trying to open it. When you see a {COLORYELLOW:yellow box} hold down the {COLORRED:Left Mouse Button} to wrench it onto the {THING:StructureBench}.</Value>
+      <Value>Mira el {THING:ApplianceMicrowave}. Mire el costado, en lugar de la puerta, de modo que esté enfocando el artículo directamente y no intente abrirlo. Cuando vea un {COLORYELLOW:yellow box} mantenga presionado {COLORRED:Left Mouse Button} para convertirlo en {THING:StructureBench}.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin4</Key>
-      <Value>Look at the door on the {THING:ApplianceMicrowave}. Press the {COLORRED:Left Mouse Button} to open the door and allow you to put reagents inside.</Value>
+      <Value>Mire la puerta del {THING:ApplianceMicrowave}. Presione {COLORRED:Left Mouse Button} para abrir la puerta y permitirle colocar reactivos dentro.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin5</Key>
-      <Value>Pickup the required ingredients in your task list and look inside the {THING:ApplianceMicrowave} with it in your active hand. Hold {COLORRED:Left Mouse Button} to add more of the reagent until you have added enough. Do not add more than is needed for the recipe. You will need to do this twice for some recipes.</Value>
+      <Value>Recoge los ingredientes necesarios en tu lista de tareas y mira dentro de {THING:ApplianceMicrowave} con ella en tu mano activa. Mantenga presionada {COLORRED:Left Mouse Button} para agregar más reactivo hasta que haya agregado suficiente. No agregue más de lo necesario para la receta. Tendrá que hacer esto dos veces para algunas recetas.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin6</Key>
-      <Value>Now turn the {THING:ApplianceMicrowave} on by pressing the button on the right of the device. The device will now bake your recipe. If you have the recipe right, then you will have made a {THING:ItemMuffin}. If not, you will have nothing.</Value>
+      <Value>Ahora encienda {THING:ApplianceMicrowave} presionando el botón a la derecha del dispositivo. El dispositivo ahora horneará tu receta. Si tienes la receta correcta, habrás hecho {THING:ItemMuffin}. Si no, no tendrás nada.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin7</Key>
-      <Value>Open your {THING:ItemSpacepack} by pressing the {KEY:BackSlot} key. Cycle to the slot with the {THING:ItemWrench} using the {COLORRED:Mouse Wheel} and press the {KEY:InventorySelect} key to swap it into your hand.</Value>
+      <Value>Abra su {THING:ItemSpacepack} presionando la tecla {KEY:BackSlot} . Cámbiate a la ranura con {THING:ItemWrench} usando {COLORRED:Mouse Wheel} y presiona la tecla {KEY:InventorySelect} para cambiarlo a tu mano.</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin1</Key>
-      <Value>Pickup the {THING:ApplianceMicrowave}</Value>
+      <Value>Recoge el {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin2</Key>
-      <Value>Drop on the {THING:StructureBench}</Value>
+      <Value>Suelta en {THING:StructureBench}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin3</Key>
-      <Value>Wrench {THING:ApplianceMicrowave} into place</Value>
+      <Value>Llave inglesa {THING:ApplianceMicrowave} en su lugar</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin11</Key>
-      <Value>Get {THING:ItemWrench} from {THING:ItemSpacepack}</Value>
+      <Value>Obtenga {THING:ItemWrench} de {THING:ItemSpacepack}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin4</Key>
-      <Value>Put {COLORYELLOW:50g} of {THING:ItemFlour} into the {THING:ApplianceMicrowave}</Value>
+      <Value>Coloca {COLORYELLOW:50g} de {THING:ItemFlour} en {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin5</Key>
-      <Value>Put {COLORYELLOW:one} {THING:ItemEgg} into the {THING:ApplianceMicrowave}</Value>
+      <Value>Coloca {COLORYELLOW:one} {THING:ItemEgg} en {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin6</Key>
-      <Value>Put {COLORYELLOW:10ml} of {THING:ItemMilk} into the {THING:ApplianceMicrowave}</Value>
+      <Value>Coloca {COLORYELLOW:10ml} de {THING:ItemMilk} en {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin7</Key>
-      <Value>Open the {THING:ApplianceMicrowave}</Value>
+      <Value>Abra el {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin8</Key>
-      <Value>Make a {THING:ItemMuffin}</Value>
+      <Value>Haga un {THING:ItemMuffin}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin9</Key>
-      <Value>Close {THING:ApplianceMicrowave} door</Value>
+      <Value>Cerrar {THING:ApplianceMicrowave} puerta</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin10</Key>
-      <Value>Turn {THING:ApplianceMicrowave} on</Value>
+      <Value>Encienda {THING:ApplianceMicrowave} on</Value>
     </Record>
   </Interface>
 </Language>
