@@ -4,7 +4,7 @@ Spanish.xml 95%
 
 spanish_tips.xml 100%
 
-spanish_tutorial.xml 75%
+spanish_tutorial.xml 100%
 
 Discord Oficial https://discordapp.com/invite/CxR3mRy
 
