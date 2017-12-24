@@ -1,5 +1,11 @@
 Stationeers Traducción al castellano 95% (Translation into Spanish)
 
+Spanish.xml 95%
+
+spanish_tips.xml 100%
+
+spanish_tutorial.xml 75%
+
 Discord Oficial https://discordapp.com/invite/CxR3mRy
 
 Related Links
