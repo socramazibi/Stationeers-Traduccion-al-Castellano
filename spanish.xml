@@ -674,15 +674,15 @@
     </Record>
     <Record>
       <Key>ItemBatteryCell</Key>
-      <Value>Battery Cell (Pequeña)</Value>
+      <Value>Batería Cell (Pequeña)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCellLarge</Key>
-      <Value>Battery Cell (Grande)</Value>
+      <Value>Batería Cell (Grande)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCellNuclear</Key>
-      <Value>Battery Cell (Nuclear)</Value>
+      <Value>Batería Cell (Nuclear)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCharger</Key>
@@ -1318,7 +1318,7 @@
     </Record>
     <Record>
       <Key>StructureBatteryCharger</Key>
-      <Value>Cargador de Batería</Value>
+      <Value>Cargador de Baterías</Value>
     </Record>
     <Record>
       <Key>StructureBench</Key>
@@ -1334,19 +1334,19 @@
     </Record>
     <Record>
       <Key>StructureCableCorner3</Key>
-      <Value>Cable (3-vías de esquina))</Value>
+      <Value>Cable (3 Vías Esquina))</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction</Key>
-      <Value>Cable (Cruce)</Value>
+      <Value>Cable (Cruce 3 Vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4</Key>
-      <Value>Cable (unión de 4 vías)</Value>
+      <Value>Cable (unión 4 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6</Key>
-      <Value>Cable (unión de 6 vías)</Value>
+      <Value>Cable (unión 6 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraight</Key>
@@ -1514,7 +1514,7 @@
     </Record>
     <Record>
       <Key>StructureGasTankStorage</Key>
-      <Value>Almacenamiento de tanques de gas</Value>
+      <Value>Recargador de Bombonas</Value>
     </Record>
     <Record>
       <Key>StructureGlassDoor</Key>
@@ -1562,15 +1562,15 @@
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction3</Key>
-      <Value>Tubería (conexión de 3 vías)</Value>
+      <Value>Tubería (conexión 3 vías)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction5</Key>
-      <Value>Tubería (unión de 5 vía)</Value>
+      <Value>Tubería (unión 5 vía)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction6</Key>
-      <Value>Tubería (Unión de 6 vías)</Value>
+      <Value>Tubería (Unión 6 vías)</Value>
     </Record>
     <Record>
       <Key>StructurePipeLabel</Key>
@@ -1640,7 +1640,7 @@
       <Key>StructureStackerReverse</Key>
       <Value>Apilador</Value>
     </Record>
-    <Record>		
+    <Record>
       <Key>StructureStairs4x2</Key>
       <Value>Escalera</Value>
     </Record>
@@ -1674,7 +1674,7 @@
     </Record>
     <Record>
       <Key>StructureTorpedoTube</Key>
-      <Value>Lanzar Torpedo</Value>
+      <Value>Lanzador de Torpedo</Value>
     </Record>
     <Record>
       <Key>StructureValve</Key>
@@ -2288,11 +2288,11 @@
     </Record>
     <Record>
       <Key>Import</Key>
-      <Value>Import</Value>
+      <Value>Importar</Value>
     </Record>
     <Record>
       <Key>Export</Key>
-      <Value>Export</Value>
+      <Value>Exportar</Value>
     </Record>
     <Record>
       <Key>Seat</Key>
@@ -3246,11 +3246,11 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>TooltipUpgrade2</Key>
-      <Value>Una vez colocado usa {0} y {1} para la actualizar.</Value>
+      <Value>Una vez colocado usa {0} y {1} para Actualizar.</Value>
     </Record>
     <Record>
       <Key>TooltipUpgrade</Key>
-      <Value>Una vez colocado usa {0} para la actualizar.</Value>
+      <Value>Una vez colocado usa {0} para actualizar.</Value>
     </Record>
     <Record>
       <Key>TooltipAllowsMounting</Key>
