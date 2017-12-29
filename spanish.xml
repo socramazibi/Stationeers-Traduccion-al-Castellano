@@ -176,11 +176,11 @@
     </Record>
     <Record>
       <Key>Pickup</Key>
-      <Value>Agarrar</Value>
+      <Value>Recoger</Value>
     </Record>
     <Record>
       <Key>Take</Key>
-      <Value>Agarrar</Value>
+      <Value>Coger</Value>
     </Record>
     <Record>
       <Key>Build</Key>
@@ -1010,7 +1010,7 @@
     </Record>
     <Record>
       <Key>ItemLightSword</Key>
-      <Value>Light Sword</Value>
+      <Value>Espada de Luz</Value>
     </Record>
     <Record>
       <Key>ItemMilk</Key>
@@ -1214,7 +1214,7 @@
     </Record>
     <Record>
       <Key>ItemTankConnector</Key>
-      <Value>Tank Connector</Value>
+      <Value>Conector de Tanques</Value>
     </Record>
     <Record>
       <Key>ItemToolBelt</Key>
@@ -1594,7 +1594,7 @@
     </Record>
     <Record>
       <Key>StructurePowerConnector</Key>
-      <Value>Power Connector</Value>
+      <Value>Conector de Energia</Value>
     </Record>
     <Record>
       <Key>StructurePressureRegulator</Key>
@@ -1606,15 +1606,15 @@
     </Record>
     <Record>
       <Key>StructureRocketEngine</Key>
-      <Value>Rocket Engine</Value>
+      <Value>Motor cohete</Value>
     </Record>
     <Record>
       <Key>StructureRocketEngineSmall</Key>
-      <Value>Rocket Engine (Small)</Value>
+      <Value>Motor cohete (Pequeño)</Value>
     </Record>
     <Record>
       <Key>StructureRocketEngineTiny</Key>
-      <Value>Motor Cohete(Pequeño)</Value>
+      <Value>Motor Cohete(Minúsculo)</Value>
     </Record>
     <Record>
       <Key>StructureRTG</Key>
@@ -1646,7 +1646,7 @@
     </Record>
     <Record>
       <Key>StructureStellarAnchor</Key>
-      <Value>Stellar Anchor</Value>
+      <Value>Ancla Estelar</Value>
     </Record>
     <Record>
       <Key>StructureSuitStorage</Key>
@@ -1826,7 +1826,7 @@
     </Record>
     <Record>
       <Key>StructureChuteWindow</Key>
-      <Value>Structure Chute Window</Value>
+      <Value>Ventana del Conducto</Value>
     </Record>
     <Record>
       <Key>StructureArcFurnace</Key>
@@ -1922,7 +1922,7 @@
     </Record>
     <Record>
       <Key>ItemSoybean</Key>
-      <Value>Soybean</Value>
+      <Value>Haba de Soja</Value>
     </Record>
     <Record>
       <Key>ItemAngleGrinder</Key>
@@ -1970,7 +1970,7 @@
     </Record>
     <Record>
       <Key>SpawnPoint</Key>
-      <Value>Spawn Point</Value>
+      <Value>Punto de Aparicion</Value>
     </Record>
     <Record>
       <Key>ItemKitCube</Key>
