@@ -1,4 +1,4 @@
-Stationeers Traducción al castellano 95% (Translation into Spanish)
+Stationeers Traducción al castellano (Translation into Spanish)
 
 v0.1.1082.5494
 
