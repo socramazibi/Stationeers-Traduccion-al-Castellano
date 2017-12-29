@@ -2172,6 +2172,14 @@
       <Key>ItemKitRecycler</Key>
       <Value>Kit (Reciclador)</Value>
     </Record>
+    <Record>
+      <Key>ItemCableAnalyser</Key>
+      <Value>Kit (Analizador de Cable)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableAnalysizer</Key>
+      <Value>Analizador de Cable</Value>
+    </Record>			 
   </Things>
   <Slots>
     <Record>
