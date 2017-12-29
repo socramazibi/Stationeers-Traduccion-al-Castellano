@@ -1,5 +1,7 @@
 Stationeers Traducción al castellano 95% (Translation into Spanish)
 
+v0.1.1082.5494
+
 Spanish.xml 95%
 
 spanish_tips.xml 100%
