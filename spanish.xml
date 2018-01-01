@@ -934,7 +934,7 @@
     </Record>
     <Record>
       <Key>ItemKitCryoTube</Key>
-      <Value>Kit Construcción (Tubo criogénico)</Value>
+      <Value>Kit Construcción (Tubo Criogénico)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngine</Key>
@@ -2058,7 +2058,7 @@
     </Record>
     <Record>
       <Key>StructureToolManufactory</Key>
-      <Value>Fabricador herramientas</Value>
+      <Value>Fabricador Herramientas</Value>
     </Record>
     <Record>
       <Key>ItemKitToolManufactory</Key>
@@ -2178,7 +2178,7 @@
     </Record>
     <Record>
       <Key>StructureCableAnalysizer</Key>
-      <Value>Cable Analyzer</Value>
+      <Value>Cable Analizador</Value>
     </Record>
     <Record>
       <Key>StructureLogicDial</Key>
@@ -2186,11 +2186,11 @@
     </Record>
     <Record>
       <Key>StructureConsoleLED1x2</Key>
-      <Value>LED Display (Medium)</Value>
+      <Value>LED Display (Mediano)</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED1x3</Key>
-      <Value>LED Display (Large)</Value>
+      <Value>LED Display (Grande)</Value>
     </Record>
   </Things>
   <Slots>
@@ -2296,7 +2296,7 @@
     </Record>
     <Record>
       <Key>DataDisk</Key>
-      <Value>Data Disk</Value>
+      <Value>Disco Datos</Value>
     </Record>
     <Record>
       <Key>Appliance1</Key>
@@ -2670,11 +2670,11 @@
     </Record>
     <Record>
       <Key>Increase</Key>
-      <Value>Increase</Value>
+      <Value>Incrementar</Value>
     </Record>
     <Record>
       <Key>Decrease</Key>
-      <Value>Decrease</Value>
+      <Value>Disminuir</Value>
     </Record>
     <Record>
       <Key>Color</Key>
@@ -3310,7 +3310,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
-      <Value>Información Herramientas Translucido</Value>
+      <Value>Info. Herramientas Translucido</Value>
     </Record>
     <Record>
       <Key>MenuDownloadDriverButton</Key>
