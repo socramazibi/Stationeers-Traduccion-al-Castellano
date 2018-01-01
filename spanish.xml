@@ -176,11 +176,11 @@
     </Record>
     <Record>
       <Key>Pickup</Key>
-      <Value>Recoger</Value>
+      <Value>Agarrar</Value>
     </Record>
     <Record>
       <Key>Take</Key>
-      <Value>Coger</Value>
+      <Value>Agarrar</Value>
     </Record>
     <Record>
       <Key>Build</Key>
@@ -2178,8 +2178,20 @@
     </Record>
     <Record>
       <Key>StructureCableAnalysizer</Key>
-      <Value>Analizador de Cable</Value>
-    </Record>			 
+      <Value>Cable Analyzer</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicDial</Key>
+      <Value>Dial</Value>
+    </Record>
+    <Record>
+      <Key>StructureConsoleLED1x2</Key>
+      <Value>LED Display (Medium)</Value>
+    </Record>
+    <Record>
+      <Key>StructureConsoleLED1x3</Key>
+      <Value>LED Display (Large)</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -2663,6 +2675,10 @@
     <Record>
       <Key>Decrease</Key>
       <Value>Decrease</Value>
+    </Record>
+    <Record>
+      <Key>Color</Key>
+      <Value>Color</Value>
     </Record>
   </Interactables>
   <Interface>
@@ -3307,6 +3323,10 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     <Record>
       <Key>SettingsChatFadeTimer</Key>
       <Value>Chat Fade Delay</Value>
+    </Record>
+    <Record>
+      <Key>TooltipNeedMoreKit</Key>
+      <Value>&lt;color=red&gt;Need more {0}&lt;/color&gt;.</Value>
     </Record>
   </Interface>
   <Colors>
