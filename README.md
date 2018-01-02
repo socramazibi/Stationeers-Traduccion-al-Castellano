@@ -1,6 +1,6 @@
 Stationeers Traducción al castellano (Translation into Spanish)
 
-v0.1.1089.5513  01-01-2018
+Versión: v0.1.1089.5513       FECHA = 01-01-2018
 
 Spanish.xml
 
