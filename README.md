@@ -1,7 +1,5 @@
 Stationeers Traducción al castellano (Translation into Spanish)
 
-Stationeers Steam http://store.steampowered.com/app/544550/Stationeers/
-
 v0.1.1089.5513  01-01-2018
 
 Spanish.xml
