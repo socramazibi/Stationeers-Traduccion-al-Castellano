@@ -1,11 +1,9 @@
-#Stationeers Traducción al castellano (Translation into Spanish)
+# Stationeers Traducción al castellano (Translation into Spanish)
 
 
-``[javascript]
-
+```[javascript]
 Versión: v0.1.1089.5513       FECHA = 01-01-2018
-
-``
+```
 
 1. Spanish.xml
 
@@ -15,14 +13,14 @@ Versión: v0.1.1089.5513       FECHA = 01-01-2018
 
 4. Spanish_keys.xml (No traducido)
 
-###Discord Oficial https://discordapp.com/invite/CxR3mRy
+### Discord Oficial https://discordapp.com/invite/CxR3mRy
 
-###Related Links
-###Steam - http://store.steampowered.com/app/544550/Stationeers/
+### Related Links
+### Steam - http://store.steampowered.com/app/544550/Stationeers/
 
-###Website - https://stationeers.com/
+### Website - https://stationeers.com/
 
-###Twitter - https://twitter.com/stationeers
+### Twitter - https://twitter.com/stationeers
 
 
 Donde copiar los archivos:
