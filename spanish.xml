@@ -96,7 +96,7 @@
     </RecordReagent>
     <RecordReagent>
       <Key>Silicon</Key>
-      <Value>Silicon</Value>
+      <Value>Silicio</Value>
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
@@ -111,7 +111,7 @@
     </RecordReagent>
     <RecordReagent>
       <Key>Oil</Key>
-      <Value>Oil</Value>
+      <Value>Aceite</Value>
       <Unit>ml</Unit>
     </RecordReagent>
   </Reagents>
@@ -1654,7 +1654,7 @@
     </Record>
     <Record>
       <Key>StructureTankConnector</Key>
-      <Value>Tank Connector</Value>
+      <Value>Conector de Tanque</Value>
     </Record>
     <Record>
       <Key>StructureTankSmall</Key>
@@ -2646,15 +2646,15 @@
     </Record>
     <Record>
       <Key>Hatch</Key>
-      <Value>Hatch</Value>
+      <Value>Escotilla(/Value>
     </Record>
     <Record>
       <Key>Grow</Key>
-      <Value>Grow</Value>
+      <Value>Crecer</Value>
     </Record>
     <Record>
       <Key>LayEgg</Key>
-      <Value>Lay Egg</Value>
+      <Value>Poner Huevo</Value>
     </Record>
     <Record>
       <Key>Eat</Key>
@@ -2666,7 +2666,7 @@
     </Record>
     <Record>
       <Key>Setting</Key>
-      <Value>Setting</Value>
+      <Value>Ajuste</Value>
     </Record>
     <Record>
       <Key>Increase</Key>
