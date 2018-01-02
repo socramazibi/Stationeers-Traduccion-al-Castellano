@@ -1,5 +1,6 @@
-# Stationeers Traducción al castellano (Translation into Spanish)
+# Stationeers Traducción al castellano
 
+(Translation into Spanish)
 
 ```[javascript]
 Versión: v0.1.1089.5513       FECHA = 01-01-2018
