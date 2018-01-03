@@ -3358,7 +3358,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>PromptOverwriteBody</Key>
-      <Value>¿Seguro que quieres sobrescribir el mundo guardado existente?</Value>
+      <Value>Seguro que quieres sobrescribir el mundo guardado existente?</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
@@ -3370,7 +3370,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>PromptPublishBody</Key>
-      <Value>¿Seguro que quieres publicar este mundo en el workshop?</Value>
+      <Value>Seguro que quieres publicar este mundo en el workshop?</Value>
     </Record>
     <Record>
       <Key>PromptPublishConfirm</Key>
@@ -3382,7 +3382,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>PromptDeleteBody</Key>
-      <Value>¿Estás Seguro?</Value>
+      <Value>Estás Seguro?</Value>
     </Record>
     <Record>
       <Key>PromptDeleteConfirm</Key>
@@ -3394,7 +3394,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>PromptDebugLoadBody</Key>
-      <Value>¿Estás seguro de que quieres cargar este mundo con solo un personaje?</Value>
+      <Value>Estás seguro de que quieres cargar este mundo con solo un personaje?</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadConfirm</Key>
