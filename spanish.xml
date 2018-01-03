@@ -2140,6 +2140,10 @@
       <Key>StructureSign1x1</Key>
       <Value>Cartel 1x1</Value>
     </Record>
+	<Record>
+      <Key>StructureSign2x1</Key>
+      <Value>Cartel 2x1</Value>			 
+    </Record>
     <Record>
       <Key>StructureConsoleLED5Large</Key>
       <Value>Pantalla LED (Mediana)</Value>
@@ -2646,7 +2650,7 @@
     </Record>
     <Record>
       <Key>Hatch</Key>
-      <Value>Escotilla(/Value>
+      <Value>Escotilla</Value>
     </Record>
     <Record>
       <Key>Grow</Key>
@@ -3323,6 +3327,122 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     <Record>
       <Key>SettingsChatFadeTimer</Key>
       <Value>Chat Fade Delay</Value>
+    </Record>
+	<Record>
+      <Key>PromptResetSettingsTitle</Key>
+      <Value>Reiniciar Ajustes</Value>
+    </Record>
+	<Record>
+      <Key>PromptResetSettingsBody</Key>
+      <Value>¿Estás Seguro?</Value>
+    </Record>
+	<Record>
+      <Key>PromptResetSettingsConfirm</Key>
+      <Value>Restablecer</Value>
+    </Record>
+    <Record>
+      <Key>PromptQuitTitle</Key>
+      <Value>Salir Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>PromptQuitBody</Key>
+      <Value>¿Seguro que quieres salir?</Value>
+    </Record>
+    <Record>
+      <Key>PromptQuitConfirm</Key>
+      <Value>Salir</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteTitle</Key>
+      <Value>Sobrescribir</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteBody</Key>
+      <Value>¿Seguro que quieres sobrescribir el mundo guardado existente?</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteConfirm</Key>
+      <Value>Sobrescribir</Value>
+    </Record>
+    <Record>
+      <Key>PromptPublishTitle</Key>
+      <Value>Publicar en el Workshop</Value>
+    </Record>
+    <Record>
+      <Key>PromptPublishBody</Key>
+      <Value>¿Seguro que quieres publicar este mundo en el workshop?</Value>
+    </Record>
+    <Record>
+      <Key>PromptPublishConfirm</Key>
+      <Value>Publicar</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteTitle</Key>
+      <Value>Eliminar Partida Guardada</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteBody</Key>
+      <Value>¿Estás Seguro?</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteConfirm</Key>
+      <Value>Eliminar</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadTitle</Key>
+      <Value>Carga de Depuración</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadBody</Key>
+      <Value>¿Estás seguro de que quieres cargar este mundo con solo un personaje?</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadConfirm</Key>
+      <Value>Carga de Depuración</Value>
+    </Record>
+    <Record>
+      <Key>AlertInvalidIP</Key>
+      <Value>Dirección IP no válida {0} \nVerificar dirección IP o una URL válida</Value>
+    </Record>
+    <Record>
+      <Key>AlertPlayerCountExceeded</Key>
+      <Value>El servidor está lleno.</Value>
+    </Record>
+    <Record>
+      <Key>AlertVersionMismatch</Key>
+      <Value>La versión del juego no coincide con el servidor.</Value>
+    </Record>
+    <Record>
+      <Key>AlertNoResponse</Key>
+      <Value>No hay respuesta del Servidor.\n\n Por favor, inténtelo de nuevo.</Value>
+    </Record>
+    <Record>
+      <Key>AlertKicked</Key>
+      <Value>Has sido expulsado del servidor.</Value>
+    </Record>
+    <Record>
+      <Key>AlertWrongPassword</Key>
+      <Value>Contraseña del servidor incorrecta.</Value>
+    </Record>
+    <Record>
+      <Key>AlertInvalidPort</Key>
+      <Value>Los valores del puerto deben estar entre 0 y 65535.</Value>
+    </Record>
+    <Record>
+      <Key>AlertCannotUpdatePort</Key>
+      <Value>No se puede modificar el puerto de actualización mientras el servidor se está ejecutando.</Value>
+    </Record>
+    <Record>
+      <Key>AlertBlankSaveName</Key>
+      <Value>Debes ingresar un nombre para el mundo para guardar.</Value>
+    </Record>
+    <Record>
+      <Key>AlertTitleAttention</Key>
+      <Value>ATENCIÓN</Value>
+    </Record>
+    <Record>
+      <Key>AlertTitlePleaseWait</Key>
+      <Value>Por Favor Espera...</Value>
     </Record>
     <Record>
       <Key>TooltipNeedMoreKit</Key>
