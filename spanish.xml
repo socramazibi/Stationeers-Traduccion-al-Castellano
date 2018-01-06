@@ -3133,11 +3133,11 @@
     </Record>
     <Record>
       <Key>ButtoConfirmExitAsServer</Key>
-      <Value>¿Estás seguro de que quieres salir del juego sin guardar? Cualquier progreso no guardado se perdera.</Value>
+      <Value>Estás seguro de que quieres salir del juego sin guardar? Cualquier progreso no guardado se perdera.</Value>
     </Record>
     <Record>
       <Key>DialogConfirmNoticeUnsaved</Key>
-      <Value>¿Estás seguro de querer salir de la sesión sin guardar? Cualquier progreso no guardado se perderá.</Value>
+      <Value>Estás seguro de querer salir de la sesión sin guardar? Cualquier progreso no guardado se perderá.</Value>
     </Record>
     <Record>
       <Key>ButtonExit</Key>
@@ -3149,7 +3149,7 @@
     </Record>
     <Record>
       <Key>DialogConfirmNoticeClientLeaving</Key>
-      <Value>¿Estás seguro de que quieres abandonar la sesión?</Value>
+      <Value>Estás seguro de que quieres abandonar la sesión?</Value>
     </Record>
     <Record>
       <Key>SettingsPopupChat</Key>
@@ -3335,7 +3335,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
 	<Record>
       <Key>PromptResetSettingsBody</Key>
-      <Value>¿Estás Seguro?</Value>
+      <Value>Estás Seguro?</Value>
     </Record>
 	<Record>
       <Key>PromptResetSettingsConfirm</Key>
@@ -3347,7 +3347,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>PromptQuitBody</Key>
-      <Value>¿Seguro que quieres salir?</Value>
+      <Value>Seguro que quieres salir?</Value>
     </Record>
     <Record>
       <Key>PromptQuitConfirm</Key>
