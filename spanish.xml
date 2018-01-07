@@ -233,11 +233,11 @@
     </Record>
     <Record>
       <Key>False</Key>
-      <Value>False</Value>
+      <Value>Incorrecto</Value>
     </Record>
     <Record>
       <Key>True</Key>
-      <Value>True</Value>
+      <Value>Correcto</Value>
     </Record>
     <Record>
       <Key>Construct</Key>
@@ -245,7 +245,7 @@
     </Record>
     <Record>
       <Key>Deconstruct</Key>
-      <Value>Deconstruir</Value>
+      <Value>Desmontar</Value>
     </Record>
     <Record>
       <Key>Disconnect</Key>
@@ -265,7 +265,7 @@
     </Record>
     <Record>
       <Key>GetIn</Key>
-      <Value>Get In</Value>
+      <Value>Entrar</Value>
     </Record>
     <Record>
       <Key>Error</Key>
@@ -559,7 +559,7 @@
     </Record>
     <Record>
       <Key>CircuitboardSolarControl</Key>
-      <Value>Placa Circuito (Solar Control)</Value>
+      <Value>Placa Circuito (Control Solar)</Value>
     </Record>
     <Record>
       <Key>DynamicAirConditioner</Key>
@@ -895,11 +895,11 @@
     </Record>
     <Record>
       <Key>ItemIronIngot</Key>
-      <Value>Lingote (Iron)</Value>
+      <Value>Lingote (Hierro)</Value>
     </Record>
     <Record>
       <Key>ItemIronOre</Key>
-      <Value>Mineral (Iron)</Value>
+      <Value>Mineral (Hierro)</Value>
     </Record>
     <Record>
       <Key>ItemKitAirlock</Key>
@@ -943,7 +943,7 @@
     </Record>
     <Record>
       <Key>ItemKitFabricator</Key>
-      <Value>Kit (Fabricante)</Value>
+      <Value>Kit (Impresora Informatizada)</Value>
     </Record>
     <Record>
       <Key>ItemKitFurnace</Key>
@@ -971,11 +971,11 @@
     </Record>
     <Record>
       <Key>ItemKitSleeper</Key>
-      <Value>Kit (Sleeper)</Value>
+      <Value>Kit (Cama)</Value>
     </Record>
     <Record>
       <Key>ItemKitSolarPanel</Key>
-      <Value>Kit (Paneles Solares)</Value>
+      <Value>Kit (Panel Solar)</Value>
     </Record>
     <Record>
       <Key>ItemKitStairs</Key>
@@ -1071,11 +1071,11 @@
     </Record>
     <Record>
       <Key>ItemPipeDigitalValve</Key>
-      <Value>Válvula digital de tubería</Value>
+      <Value>Válvula Digital de Tubería</Value>
     </Record>
     <Record>
       <Key>ItemPipeGasMixer</Key>
-      <Value>Tubería mezclador de gases</Value>
+      <Value>Tubería Mezclador de Gases</Value>
     </Record>
     <Record>
       <Key>ItemPipeLabel</Key>
@@ -1083,7 +1083,7 @@
     </Record>
     <Record>
       <Key>ItemPipeMeter</Key>
-      <Value>Medidor de tubería</Value>
+      <Value>Medidor de Tubería</Value>
     </Record>
     <Record>
       <Key>ItemPipeRadiator</Key>
@@ -1479,7 +1479,7 @@
     </Record>
     <Record>
       <Key>StructureFabricator</Key>
-      <Value>Fabricator</Value>
+      <Value>Impresora Informatizada</Value>
     </Record>
     <Record>
       <Key>StructureFiltration</Key>
@@ -1579,7 +1579,7 @@
     </Record>
     <Record>
       <Key>StructurePipeMeter</Key>
-      <Value>Tubería Medidor</Value>
+      <Value>Medidor de Tubería</Value>
     </Record>
     <Record>
       <Key>StructurePipeRadiator</Key>
@@ -1623,7 +1623,7 @@
     </Record>
     <Record>
       <Key>StructureSleeper</Key>
-      <Value>Sleeper</Value>
+      <Value>Cama</Value>
     </Record>
     <Record>
       <Key>StructureSolarPanel</Key>
@@ -1679,7 +1679,7 @@
     </Record>
     <Record>
       <Key>StructureValve</Key>
-      <Value>Valvula</Value>
+      <Value>Válvula</Value>
     </Record>
     <Record>
       <Key>StructureVolumePump</Key>
@@ -1831,11 +1831,11 @@
     </Record>
     <Record>
       <Key>StructureArcFurnace</Key>
-      <Value>Arc Furnace</Value>
+      <Value>Horno de Arco</Value>
     </Record>
     <Record>
       <Key>StructureAutolathe</Key>
-      <Value>Autolathe</Value>
+      <Value>Torno Automático</Value>
     </Record>
     <Record>
       <Key>ItemKitFabrication</Key>
@@ -1911,7 +1911,7 @@
     </Record>
     <Record>
       <Key>ItemSolderIngot</Key>
-      <Value>Lingote (Solder)</Value>
+      <Value>Lingote (Estaño)</Value>
     </Record>
     <Record>
       <Key>ApplianceChemistryStation</Key>
@@ -1947,7 +1947,7 @@
     </Record>
     <Record>
       <Key>StructureElectronicsPrinter</Key>
-      <Value>Electronics Printer</Value>
+      <Value>Impresora Electrónica</Value>
     </Record>
     <Record>
       <Key>ItemVolatiles</Key>
@@ -2011,7 +2011,7 @@
     </Record>
     <Record>
       <Key>ItemKitElectronicsPrinter</Key>
-      <Value>Kit (Electronics Printer)</Value>
+      <Value>Kit (Impresora Electrónica)</Value>
     </Record>
     <Record>
       <Key>ItemKitDoor</Key>
@@ -2019,7 +2019,7 @@
     </Record>
     <Record>
       <Key>ItemKitAutolathe</Key>
-      <Value>Kit (Autolathe)</Value>
+      <Value>Kit (Torno Automático)</Value>
     </Record>
     <Record>
       <Key>ItemKitBlastDoor</Key>
@@ -2027,7 +2027,7 @@
     </Record>
     <Record>
       <Key>ItemKitArcFurnace</Key>
-      <Value>Kit (Arc Furnace)</Value>
+      <Value>Kit (Horno de Arco)</Value>
     </Record>
     <Record>
       <Key>StructureHydraulicPipeBender</Key>
@@ -2151,7 +2151,7 @@
     </Record>
     <Record>
       <Key>StructureSolarPanelDual</Key>
-      <Value>Solar Panel</Value>
+      <Value>Panel Solar</Value>
     </Record>
     <Record>
       <Key>StructureLogicBatchWriter</Key>
