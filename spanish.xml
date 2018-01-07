@@ -177,11 +177,11 @@
     </Record>
     <Record>
       <Key>Pickup</Key>
-      <Value>Agarrar</Value>
+      <Value>Recoger</Value>
     </Record>
     <Record>
       <Key>Take</Key>
-      <Value>Agarrar</Value>
+      <Value>Coger</Value>
     </Record>
     <Record>
       <Key>Build</Key>
@@ -225,7 +225,7 @@
     </Record>
     <Record>
       <Key>Powered</Key>
-      <Value>Con Energia</Value>
+      <Value>Con Energía</Value>
     </Record>
     <Record>
       <Key>Unpowered</Key>
@@ -531,11 +531,11 @@
     </Record>
     <Record>
       <Key>CircuitboardAirlockControl</Key>
-      <Value>Placa Circuito (Airlock Control)</Value>
+      <Value>Placa Circuito (Control de Esclusa)</Value>
     </Record>
     <Record>
       <Key>CircuitboardCameraDisplay</Key>
-      <Value>Placa Circuito (Camara Monitor)</Value>
+      <Value>Placa Circuito (Monitor Cámaras)</Value>
     </Record>
     <Record>
       <Key>CircuitboardDoorControl</Key>
@@ -543,15 +543,15 @@
     </Record>
     <Record>
       <Key>CircuitboardGasDisplay</Key>
-      <Value>Placa Circuito (Indicador Gas)</Value>
+      <Value>Placa Circuito (Medidor de Gas)</Value>
     </Record>
     <Record>
       <Key>CircuitboardModeControl</Key>
-      <Value>Placa Circuito (Mode Control)</Value>
+      <Value>Placa Circuito (Control Modos)</Value>
     </Record>
     <Record>
       <Key>CircuitboardPowerControl</Key>
-      <Value>Placa Circuito (Control Potencia)</Value>
+      <Value>Placa Circuito (Control Energía)</Value>
     </Record>
     <Record>
       <Key>CircuitboardShipDisplay</Key>
@@ -631,7 +631,7 @@
     </Record>
     <Record>
       <Key>EffectSplatEgg</Key>
-      <Value>Effect Splat Egg</Value>
+      <Value>Huevo de efecto splash</Value>
     </Record>
     <Record>
       <Key>EntityAlien</Key>
@@ -671,19 +671,19 @@
     </Record>
     <Record>
       <Key>ItemAreaPowerControl</Key>
-      <Value>Controlador de Potencia</Value>
+      <Value>Controlador de Energía</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCell</Key>
-      <Value>Batería Cell (Pequeña)</Value>
+      <Value>Batería (Pequeña)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCellLarge</Key>
-      <Value>Batería Cell (Grande)</Value>
+      <Value>Batería (Grande)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCellNuclear</Key>
-      <Value>Batería Cell (Nuclear)</Value>
+      <Value>Batería (Nuclear)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCharger</Key>
@@ -699,23 +699,23 @@
     </Record>
     <Record>
       <Key>ItemChemLightBlue</Key>
-      <Value>Luz Quimica (Azul)</Value>
+      <Value>Luz Química (Azul)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightGreen</Key>
-      <Value>Luz Quimica (Verde)</Value>
+      <Value>Luz Química (Verde)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightRed</Key>
-      <Value>Luz Quimica (Rojo)</Value>
+      <Value>Luz Química (Rojo)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightWhite</Key>
-      <Value>Luz Quimica (Blanco)</Value>
+      <Value>Luz Química (Blanco)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightYellow</Key>
-      <Value>Luz Quimica (Amarillo)</Value>
+      <Value>Luz Química (Amarillo)</Value>
     </Record>
     <Record>
       <Key>ItemCoalOre</Key>
@@ -723,7 +723,7 @@
     </Record>
     <Record>
       <Key>ItemCompositeFloorGrating</Key>
-      <Value>Suelo Rejilla</Value>
+      <Value>Rejilla de Suelo</Value>
     </Record>
     <Record>
       <Key>ItemCopperIngot</Key>
@@ -751,7 +751,7 @@
     </Record>
     <Record>
       <Key>ItemDuctTape</Key>
-      <Value>Cinta adhesiva</Value>
+      <Value>Cinta Adhesiva</Value>
     </Record>
     <Record>
       <Key>ItemDynamite</Key>
@@ -1307,7 +1307,7 @@
     </Record>
     <Record>
       <Key>StructureAreaPowerControlReversed</Key>
-      <Value>Área de Control de energía</Value>
+      <Value>Área de Control de Energía</Value>
     </Record>
     <Record>
       <Key>StructureBackPressureRegulator</Key>
@@ -1595,7 +1595,7 @@
     </Record>
     <Record>
       <Key>StructurePowerConnector</Key>
-      <Value>Conector de Energia</Value>
+      <Value>Conector de Energía</Value>
     </Record>
     <Record>
       <Key>StructurePressureRegulator</Key>
@@ -1823,7 +1823,7 @@
     </Record>
     <Record>
       <Key>WeaponPistolEnergy</Key>
-      <Value>Pistola Energia</Value>
+      <Value>Pistola Energía</Value>
     </Record>
     <Record>
       <Key>StructureChuteWindow</Key>
