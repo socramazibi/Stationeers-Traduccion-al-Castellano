@@ -1207,7 +1207,7 @@
     </Record>
     <Record>
       <Key>ItemSuitStorage</Key>
-      <Value>Almacen de Trajes</Value>
+      <Value>Soporte de Trajes</Value>
     </Record>
     <Record>
       <Key>ItemTablet</Key>
@@ -1335,7 +1335,7 @@
     </Record>
     <Record>
       <Key>StructureCableCorner3</Key>
-      <Value>Cable (3 Vías Esquina))</Value>
+      <Value>Cable (Esquina 3 Vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction</Key>
@@ -1355,7 +1355,7 @@
     </Record>
     <Record>
       <Key>StructureCamera</Key>
-      <Value>Camara</Value>
+      <Value>Cámara</Value>
     </Record>
     <Record>
       <Key>StructureCentrifuge</Key>
@@ -1395,7 +1395,7 @@
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating</Key>
-      <Value>Suelo de Rejilla Compuesto</Value>
+      <Value>Rejilla de Suelo Compuesto</Value>
     </Record>
     <Record>
       <Key>StructureCompositeWall</Key>
@@ -1439,7 +1439,7 @@
     </Record>
     <Record>
       <Key>StructureConsoleMonitor</Key>
-      <Value>Consola Monitor</Value>
+      <Value>Monitor de Consola </Value>
     </Record>
     <Record>
       <Key>StructureControlChair</Key>
@@ -1467,7 +1467,7 @@
     </Record>
     <Record>
       <Key>StructureCryoTube</Key>
-      <Value>CryoTube</Value>
+      <Value>CrioTubo</Value>
     </Record>
     <Record>
       <Key>StructureDaylightSensor</Key>
