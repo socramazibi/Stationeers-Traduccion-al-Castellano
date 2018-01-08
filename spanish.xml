@@ -144,7 +144,7 @@
   </Gases>
   <Actions>
     <Record>
-      <Key>Paint</Key>
+      <Key>Pintura</Key>
       <Value>Pintura</Value>
     </Record>
     <Record>
@@ -743,7 +743,7 @@
     </Record>
     <Record>
       <Key>ItemDataDisk</Key>
-      <Value>Disco de datos</Value>
+      <Value>Disco de Datos</Value>
     </Record>
     <Record>
       <Key>ItemDrill</Key>
@@ -763,7 +763,7 @@
     </Record>
     <Record>
       <Key>ItemEggBottom</Key>
-      <Value>Fondo de huevo</Value>
+      <Value>Parte inferior del huevo</Value>
     </Record>
     <Record>
       <Key>ItemEggCarton</Key>
@@ -771,7 +771,7 @@
     </Record>
     <Record>
       <Key>ItemEggTop</Key>
-      <Value>Huevo superior</Value>
+      <Value>Parte superior del huevo</Value>
     </Record>
     <Record>
       <Key>ItemEvaSuit</Key>
@@ -803,7 +803,7 @@
     </Record>
     <Record>
       <Key>ItemGasCanisterEmpty</Key>
-      <Value>Bombona</Value>
+      <Value>Bombona Vacía</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterFuel</Key>
@@ -887,7 +887,7 @@
     </Record>
     <Record>
       <Key>ItemIgniter</Key>
-      <Value>Igniter</Value>
+      <Value>Encendedor</Value>
     </Record>
     <Record>
       <Key>ItemInsulation</Key>
@@ -903,7 +903,7 @@
     </Record>
     <Record>
       <Key>ItemKitAirlock</Key>
-      <Value>Kit (Airlock)</Value>
+      <Value>Kit (Esclusa)</Value>
     </Record>
     <Record>
       <Key>ItemKitAtmospherics</Key>
@@ -983,7 +983,7 @@
     </Record>
     <Record>
       <Key>ItemKitStellarAnchor</Key>
-      <Value>Kit Construcción (Stellar Anchor)</Value>
+      <Value>Kit Construcción (Anclar Estelar)</Value>
     </Record>
     <Record>
       <Key>ItemKitStorage</Key>
@@ -995,7 +995,7 @@
     </Record>
     <Record>
       <Key>ItemKitTorpedoTube</Key>
-      <Value>Kit Construcción (Torpedo Launcher)</Value>
+      <Value>Kit Construcción (Tubo LanzaTorpedos)</Value>
     </Record>
     <Record>
       <Key>ItemKitTurret</Key>
@@ -1143,55 +1143,55 @@
     </Record>
     <Record>
       <Key>ItemSpacepack</Key>
-      <Value>Jetpack</Value>
+      <Value>Mochila Propulsora</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanBlack</Key>
-      <Value>Spray Paint (Negro)</Value>
+      <Value>Spray Pintura (Negro)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanBlue</Key>
-      <Value>Spray Paint (Azul)</Value>
+      <Value>Spray Pintura (Azul)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanBrown</Key>
-      <Value>Spray Paint (Marrón)</Value>
+      <Value>Spray Pintura (Marrón)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanGreen</Key>
-      <Value>Spray Paint (Verde)</Value>
+      <Value>Spray Pintura (Verde)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanGrey</Key>
-      <Value>Spray Paint (Gris)</Value>
+      <Value>Spray Pintura (Gris)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanKhaki</Key>
-      <Value>Spray Paint (Caqui)</Value>
+      <Value>Spray Pintura (Caqui)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanOrange</Key>
-      <Value>Spray Paint (Naranja)</Value>
+      <Value>Spray Pintura (Naranja)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanPink</Key>
-      <Value>Spray Paint (Rosa)</Value>
+      <Value>Spray Pintura (Rosa)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanPurple</Key>
-      <Value>Spray Paint (Purpura)</Value>
+      <Value>Spray Pintura (Purpura)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanRed</Key>
-      <Value>Spray Paint (Rojo)</Value>
+      <Value>Spray Pintura (Rojo)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanWhite</Key>
-      <Value>Spray Paint (Blanco)</Value>
+      <Value>Spray Pintura (Blanco)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanYellow</Key>
-      <Value>Spray Paint (Amarillo)</Value>
+      <Value>Spray Pintura (Amarillo)</Value>
     </Record>
     <Record>
       <Key>ItemSteelFrames</Key>
@@ -1207,7 +1207,7 @@
     </Record>
     <Record>
       <Key>ItemSuitStorage</Key>
-      <Value>Suit Storage</Value>
+      <Value>Almacen de Trajes</Value>
     </Record>
     <Record>
       <Key>ItemTablet</Key>
@@ -1271,11 +1271,11 @@
     </Record>
     <Record>
       <Key>NPCDummyCharacter</Key>
-      <Value>NPC Character</Value>
+      <Value>Personaje NPC</Value>
     </Record>
     <Record>
       <Key>NpcGrounder</Key>
-      <Value>NPC Insect</Value>
+      <Value>Insecto NPC</Value>
     </Record>
     <Record>
       <Key>OrganBrain</Key>
@@ -1299,7 +1299,7 @@
     </Record>
     <Record>
       <Key>StructureAirlock</Key>
-      <Value>Airlock</Value>
+      <Value>Esclusa</Value>
     </Record>
     <Record>
       <Key>StructureAreaPowerControl</Key>
@@ -1323,7 +1323,7 @@
     </Record>
     <Record>
       <Key>StructureBench</Key>
-      <Value>Bench</Value>
+      <Value>Mesa</Value>
     </Record>
     <Record>
       <Key>StructureBlastDoor</Key>
