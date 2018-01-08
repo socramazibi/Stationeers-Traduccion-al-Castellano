@@ -1135,7 +1135,7 @@
     </Record>
     <Record>
       <Key>ItemSpaceCleaner</Key>
-      <Value>Space Cleaner</Value>
+      <Value>Limpiador Espacial</Value>
     </Record>
     <Record>
       <Key>ItemSpaceHelmet</Key>
@@ -1287,7 +1287,7 @@
     </Record>
     <Record>
       <Key>SpaceShuttle</Key>
-      <Value>Space Shuttle</Value>
+      <Value>Transbordador</Value>
     </Record>
     <Record>
       <Key>StructureActiveVent</Key>
@@ -1503,7 +1503,7 @@
     </Record>
     <Record>
       <Key>StructureFurnace</Key>
-      <Value>Horno</Value>
+      <Value>Horno Avanzado</Value>
     </Record>
     <Record>
       <Key>StructureGasMixer</Key>
@@ -1535,7 +1535,7 @@
     </Record>
     <Record>
       <Key>StructureIgniter</Key>
-      <Value>Igniter</Value>
+      <Value>Encendedor</Value>
     </Record>
     <Record>
       <Key>StructureLocker</Key>
@@ -1651,11 +1651,11 @@
     </Record>
     <Record>
       <Key>StructureSuitStorage</Key>
-      <Value>Suit Storage</Value>
+      <Value>Soporte de trajes</Value>
     </Record>
     <Record>
       <Key>StructureTankConnector</Key>
-      <Value>Conector de Tanque</Value>
+      <Value>Conector de Tanque Portatil</Value>
     </Record>
     <Record>
       <Key>StructureTankSmall</Key>
@@ -1667,7 +1667,7 @@
     </Record>
     <Record>
       <Key>StructureTankSmallFuel</Key>
-      <Value>Tanque Pequeño (Fuel)</Value>
+      <Value>Tanque Pequeño (Combustible)</Value>
     </Record>
     <Record>
       <Key>StructureTorpedoRack</Key>
@@ -1703,7 +1703,7 @@
     </Record>
     <Record>
       <Key>UniformOrangeJumpSuit</Key>
-      <Value>Traje Mono (Orange)</Value>
+      <Value>Traje Mono (Naranja)</Value>
     </Record>
     <Record>
       <Key>WeaponEnergy</Key>
@@ -1755,19 +1755,19 @@
     </Record>
     <Record>
       <Key>StructureCableStraightH</Key>
-      <Value>Heavy Cable (Recto)</Value>
+      <Value>Cable Grueso (Recto)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH6</Key>
-      <Value>Heavy Cable (Unión 6 vías)</Value>
+      <Value>Cable Grueso (Unión 6 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH4</Key>
-      <Value>Heavy Cable (Unión 4 vías)</Value>
+      <Value>Cable Grueso (Unión 4 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH</Key>
-      <Value>Heavy Cable (Unión 3 vías)</Value>
+      <Value>Cable Grueso (Unión 3 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6HBurnt</Key>
@@ -1791,7 +1791,7 @@
     </Record>
     <Record>
       <Key>StructureCableCornerH</Key>
-      <Value>Heavy Cable (Esquina)</Value>
+      <Value>Cable Grueso (Esquina)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse1k</Key>
@@ -1839,7 +1839,7 @@
     </Record>
     <Record>
       <Key>ItemKitFabrication</Key>
-      <Value>Kit Construcción (Fabricador)</Value>
+      <Value>Kit Construcción (Fabricación)</Value>
     </Record>
     <Record>
       <Key>ItemPipeKit</Key>
@@ -1851,11 +1851,11 @@
     </Record>
     <Record>
       <Key>CartridgeElectronicReader</Key>
-      <Value>Cartucho (eReader)</Value>
+      <Value>Cartucho (Enciclopedia)</Value>
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>Bobina de Cable (Heavy)</Value>
+      <Value>Bobina de Cable (Gruesa)</Value>
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
@@ -1987,7 +1987,7 @@
     </Record>
     <Record>
       <Key>ItemKitSuitStorage</Key>
-      <Value>Kit (Suit Storage)</Value>
+      <Value>Kit (Soporte de Trajes)</Value>
     </Record>
     <Record>
       <Key>ItemKitSolidGenerator</Key>
@@ -2071,51 +2071,51 @@
     </Record>
     <Record>
       <Key>StructureLogicUnit</Key>
-      <Value>Logic Unit</Value>
+      <Value>Unidad Lógica</Value>
     </Record>
     <Record>
       <Key>ItemKitLogic</Key>
-      <Value>Kit (Logic Unit)</Value>
+      <Value>Kit (Unidad Lógica)</Value>
     </Record>
     <Record>
       <Key>StructureLogicReader</Key>
-      <Value>Logic Reader</Value>
+      <Value>Lector Lógico</Value>
     </Record>
     <Record>
       <Key>StructureLogicMemory</Key>
-      <Value>Logic Memory</Value>
+      <Value>Memoria Lógica</Value>
     </Record>
     <Record>
       <Key>StructureLogicMath</Key>
-      <Value>Logic Math</Value>
+      <Value>Matematico Lógico</Value>
     </Record>
     <Record>
       <Key>StructureLogicWriter</Key>
-      <Value>Logic Writer</Value>
+      <Value>Grabador Lógico</Value>
     </Record>
     <Record>
       <Key>StructureLogicSelect</Key>
-      <Value>Logic Select</Value>
+      <Value>Seleccionador Lógico</Value>
     </Record>
     <Record>
       <Key>StructureLogicCompare</Key>
-      <Value>Logic Compare</Value>
+      <Value>Comparador Lógico</Value>
     </Record>
     <Record>
       <Key>ItemKitLogicProcessor</Key>
-      <Value>Kit (Logic Processor)</Value>
+      <Value>Kit (Procesador Lógico)</Value>
     </Record>
     <Record>
       <Key>ItemKitLogicMemory</Key>
-      <Value>Kit (Logic Memory)</Value>
+      <Value>Kit (Memoria Lógica)</Value>
     </Record>
     <Record>
       <Key>ItemKitLogicInputOutput</Key>
-      <Value>Kit (Logic I/O)</Value>
+      <Value>Kit (E/S Lógico)</Value>
     </Record>
     <Record>
       <Key>ItemKitLogicSwitch</Key>
-      <Value>Kit (Logic Switch)</Value>
+      <Value>Kit (Interruptor Lógico)</Value>
     </Record>
     <Record>
       <Key>StructureLogicSwitch</Key>
@@ -2123,7 +2123,7 @@
     </Record>
     <Record>
       <Key>StructureLogicMinMax</Key>
-      <Value>Logic Min/Max</Value>
+      <Value>Min/Max Lógico</Value>
     </Record>
     <Record>
       <Key>StructureLogicDisplay5</Key>
@@ -2155,7 +2155,7 @@
     </Record>
     <Record>
       <Key>StructureLogicBatchWriter</Key>
-      <Value>Batch Writer</Value>
+      <Value>Grabador Grupos</Value>
     </Record>
     <Record>
       <Key>StructureLogicButton</Key>
@@ -2167,7 +2167,7 @@
     </Record>
     <Record>
       <Key>StructureLogicMathUnary</Key>
-      <Value>Math Unary</Value>
+      <Value>Matematico Unario</Value>
     </Record>
     <Record>
       <Key>StructureRecycler</Key>
@@ -2175,7 +2175,7 @@
     </Record>
     <Record>
       <Key>ItemKitRecycler</Key>
-      <Value>Kit (Reciclador)</Value>
+      <Value>Kit (Recicladora)</Value>
     </Record>
     <Record>
       <Key>ItemCableAnalyser</Key>
@@ -2183,7 +2183,7 @@
     </Record>
     <Record>
       <Key>StructureCableAnalysizer</Key>
-      <Value>Cable Analizador</Value>
+      <Value>Analizador de Cable</Value>
     </Record>
     <Record>
       <Key>StructureLogicDial</Key>
@@ -2225,7 +2225,7 @@
     </Record>
     <Record>
       <Key>Back</Key>
-      <Value>Back</Value>
+      <Value>Mochila</Value>
     </Record>
     <Record>
       <Key>Brain</Key>
@@ -2277,7 +2277,7 @@
     </Record>
     <Record>
       <Key>Ore</Key>
-      <Value>Ore</Value>
+      <Value>Mineral</Value>
     </Record>
     <Record>
       <Key>Propellent</Key>
@@ -2293,7 +2293,7 @@
     </Record>
     <Record>
       <Key>PassengerSeatLeft</Key>
-      <Value>Asiento de Pasajero Izquierda</Value>
+      <Value>Asiento de Pasajero Izquierdo</Value>
     </Record>
     <Record>
       <Key>PassengerSeatRight</Key>
@@ -2301,15 +2301,15 @@
     </Record>
     <Record>
       <Key>DataDisk</Key>
-      <Value>Disco Datos</Value>
+      <Value>Disco de Datos</Value>
     </Record>
     <Record>
       <Key>Appliance1</Key>
-      <Value>Appliance 1</Value>
+      <Value>Aplicación 1</Value>
     </Record>
     <Record>
       <Key>Appliance2</Key>
-      <Value>Appliance 2</Value>
+      <Value>Aplicación 2</Value>
     </Record>
     <Record>
       <Key>Import</Key>
@@ -2325,23 +2325,23 @@
     </Record>
     <Record>
       <Key>TransportSlot</Key>
-      <Value>Transport Slot</Value>
+      <Value>Hueco de Transporte</Value>
     </Record>
     <Record>
       <Key>Motherboard</Key>
-      <Value>Motherboard</Value>
+      <Value>Placa Base</Value>
     </Record>
     <Record>
       <Key>Entity</Key>
-      <Value>Entity</Value>
+      <Value>Entidad</Value>
     </Record>
     <Record>
       <Key>Occupant</Key>
-      <Value>Occupant</Value>
+      <Value>Ocupante</Value>
     </Record>
     <Record>
       <Key>PortableSlot</Key>
-      <Value>Portable Slot</Value>
+      <Value>Hueco Portatil</Value>
     </Record>
     <Record>
       <Key>Bed</Key>
@@ -2357,29 +2357,29 @@
     </Record>
     <Record>
       <Key>LoadingRail</Key>
-      <Value>Loading Rail</Value>
+      <Value>Rail de Carga</Value>
     </Record>
   </Slots>
   <Interactables>
     <Record>
       <Key>Activate</Key>
-      <Value>Activate</Value>
+      <Value>Activar</Value>
     </Record>
     <Record>
       <Key>Open</Key>
-      <Value>Open</Value>
+      <Value>Abrir</Value>
     </Record>
     <Record>
       <Key>OnOff</Key>
-      <Value>On Off</Value>
+      <Value>Encendido Apagado</Value>
     </Record>
     <Record>
       <Key>Lock</Key>
-      <Value>Lock</Value>
+      <Value>Bloquear</Value>
     </Record>
     <Record>
       <Key>Powered</Key>
-      <Value>Powered</Value>
+      <Value>Conectado</Value>
     </Record>
     <Record>
       <Key>Error</Key>
@@ -2387,27 +2387,27 @@
     </Record>
     <Record>
       <Key>Slot1</Key>
-      <Value>Slot1</Value>
+      <Value>Hueco1</Value>
     </Record>
     <Record>
       <Key>Slot2</Key>
-      <Value>Slot2</Value>
+      <Value>Hueco2</Value>
     </Record>
     <Record>
       <Key>GrabLeftHand</Key>
-      <Value>Grab Left Hand</Value>
+      <Value>Coger Mano Izquierda</Value>
     </Record>
     <Record>
       <Key>GrabRightHand</Key>
-      <Value>Grab Right Hand</Value>
+      <Value>Coger Mano Derecha</Value>
     </Record>
     <Record>
       <Key>GrabLeftFoot</Key>
-      <Value>Grab Left Foot</Value>
+      <Value>Coger Pie Izquierdo</Value>
     </Record>
     <Record>
       <Key>GrabRightFoot</Key>
-      <Value>Grab Right Foot</Value>
+      <Value>Coger Pierna Derecha</Value>
     </Record>
     <Record>
       <Key>Drag</Key>
@@ -2415,79 +2415,79 @@
     </Record>
     <Record>
       <Key>Mode</Key>
-      <Value>Mode</Value>
+      <Value>Modo</Value>
     </Record>
     <Record>
       <Key>Button1</Key>
-      <Value>Button1</Value>
+      <Value>Botón1</Value>
     </Record>
     <Record>
       <Key>Slot3</Key>
-      <Value>Slot3</Value>
+      <Value>Hueco3</Value>
     </Record>
     <Record>
       <Key>Slot4</Key>
-      <Value>Slot4</Value>
+      <Value>Hueco4</Value>
     </Record>
     <Record>
       <Key>Slot5</Key>
-      <Value>Slot5</Value>
+      <Value>Hueco5</Value>
     </Record>
     <Record>
       <Key>Slot6</Key>
-      <Value>Slot6</Value>
+      <Value>Hueco6</Value>
     </Record>
     <Record>
       <Key>Slot7</Key>
-      <Value>Slot7</Value>
+      <Value>Hueco7</Value>
     </Record>
     <Record>
       <Key>Slot8</Key>
-      <Value>Slot8</Value>
+      <Value>Hueco8</Value>
     </Record>
     <Record>
       <Key>Slot9</Key>
-      <Value>Slot9</Value>
+      <Value>Hueco9</Value>
     </Record>
     <Record>
       <Key>Slot10</Key>
-      <Value>Slot10</Value>
+      <Value>Hueco10</Value>
     </Record>
     <Record>
       <Key>Button2</Key>
-      <Value>Button2</Value>
+      <Value>Botón2</Value>
     </Record>
     <Record>
       <Key>SplitOne</Key>
-      <Value>Split One</Value>
+      <Value>Separar uno</Value>
     </Record>
     <Record>
       <Key>SplitHalf</Key>
-      <Value>Split Half</Value>
+      <Value>Separar la mitad</Value>
     </Record>
     <Record>
       <Key>NextPage</Key>
-      <Value>Next Page</Value>
+      <Value>Pagina Siguiente</Value>
     </Record>
     <Record>
       <Key>PreviousPage</Key>
-      <Value>Previous Page</Value>
+      <Value>Pagina Anterior</Value>
     </Record>
     <Record>
       <Key>Use</Key>
-      <Value>Use</Value>
+      <Value>Usar</Value>
     </Record>
     <Record>
       <Key>Export</Key>
-      <Value>Export</Value>
+      <Value>Exportar</Value>
     </Record>
     <Record>
       <Key>Import</Key>
-      <Value>Import</Value>
+      <Value>Importar</Value>
     </Record>
     <Record>
       <Key>PressureUp</Key>
-      <Value>Subir Pressión</Value>
+      <Value>Subir Presión</Value>
     </Record>
     <Record>
       <Key>PressureDown</Key>
@@ -2519,87 +2519,87 @@
     </Record>
     <Record>
       <Key>Button3</Key>
-      <Value>Button3</Value>
+      <Value>Botón3</Value>
     </Record>
     <Record>
       <Key>Slot11</Key>
-      <Value>Slot11</Value>
+      <Value>Hueco11</Value>
     </Record>
     <Record>
       <Key>Slot12</Key>
-      <Value>Slot12</Value>
+      <Value>Hueco12</Value>
     </Record>
     <Record>
       <Key>Slot13</Key>
-      <Value>Slot13</Value>
+      <Value>Hueco13</Value>
     </Record>
     <Record>
       <Key>Slot14</Key>
-      <Value>Slot14</Value>
+      <Value>Hueco14</Value>
     </Record>
     <Record>
       <Key>Slot15</Key>
-      <Value>Slot15</Value>
+      <Value>Hueco15</Value>
     </Record>
     <Record>
       <Key>Slot16</Key>
-      <Value>Slot16</Value>
+      <Value>Hueco16</Value>
     </Record>
     <Record>
       <Key>Slot17</Key>
-      <Value>Slot17</Value>
+      <Value>Hueco17</Value>
     </Record>
     <Record>
       <Key>Slot18</Key>
-      <Value>Slot18</Value>
+      <Value>Hueco18</Value>
     </Record>
     <Record>
       <Key>Slot19</Key>
-      <Value>Slot19</Value>
+      <Value>Hueco19</Value>
     </Record>
     <Record>
       <Key>Slot20</Key>
-      <Value>Slot20</Value>
+      <Value>Hueco20</Value>
     </Record>
     <Record>
       <Key>Slot21</Key>
-      <Value>Slot21</Value>
+      <Value>Hueco21</Value>
     </Record>
     <Record>
       <Key>Slot22</Key>
-      <Value>Slot22</Value>
+      <Value>Hueco22</Value>
     </Record>
     <Record>
       <Key>Slot23</Key>
-      <Value>Slot23</Value>
+      <Value>Hueco23</Value>
     </Record>
     <Record>
       <Key>Slot24</Key>
-      <Value>Slot24</Value>
+      <Value>Hueco24</Value>
     </Record>
     <Record>
       <Key>Slot25</Key>
-      <Value>Slot25</Value>
+      <Value>Hueco25</Value>
     </Record>
     <Record>
       <Key>Slot26</Key>
-      <Value>Slot26</Value>
+      <Value>Hueco26</Value>
     </Record>
     <Record>
       <Key>Slot27</Key>
-      <Value>Slot27</Value>
+      <Value>Hueco27</Value>
     </Record>
     <Record>
       <Key>Slot28</Key>
-      <Value>Slot28</Value>
+      <Value>Hueco28</Value>
     </Record>
     <Record>
       <Key>Slot29</Key>
-      <Value>Slot29</Value>
+      <Value>Hueco29</Value>
     </Record>
     <Record>
       <Key>Slot30</Key>
-      <Value>Slot30</Value>
+      <Value>Hueco30</Value>
     </Record>
     <Record>
       <Key>TiltUpwards</Key>
@@ -2623,31 +2623,31 @@
     </Record>
     <Record>
       <Key>Export2</Key>
-      <Value>Export2</Value>
+      <Value>Exportar2</Value>
     </Record>
     <Record>
       <Key>Launch</Key>
-      <Value>Launch</Value>
+      <Value>Lanzar</Value>
     </Record>
     <Record>
       <Key>PreviousPlan</Key>
-      <Value>Previous Plan</Value>
+      <Value>Plan Anterior</Value>
     </Record>
     <Record>
       <Key>NextPlan</Key>
-      <Value>Next Plan</Value>
+      <Value>Plan Siguiente</Value>
     </Record>
     <Record>
       <Key>CreatePlan</Key>
-      <Value>Create Plan</Value>
+      <Value>Crear Plan</Value>
     </Record>
     <Record>
       <Key>Button4</Key>
-      <Value>Button4</Value>
+      <Value>Botón4</Value>
     </Record>
     <Record>
       <Key>Output</Key>
-      <Value>Output</Value>
+      <Value>Salida</Value>
     </Record>
     <Record>
       <Key>Hatch</Key>
@@ -2667,7 +2667,7 @@
     </Record>
     <Record>
       <Key>Input</Key>
-      <Value>Input</Value>
+      <Value>Entrada</Value>
     </Record>
     <Record>
       <Key>Setting</Key>
@@ -2761,7 +2761,7 @@
     </Record>
     <Record>
       <Key>WorldInfoButtonDebugLoad</Key>
-      <Value>Debug Load</Value>
+      <Value>Carga Depuración</Value>
     </Record>
     <Record>
       <Key>LoadWorldButtonLoad</Key>
@@ -2785,7 +2785,7 @@
     </Record>
     <Record>
       <Key>JoinMenuServerListVersion</Key>
-      <Value>Version</Value>
+      <Value>Versión</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListRefreshing</Key>
@@ -2857,7 +2857,7 @@
     </Record>
     <Record>
       <Key>StatusWindowDamage</Key>
-      <Value>Dañar</Value>
+      <Value>Daño</Value>
     </Record>
     <Record>
       <Key>StatusWindowInternal</Key>
@@ -2961,7 +2961,7 @@
     </Record>
     <Record>
       <Key>ButtonResetDefaults</Key>
-      <Value>Default</Value>
+      <Value>Defecto</Value>
     </Record>
     <Record>
       <Key>SettingsTitleDisplayTools</Key>
@@ -3173,11 +3173,11 @@
     </Record>
     <Record>
       <Key>SettingsAdvertiseServer</Key>
-      <Value>Servidor Publicitario</Value>
+      <Value>Servidor Publico</Value>
     </Record>
     <Record>
       <Key>SettingsServerName</Key>
-      <Value>Nombre Server</Value>
+      <Value>Nombre Servidor</Value>
     </Record>
     <Record>
       <Key>SettingsServerPassword</Key>
@@ -3185,11 +3185,11 @@
     </Record>
     <Record>
       <Key>SettingsServerMaxPlayers</Key>
-      <Value>Maximo Players</Value>
+      <Value>Número de Jugadores Max</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayer</Key>
-      <Value>Configuración Multiplayer</Value>
+      <Value>Configuración Multijugador</Value>
     </Record>
     <Record>
       <Key>SettingsUpdatePort</Key>
@@ -3311,7 +3311,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>SettingsUPNPNote</Key>
-      <Value>Si Universal Plug and Play (UPNP) está activado en su router, estos puertos se reenviarán automáticamente cuando organices un juego.</Value>
+      <Value>Si Universal Plug and Play (UPNP) está activado en su router, estos puertos se reenviarán automáticamente cuando organices un servidor.</Value>
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
@@ -3327,7 +3327,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>SettingsChatFadeTimer</Key>
-      <Value>Chat Fade Delay</Value>
+      <Value>Chat Fade Retraso</Value>
     </Record>
 	<Record>
       <Key>PromptResetSettingsTitle</Key>
@@ -3435,7 +3435,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>AlertBlankSaveName</Key>
-      <Value>Debes ingresar un nombre para el mundo para guardar.</Value>
+      <Value>Debes ingresar un nombre para el mundo antes de guardar.</Value>
     </Record>
     <Record>
       <Key>AlertTitleAttention</Key>
