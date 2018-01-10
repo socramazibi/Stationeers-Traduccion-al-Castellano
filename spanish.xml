@@ -209,7 +209,7 @@
     </Record>
     <Record>
       <Key>Opened</Key>
-      <Value>Abierto</Value>
+      <Value>Abieto</Value>
     </Record>
     <Record>
       <Key>Closed</Key>
@@ -2141,9 +2141,9 @@
       <Key>StructureSign1x1</Key>
       <Value>Cartel 1x1</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>StructureSign2x1</Key>
-      <Value>Cartel 2x1</Value>			 
+      <Value>Cartel 2x1</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED5Large</Key>
@@ -2197,6 +2197,14 @@
       <Key>StructureConsoleLED1x3</Key>
       <Value>LED Display (Grande)</Value>
     </Record>
+    <Record>
+      <Key>NpcChick</Key>
+      <Value>Polluelo</Value>
+    </Record>
+    <Record>
+      <Key>NpcChicken</Key>
+      <Value>Pollo</Value>
+    </Record>		 
   </Things>
   <Slots>
     <Record>
