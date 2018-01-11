@@ -647,7 +647,7 @@
     </Record>
     <Record>
       <Key>EntityChickenWhite</Key>
-      <Value>Gallina Blanco</Value>
+      <Value>Gallina Blanca</Value>
     </Record>
     <Record>
       <Key>EntityGraylien</Key>
@@ -1311,7 +1311,7 @@
     </Record>
     <Record>
       <Key>StructureBackPressureRegulator</Key>
-      <Value>Regulador de presión posterior</Value>
+      <Value>Regulador de Presión Posterior</Value>
     </Record>
     <Record>
       <Key>StructureBattery</Key>
@@ -1343,11 +1343,11 @@
     </Record>
     <Record>
       <Key>StructureCableJunction4</Key>
-      <Value>Cable (unión 4 vías)</Value>
+      <Value>Cable (Unión 4 Vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6</Key>
-      <Value>Cable (unión 6 vías)</Value>
+      <Value>Cable (Unión 6 Vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraight</Key>
@@ -1387,7 +1387,7 @@
     </Record>
     <Record>
       <Key>StructureChuteStraight</Key>
-      <Value>Tolva (Recto)</Value>
+      <Value>Tolva (Recta)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeDoor</Key>
@@ -1455,15 +1455,15 @@
     </Record>
     <Record>
       <Key>StructureConveyorStraight</Key>
-      <Value>Cinta (Recto)</Value>
+      <Value>Cinta (Recta)</Value>
     </Record>
     <Record>
       <Key>StructureConveyorStraightLong</Key>
-      <Value>Cinta (Recto Largo)</Value>
+      <Value>Cinta (Recta Larga)</Value>
     </Record>
     <Record>
       <Key>StructureConveyorStraightShort</Key>
-      <Value>Cinta (Recto Corto)</Value>
+      <Value>Cinta (Recta Corta)</Value>
     </Record>
     <Record>
       <Key>StructureCryoTube</Key>
@@ -1471,7 +1471,7 @@
     </Record>
     <Record>
       <Key>StructureDaylightSensor</Key>
-      <Value>Sensor de luz diurna</Value>
+      <Value>Sensor de Luz Diurna</Value>
     </Record>
     <Record>
       <Key>StructureDigitalValve</Key>
@@ -1523,7 +1523,7 @@
     </Record>
     <Record>
       <Key>StructureGunTurret</Key>
-      <Value>Emplazamiento del arma</Value>
+      <Value>Emplazamiento del Arma</Value>
     </Record>
     <Record>
       <Key>StructureGyroscope</Key>
@@ -1563,15 +1563,15 @@
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction3</Key>
-      <Value>Tubería (conexión 3 vías)</Value>
+      <Value>Tubería (Conexión 3 Vías)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction5</Key>
-      <Value>Tubería (unión 5 vía)</Value>
+      <Value>Tubería (Unión 5 Vías)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction6</Key>
-      <Value>Tubería (Unión 6 vías)</Value>
+      <Value>Tubería (Unión 6 Vías)</Value>
     </Record>
     <Record>
       <Key>StructurePipeLabel</Key>
@@ -1607,11 +1607,11 @@
     </Record>
     <Record>
       <Key>StructureRocketEngine</Key>
-      <Value>Motor cohete</Value>
+      <Value>Motor Cohete</Value>
     </Record>
     <Record>
       <Key>StructureRocketEngineSmall</Key>
-      <Value>Motor cohete (Pequeño)</Value>
+      <Value>Motor Cohete (Pequeño)</Value>
     </Record>
     <Record>
       <Key>StructureRocketEngineTiny</Key>
@@ -1627,7 +1627,7 @@
     </Record>
     <Record>
       <Key>StructureSolarPanel</Key>
-      <Value>Panel solar</Value>
+      <Value>Panel Solar</Value>
     </Record>
     <Record>
       <Key>StructureSorter</Key>
@@ -1651,7 +1651,7 @@
     </Record>
     <Record>
       <Key>StructureSuitStorage</Key>
-      <Value>Soporte de trajes</Value>
+      <Value>Soporte de Trajes</Value>
     </Record>
     <Record>
       <Key>StructureTankConnector</Key>
@@ -1699,7 +1699,7 @@
     </Record>
     <Record>
       <Key>UniformCommander</Key>
-      <Value>Uniforme Comandante</Value>
+      <Value>Uniforme de Comandante</Value>
     </Record>
     <Record>
       <Key>UniformOrangeJumpSuit</Key>
@@ -1707,7 +1707,7 @@
     </Record>
     <Record>
       <Key>WeaponEnergy</Key>
-      <Value>Arma Energía</Value>
+      <Value>Arma de Energía</Value>
     </Record>
     <Record>
       <Key>WeaponTorpedo</Key>
@@ -1723,7 +1723,7 @@
     </Record>
     <Record>
       <Key>StructureCableCorner3Burnt</Key>
-      <Value>Cable Quemado (Esquina 3 vías)</Value>
+      <Value>Cable Quemado (Esquina 3 Vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerBurnt</Key>
@@ -1731,11 +1731,11 @@
     </Record>
     <Record>
       <Key>StructureCableJunction4Burnt</Key>
-      <Value>Cable Quemado (Unión 4 vías)</Value>
+      <Value>Cable Quemado (Unión 4 Vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6Burnt</Key>
-      <Value>Cable Quemado (Unión 6 vías)</Value>
+      <Value>Cable Quemado (Unión 6 Vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionBurnt</Key>
@@ -1759,23 +1759,23 @@
     </Record>
     <Record>
       <Key>StructureCableJunctionH6</Key>
-      <Value>Cable Grueso (Unión 6 vías)</Value>
+      <Value>Cable Grueso (Unión 6 Vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH4</Key>
-      <Value>Cable Grueso (Unión 4 vías)</Value>
+      <Value>Cable Grueso (Unión 4 Vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH</Key>
-      <Value>Cable Grueso (Unión 3 vías)</Value>
+      <Value>Cable Grueso (Unión 3 Vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>Cable Quemado (Unión 6 vías)</Value>
+      <Value>Cable Quemado (Unión 6 Vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>Cable Quemado (Unión 4 vías)</Value>
+      <Value>Cable Quemado (Unión 4 Vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightHBurnt</Key>
@@ -1883,7 +1883,7 @@
     </Record>
     <Record>
       <Key>WeaponRifleEnergy</Key>
-      <Value>Rifle Energía</Value>
+      <Value>Rifle de Energía</Value>
     </Record>
     <Record>
       <Key>ItemElectrumIngot</Key>
@@ -1919,7 +1919,7 @@
     </Record>
     <Record>
       <Key>StructureDiode</Key>
-      <Value>LED</Value>
+      <Value>Led</Value>
     </Record>
     <Record>
       <Key>ItemSoybean</Key>
@@ -1943,7 +1943,7 @@
     </Record>
     <Record>
       <Key>ItemCerealBar</Key>
-      <Value>Barra Cereal</Value>
+      <Value>Barra de Cereal</Value>
     </Record>
     <Record>
       <Key>StructureElectronicsPrinter</Key>
@@ -1971,7 +1971,7 @@
     </Record>
     <Record>
       <Key>SpawnPoint</Key>
-      <Value>Punto de Aparicion</Value>
+      <Value>Punto de Aparición</Value>
     </Record>
     <Record>
       <Key>ItemKitCube</Key>
@@ -2059,7 +2059,7 @@
     </Record>
     <Record>
       <Key>StructureToolManufactory</Key>
-      <Value>Fabricador Herramientas</Value>
+      <Value>Fabricador de Herramientas</Value>
     </Record>
     <Record>
       <Key>ItemKitToolManufactory</Key>
@@ -2191,11 +2191,11 @@
     </Record>
     <Record>
       <Key>StructureConsoleLED1x2</Key>
-      <Value>LED Display (Mediano)</Value>
+      <Value>Pantalla Led (Mediano)</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED1x3</Key>
-      <Value>LED Display (Grande)</Value>
+      <Value>Pantalla Led (Grande)</Value>
     </Record>
     <Record>
       <Key>NpcChick</Key>
@@ -2217,11 +2217,11 @@
     </Record>
     <Record>
       <Key>LeftHand</Key>
-      <Value>Mano izquierda</Value>
+      <Value>Mano Izquierda</Value>
     </Record>
     <Record>
       <Key>RightHand</Key>
-      <Value>Mano derecha</Value>
+      <Value>Mano Derecha</Value>
     </Record>
     <Record>
       <Key>Helmet</Key>
@@ -2261,15 +2261,15 @@
     </Record>
     <Record>
       <Key>GasFilter</Key>
-      <Value>Filtro de gas</Value>
+      <Value>Filtro de Gases</Value>
     </Record>
     <Record>
       <Key>AirTank</Key>
-      <Value>Tanque Aire</Value>
+      <Value>Tanque de Aire</Value>
     </Record>
     <Record>
       <Key>WasteTank</Key>
-      <Value>Tanque Residuos</Value>
+      <Value>Tanque de Residuos</Value>
     </Record>
     <Record>
       <Key>LifeSupport</Key>
@@ -2523,7 +2523,7 @@
     </Record>
     <Record>
       <Key>PassengersChair</Key>
-      <Value>Sillón del Pasajeros</Value>
+      <Value>Sillón del Pasajero</Value>
     </Record>
     <Record>
       <Key>Button3</Key>
@@ -2701,7 +2701,7 @@
     </Record>
     <Record>
       <Key>MainMenuNewWorld</Key>
-      <Value>Nuevo Mundo</Value>
+      <Value>Mundo Nuevo</Value>
     </Record>
     <Record>
       <Key>MainMenuLoadWorld</Key>
@@ -2709,7 +2709,7 @@
     </Record>
     <Record>
       <Key>MainMenuJoinWorld</Key>
-      <Value>Únete al Mundo</Value>
+      <Value>Unirse a otro Mundo</Value>
     </Record>
     <Record>
       <Key>MainMenuWorkshop</Key>
@@ -2769,7 +2769,7 @@
     </Record>
     <Record>
       <Key>WorldInfoButtonDebugLoad</Key>
-      <Value>Carga Depuración</Value>
+      <Value>Cargar Depuración</Value>
     </Record>
     <Record>
       <Key>LoadWorldButtonLoad</Key>
@@ -2777,7 +2777,7 @@
     </Record>
     <Record>
       <Key>JoinMenuTitle</Key>
-      <Value>Únete al mundo</Value>
+      <Value>Unirse a otro Mundo</Value>
     </Record>
     <Record>
       <Key>JoinMenuButtonRefresh</Key>
@@ -2785,7 +2785,7 @@
     </Record>
     <Record>
       <Key>JoinMenuButtonJoin</Key>
-      <Value>Únete al mundo</Value>
+      <Value>Unirse a otro Mundo</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListName</Key>
@@ -2805,7 +2805,7 @@
     </Record>
     <Record>
       <Key>NewWorldTitle</Key>
-      <Value>Nuevo mundo</Value>
+      <Value>Mundo Nuevo</Value>
     </Record>
     <Record>
       <Key>NewWorldButtonBack</Key>
@@ -2945,7 +2945,7 @@
     </Record>
     <Record>
       <Key>SettingsMenuMisc</Key>
-      <Value>Misc</Value>
+      <Value>Otros</Value>
     </Record>
     <Record>
       <Key>SettingsGameplayAutosave</Key>
@@ -3001,7 +3001,7 @@
     </Record>
     <Record>
       <Key>SettingsVsync</Key>
-      <Value>V-Sync</Value>
+      <Value>Sincronizacion Vertical</Value>
     </Record>
     <Record>
       <Key>SettingsButtonApply</Key>
@@ -3097,7 +3097,7 @@
     </Record>
     <Record>
       <Key>NotificationTitle</Key>
-      <Value>Se Guardo correctamente</Value>
+      <Value>Se ha Guardado Correctamente</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
@@ -3133,7 +3133,7 @@
     </Record>
     <Record>
       <Key>ButtonKick</Key>
-      <Value>Kick</Value>
+      <Value>Expulsar</Value>
     </Record>
     <Record>
       <Key>ButtonBan</Key>
@@ -3173,11 +3173,11 @@
     </Record>
     <Record>
       <Key>SettingsAntialiasing</Key>
-      <Value>Método Antialiasing</Value>
+      <Value>Método Antialisado</Value>
     </Record>
     <Record>
       <Key>SettingsMenuMultiplayer</Key>
-      <Value>Multiplayer</Value>
+      <Value>Multijugador</Value>
     </Record>
     <Record>
       <Key>SettingsAdvertiseServer</Key>
@@ -3303,7 +3303,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>La ubicación solo está permitida {THING:StructureFrameIron} y {THING:StructureFrame} estructuras directamente. Si se actualizan, ofrecerán mejores opciones de ubicación.</Value>
+      <Value>La ubicación solo está permitida {THING:StructureFrameIron} y {THING:StructureFrame} directamente. Si se actualizan, ofrecerán mejores opciones de ubicación.</Value>
     </Record>
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
@@ -3323,7 +3323,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
-      <Value>Info. Herramientas Translucido</Value>
+      <Value>Info. Herramientas Translucida</Value>
     </Record>
     <Record>
       <Key>MenuDownloadDriverButton</Key>
@@ -3335,7 +3335,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>SettingsChatFadeTimer</Key>
-      <Value>Chat Fade Retraso</Value>
+      <Value>Retraso Desvanecer Chat</Value>
     </Record>
 	<Record>
       <Key>PromptResetSettingsTitle</Key>
@@ -3351,11 +3351,11 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>PromptQuitTitle</Key>
-      <Value>Salir Stationeers</Value>
+      <Value>Salir de Stationeers</Value>
     </Record>
     <Record>
       <Key>PromptQuitBody</Key>
-      <Value>Seguro que quieres salir?</Value>
+      <Value>Seguro que Quieres Salir?</Value>
     </Record>
     <Record>
       <Key>PromptQuitConfirm</Key>
