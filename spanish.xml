@@ -3335,7 +3335,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>SettingsChatFadeTimer</Key>
-      <Value>Retraso Desvanecer Chat</Value>
+      <Value>El chat desaparece en x segundos</Value>
     </Record>
 	<Record>
       <Key>PromptResetSettingsTitle</Key>
