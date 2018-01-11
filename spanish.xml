@@ -747,7 +747,7 @@
     </Record>
     <Record>
       <Key>ItemDrill</Key>
-      <Value>Taladro de Minería</Value>
+      <Value>Taladro de Mano</Value>
     </Record>
     <Record>
       <Key>ItemDuctTape</Key>
@@ -1023,7 +1023,7 @@
     </Record>
     <Record>
       <Key>ItemMiningDrill</Key>
-      <Value>Taladro Minero</Value>
+      <Value>Taladro Minería</Value>
     </Record>
     <Record>
       <Key>ItemMuffin</Key>
