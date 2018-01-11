@@ -119,7 +119,7 @@
   <Gases>
     <Record>
       <Key>Oxygen</Key>
-      <Value>Oxygeno</Value>
+      <Value>Oxigeno</Value>
     </Record>
     <Record>
       <Key>CarbonDioxide</Key>
@@ -157,11 +157,11 @@
     </Record>
     <Record>
       <Key>Clear</Key>
-      <Value>Clear</Value>
+      <Value>Despejar</Value>
     </Record>
     <Record>
       <Key>Collect</Key>
-      <Value>Recolectar</Value>
+      <Value>Combinar</Value>
     </Record>
     <Record>
       <Key>Add</Key>
@@ -527,7 +527,7 @@
     </Record>
     <Record>
       <Key>CircuitboardAirControl</Key>
-      <Value>Placa Circuito (Control Aire)</Value>
+      <Value>Placa Circuito (Control de Aire)</Value>
     </Record>
     <Record>
       <Key>CircuitboardAirlockControl</Key>
@@ -539,7 +539,7 @@
     </Record>
     <Record>
       <Key>CircuitboardDoorControl</Key>
-      <Value>Placa Circuito (Control Puerta)</Value>
+      <Value>Placa Circuito (Control de Puerta)</Value>
     </Record>
     <Record>
       <Key>CircuitboardGasDisplay</Key>
@@ -547,11 +547,11 @@
     </Record>
     <Record>
       <Key>CircuitboardModeControl</Key>
-      <Value>Placa Circuito (Control Modos)</Value>
+      <Value>Placa Circuito (Control de Modos)</Value>
     </Record>
     <Record>
       <Key>CircuitboardPowerControl</Key>
-      <Value>Placa Circuito (Control Energía)</Value>
+      <Value>Placa Circuito (Control de Energía)</Value>
     </Record>
     <Record>
       <Key>CircuitboardShipDisplay</Key>
@@ -615,7 +615,7 @@
     </Record>
     <Record>
       <Key>DynamicGasCanisterWater</Key>
-      <Value>Tanque Portátil (Agua</Value>
+      <Value>Tanque Portátil (Agua)</Value>
     </Record>
     <Record>
       <Key>DynamicGenerator</Key>
@@ -627,7 +627,7 @@
     </Record>
     <Record>
       <Key>DynamicScrubber</Key>
-      <Value>Depurador Aire Portátil</Value>
+      <Value>Depurador de Aire Portátil</Value>
     </Record>
     <Record>
       <Key>EffectSplatEgg</Key>
@@ -635,19 +635,19 @@
     </Record>
     <Record>
       <Key>EntityAlien</Key>
-      <Value>Entidad Alien</Value>
+      <Value>Alien</Value>
     </Record>
     <Record>
       <Key>EntityChick</Key>
-      <Value>Entidad Polluelo</Value>
+      <Value>Polluelo</Value>
     </Record>
     <Record>
       <Key>EntityChickenBrown</Key>
-      <Value>Entidad Gallina Marrón</Value>
+      <Value>Gallina Marrón</Value>
     </Record>
     <Record>
       <Key>EntityChickenWhite</Key>
-      <Value>Entidad Gallina Blanco</Value>
+      <Value>Gallina Blanco</Value>
     </Record>
     <Record>
       <Key>EntityGraylien</Key>
@@ -655,11 +655,11 @@
     </Record>
     <Record>
       <Key>EntityRoosterBlack</Key>
-      <Value>Entidad Gallo Negro</Value>
+      <Value>Gallo Negro</Value>
     </Record>
     <Record>
       <Key>EntityRoosterBrown</Key>
-      <Value>Entidad Gallo Marrón</Value>
+      <Value>Gallo Marrón</Value>
     </Record>
     <Record>
       <Key>GasTankAir</Key>
@@ -687,7 +687,7 @@
     </Record>
     <Record>
       <Key>ItemBatteryCharger</Key>
-      <Value>Cargador de Batería</Value>
+      <Value>Cargador de Baterías</Value>
     </Record>
     <Record>
       <Key>ItemBook</Key>
@@ -931,7 +931,7 @@
     </Record>
     <Record>
       <Key>ItemKitConveyor</Key>
-      <Value>Kit construcción (Cintas)</Value>
+      <Value>Kit Construcción (Cintas)</Value>
     </Record>
     <Record>
       <Key>ItemKitCryoTube</Key>
@@ -983,7 +983,7 @@
     </Record>
     <Record>
       <Key>ItemKitStellarAnchor</Key>
-      <Value>Kit Construcción (Anclar Estelar)</Value>
+      <Value>Kit Construcción (Ancla Estelar)</Value>
     </Record>
     <Record>
       <Key>ItemKitStorage</Key>
