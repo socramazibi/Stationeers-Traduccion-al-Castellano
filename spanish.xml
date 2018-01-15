@@ -1211,7 +1211,7 @@
     </Record>
     <Record>
       <Key>ItemTablet</Key>
-      <Value>Tablet</Value>
+      <Value>Tablet Portátil</Value>
     </Record>
     <Record>
       <Key>ItemTankConnector</Key>
@@ -2709,7 +2709,7 @@
     </Record>
     <Record>
       <Key>MainMenuJoinWorld</Key>
-      <Value>Unirse a otro Mundo</Value>
+      <Value>Unirse al Mundo</Value>
     </Record>
     <Record>
       <Key>MainMenuWorkshop</Key>
@@ -2785,7 +2785,7 @@
     </Record>
     <Record>
       <Key>JoinMenuButtonJoin</Key>
-      <Value>Unirse a otro Mundo</Value>
+      <Value>Unirse al Mundo</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListName</Key>
@@ -3460,6 +3460,54 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     <Record>
       <Key>TooltipNeedMoreKit</Key>
       <Value>&lt;color=red&gt;Necesita más {0}&lt;/color&gt;.</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuSearchPlaceholder</Key>
+      <Value>Buscar por nombre</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuAddressPlaceholder</Key>
+      <Value>Introduzca IP : Puerto...</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailConnectButton</Key>
+      <Value>Unirse al mundo</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailInfoButton</Key>
+      <Value>Ver Información</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailUnFavoriteButton</Key>
+      <Value>Eliminar de Favorito</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailFavoriteButton</Key>
+      <Value>Favoritos</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuSaveWorldButton</Key>
+      <Value>Guardar Mundo</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuOverwriteButton</Key>
+      <Value>Sobreescribir</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuNamePlaceholder</Key>
+      <Value>Enter Save Name...</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldModeCreative</Key>
+      <Value>Creativo</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldModeSurvival</Key>
+      <Value>Supervivencia</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerListMap</Key>
+      <Value>Mapa</Value>
     </Record>
   </Interface>
   <Colors>
