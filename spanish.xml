@@ -1211,7 +1211,7 @@
     </Record>
     <Record>
       <Key>ItemTablet</Key>
-      <Value>Tablet Portátil</Value>
+      <Value>Tablet</Value>
     </Record>
     <Record>
       <Key>ItemTankConnector</Key>
@@ -1655,7 +1655,7 @@
     </Record>
     <Record>
       <Key>StructureTankConnector</Key>
-      <Value>Conector de Tanque Portatil</Value>
+      <Value>Conector de Tanque Portátil</Value>
     </Record>
     <Record>
       <Key>StructureTankSmall</Key>
@@ -2349,7 +2349,7 @@
     </Record>
     <Record>
       <Key>PortableSlot</Key>
-      <Value>Hueco Portatil</Value>
+      <Value>Hueco Portátil</Value>
     </Record>
     <Record>
       <Key>Bed</Key>
