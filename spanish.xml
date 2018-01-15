@@ -286,6 +286,10 @@
   </Actions>
   <Things>
     <Record>
+      <Key>DynamicSkeleton</Key>
+      <Value>Esqueleto</Value>
+    </Record>
+    <Record>
       <Key>ApplianceMicrowave</Key>
       <Value>Microondas</Value>
     </Record>
@@ -2757,7 +2761,7 @@
     </Record>
     <Record>
       <Key>WorldInfoTextVersion</Key>
-      <Value>Version:</Value>
+      <Value>Versión:</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonDelete</Key>
@@ -3495,7 +3499,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>SaveMenuNamePlaceholder</Key>
-      <Value>Enter Save Name...</Value>
+      <Value>Escribe nombre para guardar</Value>
     </Record>
     <Record>
       <Key>NewWorldModeCreative</Key>
@@ -3509,6 +3513,26 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
       <Key>JoinMenuServerListMap</Key>
       <Value>Mapa</Value>
     </Record>
+    <Record>
+      <Key>JoinMenuInfoIPAddress</Key>
+      <Value>Dirección IP:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoMap</Key>
+      <Value>Mapa:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoVersion</Key>
+      <Value>Versión:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoLatency</Key>
+      <Value>Latencia:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoPlayers</Key>
+      <Value>Jugadores:</Value>
+    </Record>	
   </Interface>
   <Colors>
     <Record>
