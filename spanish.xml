@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1105.5582    FECHA = 15-01-2018 -->
+<!-- Versión: v0.1.1107.5589    FECHA = 16-01-2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -285,10 +285,6 @@
     </Record>
   </Actions>
   <Things>
-    <Record>
-      <Key>DynamicSkeleton</Key>
-      <Value>Esqueleto</Value>
-    </Record>
     <Record>
       <Key>ApplianceMicrowave</Key>
       <Value>Microondas</Value>
@@ -2208,7 +2204,11 @@
     <Record>
       <Key>NpcChicken</Key>
       <Value>Pollo</Value>
-    </Record>		 
+    </Record>
+    <Record>
+      <Key>DynamicSkeleton</Key>
+      <Value>Esqueleto</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -3532,7 +3532,7 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     <Record>
       <Key>JoinMenuInfoPlayers</Key>
       <Value>Jugadores:</Value>
-    </Record>	
+    </Record>
   </Interface>
   <Colors>
     <Record>
