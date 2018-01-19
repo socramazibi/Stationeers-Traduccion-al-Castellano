@@ -3547,35 +3547,35 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     </Record>
     <Record>
       <Key>ChangeAppearanceTitle</Key>
-      <Value>Change Appearance</Value>
+      <Value>Cambiar de Apariencia</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleGender</Key>
-      <Value>Gender</Value>
+      <Value>Género</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleFace</Key>
-      <Value>Face</Value>
+      <Value>Cara</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleHairStyle</Key>
-      <Value>Hair</Value>
+      <Value>Cabello</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleHairColor</Key>
-      <Value>Hair Colour</Value>
+      <Value>Color de Pelo</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleEyeColor</Key>
-      <Value>Eye Colour</Value>
+      <Value>Color de Ojos</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleSkinColor</Key>
-      <Value>Skin Colour</Value>
+      <Value>Color de Piel</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleFacialHairStyle</Key>
-      <Value>Facial Hair</Value>
+      <Value>Vello Facial</Value>
     </Record>
   </Interface>
   <Colors>
