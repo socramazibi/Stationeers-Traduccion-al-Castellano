@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1111.5605    FECHA = 17-01-2018 -->
+<!-- Versión: v0.1.1117.5624    FECHA = 19-01-2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -3544,6 +3544,38 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     <Record>
       <Key>JoinMenuInfoPlayers</Key>
       <Value>Jugadores:</Value>
+    </Record>
+    <Record>
+      <Key>ChangeAppearanceTitle</Key>
+      <Value>Change Appearance</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleGender</Key>
+      <Value>Gender</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleFace</Key>
+      <Value>Face</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleHairStyle</Key>
+      <Value>Hair</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleHairColor</Key>
+      <Value>Hair Colour</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleEyeColor</Key>
+      <Value>Eye Colour</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleSkinColor</Key>
+      <Value>Skin Colour</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleFacialHairStyle</Key>
+      <Value>Facial Hair</Value>
     </Record>
   </Interface>
   <Colors>

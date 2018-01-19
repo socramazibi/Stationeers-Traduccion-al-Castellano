@@ -3,7 +3,7 @@
 (Translation into Spanish)
 
 ```[javascript]
-Versión: v0.1.1111.5605    FECHA = 17-01-2018
+Versión: v0.1.1117.5624    FECHA = 19-01-2018
 ```
 
 1. Spanish.xml
