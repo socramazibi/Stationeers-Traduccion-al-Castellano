@@ -3137,7 +3137,7 @@
     </Record>
     <Record>
       <Key>ButtonOk</Key>
-      <Value>OK</Value>
+      <Value>De Acuerdo</Value>
     </Record>
     <Record>
       <Key>InputPassword</Key>
@@ -3149,7 +3149,7 @@
     </Record>
     <Record>
       <Key>ButtonBan</Key>
-      <Value>Ban</Value>
+      <Value>Bloquear</Value>
     </Record>
     <Record>
       <Key>ButtoConfirmExitAsServer</Key>
