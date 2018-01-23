@@ -2211,11 +2211,11 @@
     </Record>
     <Record>
       <Key>StructureBeacon</Key>
-      <Value>Beacon</Value>
+      <Value>Baliza</Value>
     </Record>
     <Record>
       <Key>ItemKitBeacon</Key>
-      <Value>Kit (Beacon)</Value>
+      <Value>Kit (Baliza)</Value>
     </Record>
   </Things>
   <Slots>
