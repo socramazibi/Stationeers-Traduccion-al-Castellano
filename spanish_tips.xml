@@ -1,5 +1,6 @@
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Code>ES</Code>
+  <Font>font_extended</Font>
   <GameTip>
     <String>Pulsar {KEY:HelmetSlot} , {KEY:SuitSlot} , {KEY:BackSlot} , {KEY:UniformSlot} , o {KEY:ToolBeltSlot} para alternar entre las interacciones y las ranuras en cualquier artículo de ranura que esté usando. Pulsar y mantener para intercambiar entre esa ranura y sus mano activa.</String>
     <String>Pulsar {KEY:ToggleHandPower} para encender o apagar rápidamente lo que estás sosteniendo en su mano.</String>
