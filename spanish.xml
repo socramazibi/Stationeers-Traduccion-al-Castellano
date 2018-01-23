@@ -2209,6 +2209,14 @@
       <Key>DynamicSkeleton</Key>
       <Value>Esqueleto</Value>
     </Record>
+    <Record>
+      <Key>StructureBeacon</Key>
+      <Value>Beacon</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitBeacon</Key>
+      <Value>Kit (Beacon)</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -3341,15 +3349,15 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
       <Key>SettingsChatFadeTimer</Key>
       <Value>El chat desaparece en x segundos</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>PromptResetSettingsTitle</Key>
       <Value>Reiniciar Ajustes</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>PromptResetSettingsBody</Key>
       <Value>Estás Seguro?</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>PromptResetSettingsConfirm</Key>
       <Value>Restablecer</Value>
     </Record>
