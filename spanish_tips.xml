@@ -18,8 +18,8 @@
     <String>Coloca un stack de {THING:ItemIronOre} en un powered {THING:StructureArcFurnace} para fundirla en {THING:ItemIronIngot} .</String>
     <String>Coloca un {THING:MotherboardLogic} en un {THING:StructureComputer} para habilitar el control de la lógica. Podrá agregar condiciones y acciones que controlen los estados de los dispositivos en la misma red de datos.</String>
     <String>Al modificar la cantidad de algo a través de un botón en el mundo, mantenga pulsada {KEY:QuantityModifier} mientras hace clic para usar incrementos más pequeños.</String>
-	<String>Use a {THING:ItemKitLogicInputOutput} to create a {THING:StructureLogicReader} or {THING:StructureLogicWriter}. Readers allow you to read values from other devices, writers allow you to change values on devices. When combined with Math Units, you can make extremely complex automated systems.</String>
-	<String>Use a {THING:StructureRecycler} to convert things you no longer want into usable reagents. Pass the outputted {THING:ItemReagentMix} into a {THING:StructureCentrifuge} to convert it back into ore, ready for a {THING:StructureFurnace}.</String>
-	<String>Use a {THING:StructureHydraulicPipeBender} to manufacture atmospheric items, such as the {THING:ItemKitAtmospherics} which allows you to build useful machines such as the {THING:StructureAirConditioner} or {THING:StructureFiltration}.</String>
+	<String>Use un {THING:ItemKitLogicInputOutput} para crear {THING:StructureLogicReader} o {THING:StructureLogicWriter}. Los lectores le permiten leer valores de otros dispositivos, los escritores le permiten cambiar los valores en los dispositivos. Cuando se combina con unidades matemáticas, puede crear sistemas automatizados extremadamente complejos.</String>
+	<String>Use un {THING:StructureRecycler} para convertir las cosas que ya no quiere en reactivos utilizables. Pase el resultado {THING:ItemReagentMix} en un {THING:StructureCentrifuge} para convertirlo nuevamente en mineral, listo para un {THING:StructureFurnace}.</String>
+	<String>Use un {THING:StructureHydraulicPipeBender} para fabricar artículos atmosféricos, como {THING:ItemKitAtmospherics} que le permite construir máquinas útiles como {THING:StructureAirConditioner} o {THING:StructureFiltration}.</String>
   </GameTip>
 </Language>

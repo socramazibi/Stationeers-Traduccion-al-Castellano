@@ -166,7 +166,7 @@
     </Record>
     <Record>
       <Key>TutorialDescCycleAirlock1</Key>
-      <Value>Puede ciclar el Airlock utilizando {THING:StructureConsole} o el teclado que se puede conectar en cualquiera de las puertas {THING:StructureAirlock} . Esto despresurizará la esclusa de aire para que puedas ir al espacio.&#10;&#10;A {THING:CircuitboardAirlockControl} en {THING:StructureConsole} está controlando {THING:StructureActiveVent} y otros dispositivos para ciclar la esclusa de aire.</Value>
+      <Value>Puede ciclar el Airlock utilizando {THING:StructureConsole} o el teclado que se puede conectar en cualquiera de las puertas {THING:StructureAirlock} . Esto despresurizará la esclusa de aire para que puedas ir al espacio.&#10;&#10;La {THING:CircuitboardAirlockControl} que esta en la {THING:StructureConsole} que está controlando la {THING:StructureActiveVent} y otros dispositivos para ciclar la esclusa de aire.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskCycleAirlock1</Key>
@@ -194,7 +194,7 @@
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable4</Key>
-      <Value>Reemplace con {THING:StructureCableJunction} de {THING:ItemCableCoil}</Value>
+      <Value>Reemplace con {THING:StructureCableJunction} de la {THING:ItemCableCoil}</Value>
     </Record>
     <Record>
       <Key>TutorialDescRepairCable2</Key>
@@ -351,11 +351,11 @@
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin9</Key>
-      <Value>Cerrar {THING:ApplianceMicrowave} puerta</Value>
+      <Value>Cerrar puerta {THING:ApplianceMicrowave} </Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin10</Key>
-      <Value>Encienda {THING:ApplianceMicrowave} on</Value>
+      <Value>Encienda el {THING:ApplianceMicrowave} pulsando la el botón on</Value>
     </Record>
   </Interface>
 </Language>
