@@ -299,7 +299,7 @@
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin4</Key>
-      <Value>Mire la puerta del {THING:ApplianceMicrowave}. Presione {COLORRED:Left Mouse Button} para abrir la puerta y permitirle colocar reactivos dentro.</Value>
+      <Value>Mire la puerta del {THING:ApplianceMicrowave}. Presione {COLORRED:Left Mouse Button} para abrir la puerta y permitirle colocar ingredientes dentro.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin5</Key>
