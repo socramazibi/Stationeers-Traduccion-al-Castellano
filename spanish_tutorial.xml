@@ -335,7 +335,7 @@
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin5</Key>
-      <Value>Coloca {COLORYELLOW:one} {THING:ItemEgg} en el {THING:ApplianceMicrowave}</Value>
+      <Value>Coloca {COLORYELLOW:un} {THING:ItemEgg} en el {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin6</Key>
