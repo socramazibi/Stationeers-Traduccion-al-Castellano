@@ -331,15 +331,15 @@
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin4</Key>
-      <Value>Coloca {COLORYELLOW:50g} de {THING:ItemFlour} en {THING:ApplianceMicrowave}</Value>
+      <Value>Coloca {COLORYELLOW:50g} de {THING:ItemFlour} en el {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin5</Key>
-      <Value>Coloca {COLORYELLOW:one} {THING:ItemEgg} en {THING:ApplianceMicrowave}</Value>
+      <Value>Coloca {COLORYELLOW:one} {THING:ItemEgg} en el {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin6</Key>
-      <Value>Coloca {COLORYELLOW:10ml} de {THING:ItemMilk} en {THING:ApplianceMicrowave}</Value>
+      <Value>Coloca {COLORYELLOW:10ml} de {THING:ItemMilk} en el {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin7</Key>
@@ -347,15 +347,15 @@
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin8</Key>
-      <Value>Haga un {THING:ItemMuffin}</Value>
+      <Value>Preparé un {THING:ItemMuffin}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin9</Key>
-      <Value>Cerrar puerta {THING:ApplianceMicrowave} </Value>
+      <Value>Cerrar la puerta del {THING:ApplianceMicrowave} </Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin10</Key>
-      <Value>Encienda el {THING:ApplianceMicrowave} pulsando la el botón on</Value>
+      <Value>Encienda el {THING:ApplianceMicrowave} pulsando en el botón on</Value>
     </Record>
   </Interface>
 </Language>
