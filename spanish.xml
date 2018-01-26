@@ -2055,7 +2055,7 @@
     </Record>
     <Record>
       <Key>ItemBeacon</Key>
-      <Value>Baliza de Seguimiento</Value>
+      <Value>Baliza Portátil</Value>
     </Record>
     <Record>
       <Key>StructureToolManufactory</Key>
@@ -2215,7 +2215,7 @@
     </Record>
     <Record>
       <Key>ItemKitBeacon</Key>
-      <Value>Kit (Baliza)</Value>
+      <Value>Kit (Baliza Fija)</Value>
     </Record>
   </Things>
   <Slots>
