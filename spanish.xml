@@ -2865,11 +2865,11 @@
     </Record>
     <Record>
       <Key>InventorySlotHandLeft</Key>
-      <Value>Izquierda</Value>
+      <Value>Mano Izda.</Value>
     </Record>
     <Record>
       <Key>InventorySlotHandRight</Key>
-      <Value>Derecha</Value>
+      <Value>Mano Dcha.</Value>
     </Record>
     <Record>
       <Key>StatusWindowExternal</Key>
