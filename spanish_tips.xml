@@ -9,7 +9,7 @@
     <String>Pulsar {KEY:Ascend} te hará ascender si tu  {THING:ItemSpacepack} está encendido, de lo contrario tu personaje intentará saltar. Puede activar o desactivar {THING:ItemSpacepack} o usando la tecla {KEY:Jetpack} .</String>
     <String>Pulsar {KEY:Descend} te hará descender si tu {THING:ItemSpacepack} está encendido. Puede activar o desactivar {THING:ItemSpacepack} encendido o apagado usando la tecla {KEY:Jetpack} .</String>
     <String>Pulsar la tecla {KEY:InventorySelect} si desea intercambiar algo entre un espacio de inventario abierto y su mano activa. </String>
-    <String>Pulsar y soltar la tecla {KEY:Drop} para dejar caer inmediatamente lo que tenga en su mano. Si mantiene presionada la tecla {KEY:Drop} la lanzara mas lejos. Cuanto más tiempo lo sostengas, más lejos la tirará.</String>
+    <String>Pulsar y soltar la tecla {KEY:Drop} para dejarla caer inmediatamente lo que sostenga en su mano. Si mantiene presionada la tecla {KEY:Drop} la lanzara mas lejos. Cuanto más tiempo la sostengas, más lejos la tirarás.</String>
     <String>Pulsar {KEY:SwapHands} para cambiar de mano activa. Presionar {KEY:ActiveHandSlot} recorrerá las opciones de interacción de lo que tenga en su mano activa. </String>
     <String>Pulsar {KEY:Internals} para alternar rápidamente su  {THING:ItemSpaceHelmet} para abrir o cerrar.</String>
     <String>Pulsar {KEY:Chatting} para comenzar a chatear con otros jugadores. Aparecerá un pequeño cuadro en la parte inferior derecha de la pantalla con el texto que escriba antes de enviarlo.</String>
