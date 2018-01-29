@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1122.5642    FECHA = 23-01-2018 -->
+<!-- Versión: v0.1.1132.5681    FECHA = 30-01-2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -3636,6 +3636,56 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
       <Value>Purpura</Value>
     </Record>
   </Colors>
+  <Mineables>
+    <Record>
+      <Key>Iron</Key>
+      <Value>Hierro</Value>
+    </Record>
+	    <Record>
+      <Key>Ice</Key>
+      <Value>Hielo</Value>
+    </Record>
+	    <Record>
+      <Key>Oxite</Key>
+      <Value>Oxite</Value>
+    </Record>
+	    <Record>
+      <Key>Volatiles</Key>
+      <Value>Volátiles</Value>
+    </Record>
+	    <Record>
+      <Key>Gold</Key>
+      <Value>Oro</Value>
+    </Record>
+	    <Record>
+      <Key>Coal</Key>
+      <Value>Carbón</Value>
+    </Record>
+	    <Record>
+      <Key>Copper</Key>
+      <Value>Cobre</Value>
+    </Record>
+	    <Record>
+      <Key>Uranium</Key>
+      <Value>Uranio</Value>
+    </Record>
+	    <Record>
+      <Key>Silver</Key>
+      <Value>Plata</Value>
+    </Record>
+	    <Record>
+      <Key>Nickel</Key>
+      <Value>Níquel</Value>
+    </Record>
+	    <Record>
+      <Key>Lead</Key>
+      <Value>Plomo</Value>
+    </Record>
+	    <Record>
+      <Key>Silicon</Key>
+      <Value>Silicio</Value>
+    </Record>
+  </Mineables>
   <Keys/>
   <GameTip/>
 </Language>
