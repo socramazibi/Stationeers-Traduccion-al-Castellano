@@ -811,7 +811,7 @@
     </Record>
     <Record>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>Bombona (Volatiles)</Value>
+      <Value>Bombona (Volátiles)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterNitrogen</Key>
@@ -843,7 +843,7 @@
     </Record>
     <Record>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>Filtro (Volatiles)</Value>
+      <Value>Filtro (Volátiles)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterWater</Key>
@@ -1951,7 +1951,7 @@
     </Record>
     <Record>
       <Key>ItemVolatiles</Key>
-      <Value>Hielo (Volatiles)</Value>
+      <Value>Hielo (Volátiles)</Value>
     </Record>
     <Record>
       <Key>ItemOxite</Key>
