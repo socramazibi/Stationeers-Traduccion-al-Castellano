@@ -111,7 +111,7 @@
     </Record>
     <Record>
       <Key>TutorialDescFilter2</Key>
-      <Value>Puede interactuar con la ranura {SLOT:Suit} presionando y soltando la tecla {KEY:SuitSlot} . Esto recorrerá las interacciones y el inventario de ranuras, si está disponible. Haz esto hasta que veas las ranuras de inventario .</Value>
+      <Value>Puede interactuar con la ranura del {SLOT:Suit} presionando y soltando la tecla {KEY:SuitSlot} . Esto recorrerá las interacciones y el inventario de ranuras, si está disponible. Haz esto hasta que veas las ranuras de inventario .</Value>
     </Record>
     <Record>
       <Key>TutorialDescFilter3</Key>
