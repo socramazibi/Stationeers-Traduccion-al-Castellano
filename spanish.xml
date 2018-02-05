@@ -651,7 +651,7 @@
     </Record>
     <Record>
       <Key>EntityGraylien</Key>
-      <Value>Entity Graylien</Value>
+      <Value>Graylien</Value>
     </Record>
     <Record>
       <Key>EntityRoosterBlack</Key>
@@ -2518,8 +2518,8 @@
       <Value>Bajar Presión</Value>
     </Record>
     <Record>
-      <Key />
-      <Value />
+      <Key/>
+      <Value/>
     </Record>
     <Record>
       <Key>Flush</Key>
