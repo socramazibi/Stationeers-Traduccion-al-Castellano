@@ -2717,7 +2717,7 @@
     </Record>
     <Record>
       <Key>MainMenuNewWorld</Key>
-      <Value>Mundo Nuevo</Value>
+      <Value>Nuevo Mundo</Value>
     </Record>
     <Record>
       <Key>MainMenuLoadWorld</Key>
@@ -2821,7 +2821,7 @@
     </Record>
     <Record>
       <Key>NewWorldTitle</Key>
-      <Value>Mundo Nuevo</Value>
+      <Value>Nuevo Mundo</Value>
     </Record>
     <Record>
       <Key>NewWorldButtonBack</Key>
@@ -3691,6 +3691,5 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
       <Value>Silicio</Value>
     </Record>
   </Mineables>
-		 
   <GameTip/>
 </Language>
