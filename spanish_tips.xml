@@ -1,15 +1,15 @@
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1131.5677    FECHA = 29-01-2018 -->
+<!-- Versión: v0.1.1145.5726    FECHA = 05-02-2018 -->
   <Code>ES</Code>
   <Font>font_extended</Font>
   <GameTip>
     <String>Pulsar {KEY:HelmetSlot} , {KEY:SuitSlot} , {KEY:BackSlot} , {KEY:UniformSlot} , o {KEY:ToolBeltSlot} para alternar entre las interacciones y las ranuras en cualquier artículo de ranura que esté usando. Pulsar y mantener para intercambiar entre esa ranura y sus mano activa.</String>
     <String>Pulsar {KEY:ToggleHandPower} para encender o apagar rápidamente lo que estás sosteniendo en su mano.</String>
     <String>Pulsar {KEY:ToggleUI} para activar o desactivar la interfaz de usuario para obtener capturas de pantalla o videos increíbles.</String>
-    <String>Pulsar {KEY:Ascend} te hará ascender si tu  {THING:ItemSpacepack} está encendido, de lo contrario tu personaje intentará saltar. Puede activar o desactivar la {THING:ItemSpacepack} o usando la tecla {KEY:Jetpack} .</String>
-    <String>Pulsar {KEY:Descend} te hará descender si tu {THING:ItemSpacepack} está encendido. Puede activar o desactivar {THING:ItemSpacepack} encendido o apagado usando la tecla {KEY:Jetpack} .</String>
+    <String>Presionar {KEY:Ascend} te hará ascender si tu  {THING:ItemSpacepack} está encendido, de lo contrario tu personaje intentará saltar. Puede activar o desactivar la {THING:ItemSpacepack} o usando la tecla {KEY:Jetpack} .</String>
+    <String>Presionar {KEY:Descend} te hará descender si tu {THING:ItemSpacepack} está encendido. Puede activar o desactivar {THING:ItemSpacepack} encendido o apagado usando la tecla {KEY:Jetpack} .</String>
     <String>Pulsar la tecla {KEY:InventorySelect} si desea intercambiar algo entre un espacio de inventario abierto y su mano activa. </String>
-    <String>Pulsar y soltar la tecla {KEY:Drop} para dejarla caer inmediatamente lo que sostenga en su mano. Si mantiene presionada la tecla {KEY:Drop} la lanzara mas lejos. Cuanto más tiempo la sostengas, más lejos la tirarás.</String>
+    <String>Al presionar y soltar la tecla {KEY:Drop} para dejarla caer inmediatamente lo que sostenga en su mano. Si mantiene presionada la tecla {KEY:Drop} la lanzara mas lejos. Cuanto más tiempo la sostengas, más lejos la tirarás.</String>
     <String>Pulsar {KEY:SwapHands} para cambiar de mano activa. Presionar {KEY:ActiveHandSlot} recorrerá las opciones de interacción de lo que tenga en su mano activa. </String>
     <String>Pulsar {KEY:Internals} para alternar rápidamente su  {THING:ItemSpaceHelmet} para abrir o cerrar.</String>
     <String>Pulsar {KEY:Chatting} para comenzar a chatear con otros jugadores. Aparecerá un pequeño cuadro en la parte inferior derecha de la pantalla con el texto que escriba antes de enviarlo.</String>

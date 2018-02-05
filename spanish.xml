@@ -412,7 +412,7 @@
     <Record>
       <Key>BodyPartChickLegR</Key>
       <Value>Pata  derecha del polluelo</Value>
-	  </Record>
+	</Record>
     <Record>
       <Key>BodyPartChickTail</Key>
       <Value>Cola del polluelo</Value>
@@ -3691,5 +3691,6 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
       <Value>Silicio</Value>
     </Record>
   </Mineables>
+		 
   <GameTip/>
 </Language>
