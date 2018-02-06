@@ -359,7 +359,7 @@
     </Record>
     <Record>
       <Key>BodyPartChickenBrownLegR</Key>
-      <Value>Pata derecha del gallina marrón</Value>
+      <Value>Pata derecha de la gallina marrón</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownTail</Key>
@@ -383,11 +383,11 @@
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteLegL</Key>
-      <Value>Pata izquierda de la gallina blanco</Value>
+      <Value>Pata izquierda de la gallina blanca</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteLegR</Key>
-      <Value>Pata derecha de la gallina blanco</Value>
+      <Value>Pata derecha de la gallina blanca</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteTail</Key>
@@ -403,7 +403,7 @@
     </Record>
     <Record>
       <Key>BodyPartChickHead</Key>
-      <Value>Cabeza del polluelo cabeza</Value>
+      <Value>Cabeza del polluelo</Value>
     </Record>
     <Record>
       <Key>BodyPartChickLegL</Key>
@@ -455,59 +455,59 @@
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackBody</Key>
-      <Value>Cuerpo del Gallo Negro</Value>
+      <Value>Cuerpo del gallo negro</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackHead</Key>
-      <Value>Cabeza del Gallo Negro</Value>
+      <Value>Cabeza del gallo negro</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackLegL</Key>
-      <Value>Pata izquierda del Gallo Negro</Value>
+      <Value>Pata izquierda del gallo negro</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackLegR</Key>
-      <Value>Pata derecha del Gallo Negro</Value>
+      <Value>Pata derecha del gallo negro</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackTail</Key>
-      <Value>Cola del Gallo Negro</Value>
+      <Value>Cola del gallo negro</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackWingL</Key>
-      <Value>Ala izquierda del Gallo Negro</Value>
+      <Value>Ala izquierda del gallo negro</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackWingR</Key>
-      <Value>Ala derecha del Gallo Negro</Value>
+      <Value>Ala derecha del gallo negro</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownBody</Key>
-      <Value>Cuerpo del Gallo marrón</Value>
+      <Value>Cuerpo del gallo marrón</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownHead</Key>
-      <Value>Cabeza del Gallo marrón</Value>
+      <Value>Cabeza del gallo marrón</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownLegL</Key>
-      <Value>Pata izquierda del Gallo marrón</Value>
+      <Value>Pata izquierda del gallo marrón</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownLegR</Key>
-      <Value>Pata derecha del Gallo marrón</Value>
+      <Value>Pata derecha del gallo marrón</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownTail</Key>
-      <Value>Cola del Gallo marrón</Value>
+      <Value>Cola del gallo marrón</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownWingL</Key>
-      <Value>Ala izquierda del Gallo marrón</Value>
+      <Value>Ala izquierda del gallo marrón</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownWingR</Key>
-      <Value>Ala derecha del Gallo marrón</Value>
+      <Value>Ala derecha del gallo marrón</Value>
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyser</Key>
