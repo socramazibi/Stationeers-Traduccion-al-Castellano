@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1163.5802    FECHA = 15-02-2018 -->
+<!-- Versión: v0.1.1155.5760    FECHA = 12-02-2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -1743,11 +1743,11 @@
     </Record>
     <Record>
       <Key>StructureSolidFuelGenerator</Key>
-      <Value>Generador (Combustible Sólido)</Value>
+      <Value>Generador Electrico (Combustible Carbón)</Value>
     </Record>
     <Record>
       <Key>ItemKitGenerator</Key>
-      <Value>Kit Construcción (Generador)</Value>
+      <Value>Kit Construcción (Generador Electrico a Carbón)</Value>
     </Record>
     <Record>
       <Key>ItemCableFuse</Key>
@@ -1991,7 +1991,7 @@
     </Record>
     <Record>
       <Key>ItemKitSolidGenerator</Key>
-      <Value>Kit (Generador Sólido)</Value>
+      <Value>Kit (Generador Electrico de Carbón)</Value>
     </Record>
     <Record>
       <Key>ItemKitLocker</Key>
@@ -2224,6 +2224,14 @@
     <Record>
       <Key>ItemPotato</Key>
       <Value>Patata</Value>
+    </Record>
+    <Record>
+      <Key>StructureGasGenerator</Key>
+      <Value>Generador Electrico a Gas</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitGasGenerator</Key>
+      <Value>Kit (Generador Electrico a Gas)</Value>
     </Record>
   </Things>
   <Slots>
