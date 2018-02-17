@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1167.5824    FECHA = 16-02-2018 -->
+<!-- Versión: v0.1.1168.5828    FECHA = 17-02-2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -3608,6 +3608,10 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
     <Record>
       <Key>SettingsTitleGameSettings</Key>
       <Value>Configuración de Juego</Value>
+    </Record>
+    <Record>
+      <Key>SettingsHungerRate</Key>
+      <Value>Grado de Hambre</Value>
     </Record>
   </Interface>
   <Colors>
