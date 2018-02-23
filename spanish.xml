@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1176.5874    FECHA = 22-02-2018 -->
+<!-- Versión: v0.1.1181.5904    FECHA = 23-02-2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -412,7 +412,7 @@
     <Record>
       <Key>BodyPartChickLegR</Key>
       <Value>Pata  derecha del polluelo</Value>
-	</Record>
+    </Record>
     <Record>
       <Key>BodyPartChickTail</Key>
       <Value>Cola del polluelo</Value>
@@ -2240,6 +2240,10 @@
     <Record>
       <Key>CartridgeOreScanner</Key>
       <Value>Cartucho (Escáner de Mineral) </Value>
+    </Record>
+    <Record>
+      <Key>ItemPotatoBaked</Key>
+      <Value>Patata al Horno</Value>							 
     </Record>
   </Things>
   <Slots>
