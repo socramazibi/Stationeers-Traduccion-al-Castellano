@@ -157,7 +157,7 @@
     </Record>
     <Record>
       <Key>Clear</Key>
-      <Value>Despejar</Value>
+      <Value>Retirar</Value>
     </Record>
     <Record>
       <Key>Collect</Key>
@@ -951,7 +951,7 @@
     </Record>
     <Record>
       <Key>ItemKitFurniture</Key>
-      <Value>Kit (Mueble)</Value>
+      <Value>Kit (Varios Muebles)</Value>
     </Record>
     <Record>
       <Key>ItemKitGyroscope</Key>
