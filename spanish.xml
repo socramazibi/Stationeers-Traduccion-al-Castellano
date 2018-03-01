@@ -3646,6 +3646,22 @@ Inténtalo de nuevo.</Value>
       <Key>JoinWorldEmptyServers</Key>
       <Value>Ocultar servidores vacíos</Value>						   
     </Record>
+    <Record>
+      <Key>WorkshopSubscribedModsTitle</Key>
+      <Value>Suscríbete a los Mods</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopPageButton</Key>
+      <Value>Página del Workshop</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopUnsubscribeButton</Key>
+      <Value>Anular suscripción</Value>
+    </Record>
+    <Record>
+      <Key>OpenWorkshopButton</Key>
+      <Value>Abrir el Workshop</Value>
+    </Record>	 
   </Interface>
   <Colors>
     <Record>
