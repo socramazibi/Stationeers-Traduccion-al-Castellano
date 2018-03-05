@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1181.5904    FECHA = 23-02-2018 -->
+<!-- Versión: v0.1.1193.5974    FECHA = 06-03-2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -3656,12 +3656,104 @@ Inténtalo de nuevo.</Value>
     </Record>
     <Record>
       <Key>WorkshopUnsubscribeButton</Key>
-      <Value>Anular suscripción</Value>
+      <Value>Anular Suscripción</Value>
     </Record>
     <Record>
       <Key>OpenWorkshopButton</Key>
       <Value>Abrir Workshop</Value>
-    </Record>	 
+    </Record>
+    <Record>
+      <Key>WorldPresetTitle</Key>
+      <Value>Preajuste Mundial</Value>
+    </Record>
+    <Record>
+      <Key>WorldPresetLabel</Key>
+      <Value>Preajuste</Value>
+    </Record>
+    <Record>
+      <Key>WorldNameLabel</Key>
+      <Value>Nombre del Mundo</Value>
+    </Record>
+    <Record>
+      <Key>WorldDescriptionLabel</Key>
+      <Value>Descripción</Value>
+    </Record>
+    <Record>
+      <Key>WorldAtmosphere</Key>
+      <Value>Atmósfera</Value>
+    </Record>
+    <Record>
+      <Key>GameSettingsTitle</Key>
+      <Value>Configuraciones de Juego</Value>
+    </Record>
+    <Record>
+      <Key>WorldCreativeMode</Key>
+      <Value>Modo Creativo</Value>
+    </Record>
+    <Record>
+      <Key>WorldTerrain</Key>
+      <Value>Terreno</Value>
+    </Record>
+    <Record>
+      <Key>WorldSeedLabel</Key>
+      <Value>Semilla del Mundo</Value>
+    </Record>
+    <Record>
+      <Key>WorldCratersLabel</Key>
+      <Value>Cráteres</Value>
+    </Record>
+    <Record>
+      <Key>WorldTerrainPresetLabel</Key>
+      <Value>Terreno</Value>
+    </Record>
+    <Record>
+      <Key>WorldAtmospherePresetLabel</Key>
+      <Value>Atmósfera</Value>
+    </Record>
+    <Record>
+      <Key>WorldSettingsTitle</Key>
+      <Value>Configuración Mundial</Value>
+    </Record>
+    <Record>
+      <Key>WorldResetButton</Key>
+      <Value>Reiniciar</Value>
+    </Record>
+    <Record>
+      <Key>WorldSaveButton</Key>
+      <Value>Guardar</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldAreaCustom</Key>
+      <Value>Personalizado</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldMoonDesc</Key>
+      <Value>Así que estás atascado en la luna, pero no todo es malo.
+Claro, es frío, áspero y bastante monótono, pero al menos el sol brilla. El panel solar va a ser útil, y el controlador de potencia... y probablemente el horno de arco también.
+Hay incluso un poco de comida y oxígeno en las otras cajas, aunque definitivamente no va a durar para siempre. Ni tu batería.
+Será mejor que empieces a pensar en cómo vas a sobrevivir. ¿Qué tan difícil podría ser montar una esclusa? ¿un generador? Tal vez incluso fundir algo de mineral y construir una base?
+Parece que vas a estar aquí un rato.</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldSpaceDesc</Key>
+      <Value>¡Este es el modo creativo de Stationeers!
+Engendra cualquier elemento, prueba ideas y construye cosas divertidas muy rápido.
+&lt;color=red&gt;Este modo es experimental.&lt;/color&gt; Piense en ello como una fiesta espacial de forma libre donde las cosas emocionantes e inesperadas * pueden ocurrir y sucederán, en comparación con la experiencia más cercana a la muerte del modo de supervivencia.
+No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asaltado por pollos o explotas lentamente mientras te desplazas solo hacia el vacío infinito.
+*bugs</Value>
+    </Record>
+    <Record>
+      <Key>TextboxEnterName</Key>
+      <Value>Ingrese su nombre...</Value>
+    </Record>
+    <Record>
+      <Key>TextboxEnterDescription</Key>
+      <Value>Ingrese la Descripción ...</Value>
+    </Record>
+    <Record>
+      <Key>TextboxEnterSeed</Key>
+      <Value>Introduzca Semilla...</Value>
+    </Record>		 
   </Interface>
   <Colors>
     <Record>
