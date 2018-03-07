@@ -3754,6 +3754,10 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
       <Key>TextboxEnterSeed</Key>
       <Value>Introduzca Semilla...</Value>
     </Record>
+    <Record>
+      <Key>SettingsDisableParticlesOnMenu</Key>
+      <Value>Disable Particles On Menu</Value>
+    </Record>		 
   </Interface>
   <Colors>
     <Record>
