@@ -3769,7 +3769,7 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
     </Record>
     <Record>
       <Key>SettingsDisableParticlesOnMenu</Key>
-      <Value>Deshabilitar partículas en el menú</Value>
+      <Value>Desactivar partículas en el menú</Value>
     </Record>		 
   </Interface>
   <Colors>
