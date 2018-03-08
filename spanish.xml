@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1193.5974    FECHA = 06-03-2018 -->
+<!-- Versión: v0.1.1197.6007    FECHA = 08-03-2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -114,6 +114,11 @@
       <Key>Oil</Key>
       <Value>Aceite</Value>
       <Unit>ml</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Potato</Key>
+      <Value>Patata</Value>
+      <Unit/>
     </RecordReagent>
   </Reagents>
   <Gases>
@@ -1923,7 +1928,7 @@
     </Record>
     <Record>
       <Key>ItemSoybean</Key>
-      <Value>Haba de Soja</Value>
+      <Value>Habas de Soja</Value>
     </Record>
     <Record>
       <Key>ItemAngleGrinder</Key>
@@ -2243,7 +2248,15 @@
     </Record>
     <Record>
       <Key>ItemPotatoBaked</Key>
-      <Value>Patata al Horno</Value>							 
+      <Value>Patata Asada</Value>
+    </Record>
+    <Record>
+      <Key>ItemSoyOil</Key>
+      <Value>Aceite de Soja</Value>
+    </Record>
+    <Record>
+      <Key>ItemFries</Key>
+      <Value>Patatas Fritas</Value>
     </Record>
   </Things>
   <Slots>
@@ -3756,7 +3769,7 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
     </Record>
     <Record>
       <Key>SettingsDisableParticlesOnMenu</Key>
-      <Value>Disable Particles On Menu</Value>
+      <Value>Deshabilitar partículas en el menú</Value>
     </Record>		 
   </Interface>
   <Colors>
