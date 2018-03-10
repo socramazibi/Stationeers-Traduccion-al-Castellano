@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1197.6007    FECHA = 08-03-2018 -->
+<!-- Versión: v0.1.1200.6022  Fecha = 10-03-2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -1860,7 +1860,7 @@
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>Bobina de Cable (Gruesa)</Value>
+      <Value>Bobina de Cable (Grueso)</Value>
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
@@ -2257,6 +2257,22 @@
     <Record>
       <Key>ItemFries</Key>
       <Value>Patatas Fritas</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableCornerH3</Key>
+      <Value>Cable Grueso (Esquina 3 Vías)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableCornerH4</Key>
+      <Value>Cable Grueso (Esquina 4 Vías)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableCorner4HBurnt</Key>
+      <Value>Esquina de Cable Grueso Quemado</Value>
+    </Record>
+    <Record>
+      <Key>PortableSolarPanel</Key>
+      <Value>Panel Solar Portátil</Value>
     </Record>
   </Things>
   <Slots>
