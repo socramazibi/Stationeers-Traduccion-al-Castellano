@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1200.6022  Fecha = 10-03-2018 -->
+<!-- Versión: v0.1.1223.6091  Fecha = 28-03-2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -2264,7 +2264,7 @@
     </Record>
     <Record>
       <Key>StructureCableCornerH4</Key>
-      <Value>Cable Grueso (Esquina 4 Vías)</Value>
+      <Value>Cable Grueso (Esquina de 4 vías)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4HBurnt</Key>
@@ -2274,6 +2274,26 @@
       <Key>PortableSolarPanel</Key>
       <Value>Panel Solar Portátil</Value>
     </Record>
+    <Record>
+      <Key>StructureCableJunction5</Key>
+      <Value>Cable (unión de 5 vías)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableCorner4</Key>
+      <Value>Cable (Esquina de 4 vías)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableCorner4Burnt</Key>
+      <Value>Cable Quemado (Esquina de 4 vías)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableJunction5Burnt</Key>
+      <Value>Cable Quemado (Unión de 5 vías)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableHeavyJunction5</Key>
+      <Value>Cable Grueso (Unión de 5 vías)</Value>
+    </Record>		 
   </Things>
   <Slots>
     <Record>
