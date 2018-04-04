@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1223.6091  Fecha = 28-03-2018 -->
+<!-- Versión: v0.1.1234.6112  Fecha = 04-04-2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -2293,7 +2293,11 @@
     <Record>
       <Key>StructureCableHeavyJunction5</Key>
       <Value>Cable Grueso (Unión de 5 vías)</Value>
-    </Record>		 
+    </Record>
+    <Record>
+      <Key>StructureCableJunctionH5Burnt</Key>
+      <Value>Cable Grueso Quemado (Unión de 5 vías)</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -3806,7 +3810,7 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
     <Record>
       <Key>SettingsDisableParticlesOnMenu</Key>
       <Value>Desactivar partículas en el menú</Value>
-    </Record>		 
+    </Record>
   </Interface>
   <Colors>
     <Record>
