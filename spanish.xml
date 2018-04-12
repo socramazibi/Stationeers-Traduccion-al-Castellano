@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1237.6132  Fecha = 05-04-2018 -->
+<!-- Versión: v0.1.1248.6168    Fecha = 12/04/2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -576,7 +576,7 @@
     </Record>
     <Record>
       <Key>DynamicCrateBuildingSupplies</Key>
-      <Value>Cajón (material de construcción)</Value>
+      <Value>Cajón (Material de construcción)</Value>
     </Record>
     <Record>
       <Key>DynamicCrateCableSupplies</Key>
@@ -2291,7 +2291,7 @@
       <Value>Cable Quemado (Unión de 5 vías)</Value>
     </Record>
     <Record>
-      <Key>StructureCableHeavyJunction5</Key>
+      <Key>StructureCableJunctionH5</Key>
       <Value>Cable Grueso (Unión de 5 vías)</Value>
     </Record>
     <Record>
@@ -2361,6 +2361,10 @@
     <Record>
       <Key>ItemKitCompositeCladding</Key>
       <Value>Kit de Revestimiento compuesto</Value>											
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingAngledCornerLongR</Key>
+      <Value>Revestimiento compuesto (Esquina en Ángulo Largo R)</Value>																	 
     </Record>
   </Things>
   <Slots>
@@ -3395,7 +3399,7 @@
     <Record>
       <Key>TutorialCompleteMessage</Key>
       <Value>Sigue quedando mucho por aprender.
-Sobretodo ahí fuera, Stationeers</Value>
+¡Sobretodo ahí fuera, Stationeers!</Value>
     </Record>
     <Record>
       <Key>TutorialBackToMenu</Key>
