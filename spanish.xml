@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1248.6168    Fecha = 12/04/2018 -->
+<!-- Versión: v0.1.1263.6234    Fecha = 24/04/2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -2365,6 +2365,30 @@
     <Record>
       <Key>StructureCompositeCladdingAngledCornerLongR</Key>
       <Value>Revestimiento compuesto (Esquina en Ángulo Largo R)</Value>																	 
+    </Record>
+    <Record>
+      <Key>StructureDockPortSide</Key>
+      <Value>Structure Dock Port Side</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitDockingPort</Key>
+      <Value>Kit Puerto de Acoplamiento</Value>
+    </Record>
+    <Record>
+      <Key>StructureDockShipSide</Key>
+      <Value>Structure Dock Ship Side</Value>
+    </Record>
+    <Record>
+      <Key>StructureLightLong</Key>
+      <Value>Luz de Pared (Larga)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLightLongAngled</Key>
+      <Value>Luz de Pared (Largo en Ángulo)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLightLongWide</Key>
+      <Value>Luz de Pared (Largo Ancho)</Value>
     </Record>
   </Things>
   <Slots>
