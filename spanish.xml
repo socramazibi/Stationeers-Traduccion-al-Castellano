@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1263.6234    Fecha = 24/04/2018 -->
+<!-- Versión: v0.1.1271.6257    Fecha = 27/04/2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -2390,6 +2390,18 @@
       <Key>StructureLightLongWide</Key>
       <Value>Luz de Pared (Largo Ancho)</Value>
     </Record>
+    <Record>
+      <Key>CircuitboardAdvancedAirlockControl</Key>
+      <Value>Circuito de control avanzado de bloqueo del aire</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitOrganicsPrinter</Key>
+      <Value>Kit (Impresora Organica)</Value>
+    </Record>
+    <Record>
+      <Key>StructureOrganicsPrinter</Key>
+      <Value>Impresora Organica</Value>
+    </Record>			 
   </Things>
   <Slots>
     <Record>
@@ -3902,6 +3914,10 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
     <Record>
       <Key>SettingsDisableParticlesOnMenu</Key>
       <Value>Desactivar partículas en el menú</Value>
+    </Record>
+    <Record>
+      <Key>SettingsMouseWheelZoom</Key>
+      <Value>Zoom de la rueda del mouse</Value>								 
     </Record>
   </Interface>
   <Colors>
