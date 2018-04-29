@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1271.6257    Fecha = 27/04/2018 -->
+<!-- Versión: v0.1.1273.6269    Fecha = 30/04/2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -2402,6 +2402,38 @@
       <Key>StructureOrganicsPrinter</Key>
       <Value>Impresora Organica</Value>
     </Record>			 
+    <Record>
+      <Key>StructureCompositeWindowIron</Key>
+      <Value>Estructura compuesta de ventana de hierro</Value>
+    </Record>
+    <Record>
+      <Key>CompositeFloorGrating1</Key>
+      <Value>Reja de suelo compuesto1</Value>
+    </Record>
+    <Record>
+      <Key>CompositeFloorGrating2</Key>
+      <Value>Reja de suelo compuesto2</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeFloorGrating2</Key>
+      <Value>Estructura compuesta suelo de rejilla2</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeFloorGrating3</Key>
+      <Value>Estructura compuesta suelo de rejilla3</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeFloorGrating4</Key>
+      <Value>Estructura compuesta suelo de rejilla4</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitWallPanels</Key>
+      <Value>Kit de paneles de pared</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeWallPanelling1</Key>
+      <Value>Estructura de paneles de pared compuestos1</Value>
+    </Record> 
   </Things>
   <Slots>
     <Record>
