@@ -2433,7 +2433,11 @@
     <Record>
       <Key>StructureCompositeWallPanelling1</Key>
       <Value>Estructura de paneles de pared compuestos1</Value>
-    </Record> 
+    </Record>
+    <Record>
+      <Key>ItemKitCompositeFloorGrating</Key>
+      <Value>Kit Rejilla de Piso Compuesto</Value>
+    </Record>		 
   </Things>
   <Slots>
     <Record>
@@ -3950,6 +3954,10 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
     <Record>
       <Key>SettingsMouseWheelZoom</Key>
       <Value>Zoom de la rueda del mouse</Value>								 
+    </Record>
+    <Record>
+      <Key>GameMenuRespawn</Key>
+      <Value>Reaparecer</Value>						
     </Record>
   </Interface>
   <Colors>
