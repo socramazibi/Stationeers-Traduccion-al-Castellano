@@ -3,16 +3,16 @@
 (Translation into Spanish)
 
 ```[javascript]
-Versión: v0.1.1273.6269    Fecha = 30/04/2018 
+Versión: v0.1.1281.6298    Fecha = 01/05/2018 
 ```
 
-1. Spanish.xml               ```Versión: v0.1.1273.6269    Fecha = 30/04/2018 ```
+1. Spanish.xml               ```Versión: v0.1.1281.6298    Fecha = 01/05/2018```
 
-2. Spanish_tips.xml 100%     ```Versión: v0.1.1145.5726    Fecha = 05-02-2018 ```
+2. Spanish_tips.xml 100%     ```Versión: v0.1.1145.5726    Fecha = 05-02-2018```
 
-3. Spanish_tutorial.xml 100% ```Versión: v0.1.1145.5726    Fecha = 05-02-2018 ```
+3. Spanish_tutorial.xml 100% ```Versión: v0.1.1145.5726    Fecha = 05-02-2018```
 
-4. Spanish_keys.xml          ```Versión: v0.1.1132.5681    Fecha = 30-01-2018 ```
+4. Spanish_keys.xml          ```Versión: v0.1.1132.5681    Fecha = 30-01-2018```
 
 ### Discord Oficial https://discordapp.com/invite/CxR3mRy
 
