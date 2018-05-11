@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1273.6269    Fecha = 30/04/2018 -->
+<!-- Versión: v0.1.1300.6356    Fecha = 11/05/2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -728,7 +728,7 @@
     </Record>
     <Record>
       <Key>ItemCompositeFloorGrating</Key>
-      <Value>Rejilla de Suelo</Value>
+      <Value>Rejilla de Suelo Compuesto</Value>
     </Record>
     <Record>
       <Key>ItemCopperIngot</Key>
@@ -1008,7 +1008,7 @@
     </Record>
     <Record>
       <Key>ItemKitWall</Key>
-      <Value>Kit Construcción (Paredes)</Value>
+      <Value>Kit (Paredes)</Value>
     </Record>
     <Record>
       <Key>ItemLabeller</Key>
@@ -1400,7 +1400,7 @@
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating</Key>
-      <Value>Rejilla de Suelo Compuesto</Value>
+      <Value>Rejilla de suelo compuesto de estructura</Value>
     </Record>
     <Record>
       <Key>StructureCompositeWall</Key>
@@ -1847,12 +1847,8 @@
       <Value>Kit Construcción (Fabricación)</Value>
     </Record>
     <Record>
-      <Key>ItemPipeKit</Key>
-      <Value>Kit de Tubo Artículos</Value>
-    </Record>
-    <Record>
       <Key>ItemKitPipe</Key>
-      <Value>Kit Construcción (Tubos)</Value>
+      <Value>Kit (Tubos)</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReader</Key>
@@ -2360,7 +2356,7 @@
     </Record>
     <Record>
       <Key>ItemKitCompositeCladding</Key>
-      <Value>Kit de Revestimiento compuesto</Value>											
+      <Value>Kit (Revestimiento)</Value>											
     </Record>
     <Record>
       <Key>StructureCompositeCladdingAngledCornerLongR</Key>
@@ -2372,7 +2368,7 @@
     </Record>
     <Record>
       <Key>ItemKitDockingPort</Key>
-      <Value>Kit Puerto de Acoplamiento</Value>
+      <Value>Kit (Puerto de Acoplamiento)</Value>
     </Record>
     <Record>
       <Key>StructureDockShipSide</Key>
@@ -2401,7 +2397,7 @@
     <Record>
       <Key>StructureOrganicsPrinter</Key>
       <Value>Impresora Organica</Value>
-    </Record>			 
+    </Record>
     <Record>
       <Key>StructureCompositeWindowIron</Key>
       <Value>Estructura compuesta de ventana de hierro</Value>
@@ -2428,7 +2424,7 @@
     </Record>
     <Record>
       <Key>ItemKitWallPanels</Key>
-      <Value>Kit de paneles de pared</Value>
+      <Value>Kit (Paneles de Pared)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeWallPanelling1</Key>
@@ -2436,8 +2432,220 @@
     </Record>
     <Record>
       <Key>ItemKitCompositeFloorGrating</Key>
-      <Value>Kit Rejilla de Piso Compuesto</Value>
-    </Record>		 
+      <Value>Kit (Rejilla de piso)</Value>
+    </Record>
+    <Record>
+      <Key>CompositeRollCover</Key>
+      <Value>Cubierta de Rollo Compuesta</Value>									 
+    </Record>
+    <Record>
+      <Key>ItemKitLadder</Key>
+      <Value>Kit (Escaleras)</Value>
+    </Record>
+    <Record>
+      <Key>StructureFrameCornerCut</Key>
+      <Value>Marco Corte de esquina</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling1</Key>
+      <Value>Revestimiento de pared compuesto1</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling2</Key>
+      <Value>Revestimiento de pared compuesto2</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling3</Key>
+      <Value>Revestimiento de pared compuesto3</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling4</Key>
+      <Value>Revestimiento de pared compuesto4</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling5</Key>
+      <Value>Revestimiento de pared compuesto5</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling6</Key>
+      <Value>Revestimiento de pared compuesto6</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling7</Key>
+      <Value>Revestimiento de pared compuesto7</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling8</Key>
+      <Value>Revestimiento de pared compuesto8</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling9</Key>
+      <Value>Revestimiento de pared compuesto9</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling10</Key>
+      <Value>Revestimiento de pared compuesto10</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling11</Key>
+      <Value>Revestimiento de pared compuesto11</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling12</Key>
+      <Value>Revestimiento de pared compuesto12</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling13</Key>
+      <Value>Revestimiento de pared compuesto13</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling14</Key>
+      <Value>Revestimiento de pared compuesto14</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling15</Key>
+      <Value>Revestimiento de pared compuesto15</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling16</Key>
+      <Value>Revestimiento de pared compuesto16</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling17</Key>
+      <Value>Revestimiento de pared compuesto17</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling18</Key>
+      <Value>Revestimiento de pared compuesto18</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling19</Key>
+      <Value>Revestimiento de pared compuesto19</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling20</Key>
+      <Value>Revestimiento de pared compuesto20</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling21</Key>
+      <Value>Revestimiento de pared compuesto21</Value>
+    </Record>
+    <Record>
+      <Key>Corner1</Key>
+      <Value>Esquina1</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallFlat</Key>
+      <Value>Estructura de Pared Plana</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallArch</Key>
+      <Value>Estructura del arco de pared</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallArchArrow</Key>
+      <Value>Estructura Muro Arco Flecha</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallArchPlating</Key>
+      <Value>Estructura Muro Arco Revestimiento</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallArchTwoTone</Key>
+      <Value>Estructura Muro Arco Dos Tonos</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallGeometryCorner</Key>
+      <Value>Estructura Esquina Geometría de Pared</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallGeometryStreight</Key>
+      <Value>Estructura Geometría de la pared Recta</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallGeometryT</Key>
+      <Value>Estructura Geometría de la pared en T</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPaddedArch</Key>
+      <Value>Estructura Muro Arco Acolchado</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPaddedArchLightsFittings</Key>
+      <Value>Estructura de la pared acolchado Arco de luces de Accesorios</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPadding</Key>
+      <Value>Estructura Acolchado de pared</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPaddingArchVent</Key>
+      <Value>Estructura de la pared acolchado de arco de ventilación</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPaddingLightFitting</Key>
+      <Value>Estructura de Relleno de la pared de Aplique de luz</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPaddingThin</Key>
+      <Value>Estructura de Acolchado de pared Delgado</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPlating</Key>
+      <Value>Estructura de Revestimiento de paredes</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallSimple</Key>
+      <Value>Estructura Pared Simple</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallSmallPanels</Key>
+      <Value>Estructura de Pared de Paneles Pequeños</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallLargePanel</Key>
+      <Value>Estructura de Pared de Panel Grande</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallSmallPanelsAndHatch</Key>
+      <Value>Estructura de Pared de Paneles Pequeños y Escotilla</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallSmallPanelsArrow</Key>
+      <Value>Estructura de Pared de Paneles Pequeños en Flecha</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallSmallPanelsMonoChrome</Key>
+      <Value>Estructura de Pared de Paneles Pequeños MonoCromado</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallSmallPanelsTwoTone</Key>
+      <Value>Estructura de Pared de Paneles Pequeños Dos Tonos</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallLargePanelArrow</Key>
+      <Value>Estructura de Pared de Panel Grande en Flecha</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitWallArch</Key>
+      <Value>Kit (Pared en Arco)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitWallFlat</Key>
+      <Value>Kit (Pared Plano)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitWallGeometry</Key>
+      <Value>Kit (Geometría de Pared)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitWallPadded</Key>
+      <Value>Kit (Pared de Acolchada)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLadder</Key>
+      <Value>Escalera</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
