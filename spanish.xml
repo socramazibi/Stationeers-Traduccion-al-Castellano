@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1300.6356    Fecha = 11/05/2018 -->
+<!-- Versión: v0.1.1338.6458    Fecha = 06/06/2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -1400,7 +1400,7 @@
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating</Key>
-      <Value>Rejilla de suelo compuesto de estructura</Value>
+      <Value>Rejilla de suelo compuesto</Value>
     </Record>
     <Record>
       <Key>StructureCompositeWall</Key>
@@ -2240,7 +2240,7 @@
     </Record>
     <Record>
       <Key>CartridgeOreScanner</Key>
-      <Value>Cartucho (Escáner de Mineral) </Value>
+      <Value>Cartucho (Escáner de Minerales) </Value>
     </Record>
     <Record>
       <Key>ItemPotatoBaked</Key>
@@ -2400,7 +2400,7 @@
     </Record>
     <Record>
       <Key>StructureCompositeWindowIron</Key>
-      <Value>Estructura compuesta de ventana de hierro</Value>
+      <Value>Compuesta de ventana de hierro</Value>
     </Record>
     <Record>
       <Key>CompositeFloorGrating1</Key>
@@ -2412,15 +2412,15 @@
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating2</Key>
-      <Value>Estructura compuesta suelo de rejilla2</Value>
+      <Value>Compuesta suelo de rejilla2</Value>
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating3</Key>
-      <Value>Estructura compuesta suelo de rejilla3</Value>
+      <Value>Compuesta suelo de rejilla3</Value>
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating4</Key>
-      <Value>Estructura compuesta suelo de rejilla4</Value>
+      <Value>Compuesta suelo de rejilla4</Value>
     </Record>
     <Record>
       <Key>ItemKitWallPanels</Key>
@@ -2428,7 +2428,7 @@
     </Record>
     <Record>
       <Key>StructureCompositeWallPanelling1</Key>
-      <Value>Estructura de paneles de pared compuestos1</Value>
+      <Value>Paneles de pared compuestos1</Value>
     </Record>
     <Record>
       <Key>ItemKitCompositeFloorGrating</Key>
@@ -2436,7 +2436,7 @@
     </Record>
     <Record>
       <Key>CompositeRollCover</Key>
-      <Value>Cubierta de Rollo Compuesta</Value>									 
+      <Value>Cubierta de Rollo Compuesta</Value>
     </Record>
     <Record>
       <Key>ItemKitLadder</Key>
@@ -2536,95 +2536,95 @@
     </Record>
     <Record>
       <Key>StructureWallFlat</Key>
-      <Value>Estructura de Pared Plana</Value>
+      <Value>Pared Plana</Value>
     </Record>
     <Record>
       <Key>StructureWallArch</Key>
-      <Value>Estructura del arco de pared</Value>
+      <Value>Arco de pared</Value>
     </Record>
     <Record>
       <Key>StructureWallArchArrow</Key>
-      <Value>Estructura Muro Arco Flecha</Value>
+      <Value>Muro Arco Flecha</Value>
     </Record>
     <Record>
       <Key>StructureWallArchPlating</Key>
-      <Value>Estructura Muro Arco Revestimiento</Value>
+      <Value>Muro Arco Revestimiento</Value>
     </Record>
     <Record>
       <Key>StructureWallArchTwoTone</Key>
-      <Value>Estructura Muro Arco Dos Tonos</Value>
+      <Value>Muro Arco Dos Tonos</Value>
     </Record>
     <Record>
       <Key>StructureWallGeometryCorner</Key>
-      <Value>Estructura Esquina Geometría de Pared</Value>
+      <Value>Esquina Geometría de Pared</Value>
     </Record>
     <Record>
       <Key>StructureWallGeometryStreight</Key>
-      <Value>Estructura Geometría de la pared Recta</Value>
+      <Value>Geometría de la pared Recta</Value>
     </Record>
     <Record>
       <Key>StructureWallGeometryT</Key>
-      <Value>Estructura Geometría de la pared en T</Value>
+      <Value>Geometría de la pared en T</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddedArch</Key>
-      <Value>Estructura Muro Arco Acolchado</Value>
+      <Value>Muro de Arco</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddedArchLightsFittings</Key>
-      <Value>Estructura de la pared acolchado Arco de luces de Accesorios</Value>
+      <Value>Pared de Arco de luces de Accesorios</Value>
     </Record>
     <Record>
       <Key>StructureWallPadding</Key>
-      <Value>Estructura Acolchado de pared</Value>
+      <Value>Pared</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddingArchVent</Key>
-      <Value>Estructura de la pared acolchado de arco de ventilación</Value>
+      <Value>Pared de arco de ventilación</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddingLightFitting</Key>
-      <Value>Estructura de Relleno de la pared de Aplique de luz</Value>
+      <Value>Relleno de la pared de Aplique de luz</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddingThin</Key>
-      <Value>Estructura de Acolchado de pared Delgado</Value>
+      <Value>Pared Delgada</Value>
     </Record>
     <Record>
       <Key>StructureWallPlating</Key>
-      <Value>Estructura de Revestimiento de paredes</Value>
+      <Value>Revestimiento de paredes</Value>
     </Record>
     <Record>
       <Key>StructureWallSimple</Key>
-      <Value>Estructura Pared Simple</Value>
+      <Value>Pared Simple</Value>
     </Record>
     <Record>
       <Key>StructureWallSmallPanels</Key>
-      <Value>Estructura de Pared de Paneles Pequeños</Value>
+      <Value>Pared de Paneles Pequeños</Value>
     </Record>
     <Record>
       <Key>StructureWallLargePanel</Key>
-      <Value>Estructura de Pared de Panel Grande</Value>
+      <Value>Pared de Panel Grande</Value>
     </Record>
     <Record>
       <Key>StructureWallSmallPanelsAndHatch</Key>
-      <Value>Estructura de Pared de Paneles Pequeños y Escotilla</Value>
+      <Value>Pared de Paneles Pequeños y Escotilla</Value>
     </Record>
     <Record>
       <Key>StructureWallSmallPanelsArrow</Key>
-      <Value>Estructura de Pared de Paneles Pequeños en Flecha</Value>
+      <Value>Pared de Paneles Pequeños en Flecha</Value>
     </Record>
     <Record>
       <Key>StructureWallSmallPanelsMonoChrome</Key>
-      <Value>Estructura de Pared de Paneles Pequeños MonoCromado</Value>
+      <Value>Pared de Paneles Pequeños MonoCromado</Value>
     </Record>
     <Record>
       <Key>StructureWallSmallPanelsTwoTone</Key>
-      <Value>Estructura de Pared de Paneles Pequeños Dos Tonos</Value>
+      <Value>Pared de Paneles Pequeños Dos Tonos</Value>
     </Record>
     <Record>
       <Key>StructureWallLargePanelArrow</Key>
-      <Value>Estructura de Pared de Panel Grande en Flecha</Value>
+      <Value>Pared de Panel Grande en Flecha</Value>
     </Record>
     <Record>
       <Key>ItemKitWallArch</Key>
@@ -2632,7 +2632,7 @@
     </Record>
     <Record>
       <Key>ItemKitWallFlat</Key>
-      <Value>Kit (Pared Plano)</Value>
+      <Value>Kit (Pared Plana)</Value>
     </Record>
     <Record>
       <Key>ItemKitWallGeometry</Key>
@@ -2640,11 +2640,47 @@
     </Record>
     <Record>
       <Key>ItemKitWallPadded</Key>
-      <Value>Kit (Pared de Acolchada)</Value>
+      <Value>Kit (Pared Acolchada)</Value>
     </Record>
     <Record>
       <Key>StructureLadder</Key>
       <Value>Escalera</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeGuide</Key>
+      <Value>Cartucho (Guía)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePipeCrossJunction4</Key>
+      <Value>Tubo (Esquina de 4 vías)</Value>
+    </Record>
+    <Record>
+      <Key>ItemAuthoringTool</Key>
+      <Value>Herramienta de Creación</Value>
+    </Record>
+    <Record>
+      <Key>StructureRocketEngineDestroyed</Key>
+      <Value>Motor de cohete (Destruido)</Value>
+    </Record>
+    <Record>
+      <Key>ItemWreckageConstructor</Key>
+      <Value>Constructor de Depuración de Desguace</Value>
+    </Record>
+    <Record>
+      <Key>ItemWreckage1</Key>
+      <Value>Desguace</Value>
+    </Record>
+    <Record>
+      <Key>ItemWreckage2</Key>
+      <Value>Desguace</Value>
+    </Record>
+    <Record>
+      <Key>ItemWreckage3</Key>
+      <Value>Desguace</Value>
+    </Record>
+    <Record>
+      <Key>ItemWreckage4</Key>
+      <Value>Desguace</Value>
     </Record>
   </Things>
   <Slots>
@@ -4149,7 +4185,7 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
     </Record>
     <Record>
       <Key>TextboxEnterDescription</Key>
-      <Value>Ingrese la Descripción ...</Value>
+      <Value>Ingrese la Descripción...</Value>
     </Record>
     <Record>
       <Key>TextboxEnterSeed</Key>
@@ -4161,11 +4197,27 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
     </Record>
     <Record>
       <Key>SettingsMouseWheelZoom</Key>
-      <Value>Zoom de la rueda del mouse</Value>								 
+      <Value>Zoom de la rueda del mouse</Value>
     </Record>
     <Record>
       <Key>GameMenuRespawn</Key>
-      <Value>Reaparecer</Value>						
+      <Value>Reaparecer</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuScenarios</Key>
+      <Value>Escenarios</Value>
+    </Record>
+    <Record>
+      <Key>ScenariosStartButton</Key>
+      <Value>Iniciar Escenario</Value>
+    </Record>
+    <Record>
+      <Key>SettingsSunOrbitPeriod</Key>
+      <Value>Período de la órbita del sol</Value>
+    </Record>
+    <Record>
+      <Key>SettingsExtendedTerrain</Key>
+      <Value>Terreno Extendido</Value>
     </Record>
   </Interface>
   <Colors>
