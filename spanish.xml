@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: v0.1.1338.6458    Fecha = 06/06/2018 -->
+<!-- Versión: 0.1.1401.6722   Fecha = 28/06/2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -149,6 +149,10 @@
   </Gases>
   <Actions>
     <Record>
+      <Key>Reload</Key>
+      <Value>Recarga</Value>
+    </Record>
+    <Record>
       <Key>Paint</Key>
       <Value>Pintar</Value>
     </Record>
@@ -198,7 +202,7 @@
     </Record>
     <Record>
       <Key>Plant</Key>
-      <Value>Planta</Value>
+      <Value>Plantar</Value>
     </Record>
     <Record>
       <Key>Harvest</Key>
@@ -287,6 +291,34 @@
     <Record>
       <Key>Rename</Key>
       <Value>Renombrar</Value>
+    </Record>
+    <Record>
+      <Key>Up</Key>
+      <Value>SUBIR</Value>
+    </Record>
+    <Record>
+      <Key>Down</Key>
+      <Value>BAJAR</Value>
+    </Record>
+    <Record>
+      <Key>CallElevator</Key>
+      <Value>Llamar</Value>
+    </Record>
+    <Record>
+      <Key>Set</Key>
+      <Value>Establecer</Value>
+    </Record> 
+    <Record>
+      <Key>Cycle</Key>
+      <Value>Ciclo</Value>
+    </Record>
+    <Record>
+      <Key>ForceClose</Key>
+      <Value>Forzar Cierre</Value>
+    </Record>
+    <Record>
+      <Key>ForceOpen</Key>
+      <Value>Forzar Apertura</Value>
     </Record>
   </Actions>
   <Things>
@@ -2682,6 +2714,154 @@
       <Key>ItemWreckage4</Key>
       <Value>Desguace</Value>
     </Record>
+    <Record>
+      <Key>CartridgeAccessController</Key>
+      <Value>Cartucho {Controlador de Acceso}</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardBlack</Key>
+      <Value>Tarjeta de acceso (Negro)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardBlue</Key>
+      <Value>Tarjeta de acceso (Azul)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardBrown</Key>
+      <Value>Tarjeta de acceso (Marrón)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardGray</Key>
+      <Value>Tarjeta de acceso (Gris)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardGreen</Key>
+      <Value>Tarjeta de acceso (Verde)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardKhaki</Key>
+      <Value>Tarjeta de acceso (Caqui)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardOrange</Key>
+      <Value>Tarjeta de acceso (Naranja)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardPink</Key>
+      <Value>Tarjeta de acceso (Rosa)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardPurple</Key>
+      <Value>Tarjeta de acceso (Purpura)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardRed</Key>
+      <Value>Tarjeta de acceso (Rojo)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardWhite</Key>
+      <Value>Tarjeta de acceso (Blanco)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardYellow</Key>
+      <Value>Tarjeta de acceso (Yellow)</Value>
+    </Record>
+    <Record>
+      <Key>StructureSecurityPrinter</Key>
+      <Value>Impresora de Seguridad</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitSecurityPrinter</Key>
+      <Value>Kit (Impresora de seguridad)</Value>
+    </Record>
+    <Record>
+      <Key>Handgun</Key>
+      <Value>Revólver</Value>
+    </Record>
+    <Record>
+      <Key>ItemAmmoBox</Key>
+      <Value>Caja de Municiones</Value>
+    </Record>
+    <Record>
+      <Key>HandgunMagazine</Key>
+      <Value>Cargador de Revólver</Value>
+    </Record>
+    <Record>
+      <Key>SMGMagazine</Key>
+      <Value>Almacén SMG</Value>							 
+    </Record>
+    <Record>
+      <Key>FireArmSMG</Key>
+      <Value>Arma de Fuego S M G</Value>
+    </Record>
+    <Record>
+      <Key>StructureElectrolyzer</Key>
+      <Value>Electrolizador</Value>
+    </Record>
+    <Record>	
+      <Key>StructureElevatorShaft</Key>
+      <Value>Eje del Elevador</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitElevator</Key>
+      <Value>Kit (Elevador)</Value>
+    </Record>
+    <Record>
+      <Key>ElevatorCarrage</Key>
+      <Value>Elevador</Value>
+    </Record>
+    <Record>
+      <Key>StructureElevatorLevelFront</Key>
+      <Value>Nivel del Elevador</Value>
+    </Record>
+    <Record>
+      <Key>StructureCrateMount</Key>
+      <Value>Montaje de Contenedor</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitCrateMount</Key>
+      <Value>Kit (Montaje de Contenedor)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicMirror</Key>
+      <Value>Logic Mirror</Value>
+    </Record>
+    <Record>
+      <Key>CircuitboardHashDisplay</Key>
+      <Value>Placa Circuito (Pantalla Hash)</Value>
+    </Record>
+    <Record>
+      <Key>StructureHydroponicsStation</Key>
+      <Value>Estación de Hidroponía</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitHydroponicStation</Key>
+      <Value>Kit (Estación Hidropónica)</Value>
+    </Record>
+    <Record>
+      <Key>StructureDiodeSlide</Key>
+      <Value>Diapositiva de Diodos</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasCanisterSmart</Key>
+      <Value>Bombona de Gas (Inteligente)</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeConfiguration</Key>
+      <Value>Cartucho (Configuración)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitCrate</Key>
+      <Value>Kit (Caja)</Value>
+    </Record>
+    <Record>
+      <Key>CircuitboardGraphDisplay</Key>
+      <Value>Placa de circuito (Pantalla Gráfica)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitMotherShipCore</Key>
+      <Value>Kit (Nave Nodriza)</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -2844,6 +3024,22 @@
       <Key>LoadingRail</Key>
       <Value>Rail de Carga</Value>
     </Record>
+    <Record>
+      <Key>AccessCard</Key>
+      <Value>Tarjeta de acceso</Value>
+    </Record>
+    <Record>
+      <Key>Magazine</Key>
+      <Value>Cargador</Value>	 
+    </Record>
+    <Record>
+      <Key>ContainerSlot</Key>
+      <Value>Container Slot</Value>			   
+    </Record>
+    <Record>
+      <Key>Plant</Key>
+      <Value>Sembrar</Value>
+    </Record>
   </Slots>
   <Interactables>
     <Record>
@@ -2979,11 +3175,7 @@
       <Value>Bajar Presión</Value>
     </Record>
     <Record>
-      <Key/>
-      <Value/>
-    </Record>
-    <Record>
-      <Key>Flush</Key>
+	<Key>Flush</Key>
       <Value>Purga</Value>
     </Record>
     <Record>
@@ -3169,6 +3361,10 @@
     <Record>
       <Key>Color</Key>
       <Value>Color</Value>
+    </Record>
+    <Record>
+      <Key>Access</Key>
+      <Value>Acceso</Value>
     </Record>
   </Interactables>
   <Interface>
@@ -3899,6 +4095,18 @@ Scroll &lt;color=red&gt;Rueda de ratón&lt;/color&gt; para más opciones.</Value
       <Value>Reaparecer</Value>
     </Record>
     <Record>
+      <Key>PromptGiveUpTitle</Key>
+      <Value>Rendirse</Value>
+    </Record>
+    <Record>
+      <Key>PromptGiveUpBody</Key>
+      <Value>Estás inconsciente. ¿Quieres abandonar y volver a aparecer?</Value>
+    </Record>
+    <Record>
+      <Key>PromptGiveUpConfirm</Key>
+      <Value>Rendirse</Value>
+    </Record>
+    <Record>
       <Key>AlertInvalidIP</Key>
       <Value>Dirección IP no válida {0} \nVerificar dirección IP o una URL válida</Value>
     </Record>
@@ -3981,7 +4189,7 @@ Inténtalo de nuevo.</Value>
     </Record>
     <Record>
       <Key>SaveMenuNamePlaceholder</Key>
-      <Value>Escribe nombre para guardar</Value>
+      <Value>Escribe un nombre para guardar</Value>
     </Record>
     <Record>
       <Key>NewWorldModeCreative</Key>
@@ -4219,6 +4427,14 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
       <Key>SettingsExtendedTerrain</Key>
       <Value>Terreno Extendido</Value>
     </Record>
+    <Record>
+      <Key>RenameThing</Key>
+      <Value>Renombrar {0}</Value>
+    </Record>
+    <Record>
+      <Key>SetThingValue</Key>
+      <Value>Set {0}</Value>
+    </Record>	 
   </Interface>
   <Colors>
     <Record>
