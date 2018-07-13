@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: 0.1.1401.6722   Fecha = 28/06/2018 -->
+<!-- Versión: 0.1.1492.7067   Fecha = 13/07/2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -307,7 +307,7 @@
     <Record>
       <Key>Set</Key>
       <Value>Establecer</Value>
-    </Record> 
+    </Record>
     <Record>
       <Key>Cycle</Key>
       <Value>Ciclo</Value>
@@ -319,6 +319,10 @@
     <Record>
       <Key>ForceOpen</Key>
       <Value>Forzar Apertura</Value>
+    </Record>
+    <Record>
+      <Key>Vend</Key>
+      <Value>Seleccionar</Value>
     </Record>
   </Actions>
   <Things>
@@ -2272,7 +2276,7 @@
     </Record>
     <Record>
       <Key>CartridgeOreScanner</Key>
-      <Value>Cartucho (Escáner de Minerales) </Value>
+      <Value>Cartucho (Escáner de Minerales)</Value>
     </Record>
     <Record>
       <Key>ItemPotatoBaked</Key>
@@ -2798,7 +2802,7 @@
       <Key>StructureElectrolyzer</Key>
       <Value>Electrolizador</Value>
     </Record>
-    <Record>	
+    <Record>
       <Key>StructureElevatorShaft</Key>
       <Value>Eje del Elevador</Value>
     </Record>
@@ -2816,11 +2820,11 @@
     </Record>
     <Record>
       <Key>StructureCrateMount</Key>
-      <Value>Montaje de Contenedor</Value>
+      <Value>Soporte de la Caja</Value>
     </Record>
     <Record>
       <Key>ItemKitCrateMount</Key>
-      <Value>Kit (Montaje de Contenedor)</Value>
+      <Value>Kit (Soporte de la Caja)</Value>
     </Record>
     <Record>
       <Key>StructureLogicMirror</Key>
@@ -2861,6 +2865,50 @@
     <Record>
       <Key>ItemKitMotherShipCore</Key>
       <Value>Kit (Nave Nodriza)</Value>
+    </Record>
+    <Record>
+      <Key>ItemDynamicScrubber</Key>
+      <Value>Kit (Depurador Portátil)</Value>
+    </Record>
+    <Record>
+      <Key>ItemDynamicAirCon</Key>
+      <Value>Kit (Aire Acondicionado Portátil)</Value> 
+    </Record>
+    <Record>
+      <Key>ItemKitPipeValve</Key>
+      <Value>Kit de Tubería de Válvula</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitDynamicGenerator</Key>
+      <Value>Kit (Generador Portátil)</Value>
+    </Record>
+    <Record>
+      <Key>StructureVendingMachine</Key>
+      <Value>Máquina expendedora</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitVendingMachine</Key>
+      <Value>Kit (Máquina expendedora)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicSlotReader</Key>
+      <Value>Lector de ranuras</Value>	
+    </Record>
+    <Record>
+      <Key>StructureLogicBatchReader</Key>
+      <Value>Batch Reader</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicReagentReader</Key>
+      <Value>Lector de Reactivos</Value>
+    </Record>
+    <Record>
+      <Key>ItemHardSuit</Key>
+      <Value>Traje de Protección</Value>
+    </Record>
+    <Record>
+      <Key>ItemHardSuitHelmet</Key>
+      <Value>Casco con Protección</Value>
     </Record>
   </Things>
   <Slots>
@@ -3040,6 +3088,14 @@
       <Key>Plant</Key>
       <Value>Sembrar</Value>
     </Record>
+    <Record>
+      <Key>Storage</Key>
+      <Value>Almacenaje</Value>
+    </Record>
+    <Record>
+      <Key>Circuit</Key>
+      <Value>Circuito</Value>
+    </Record>
   </Slots>
   <Interactables>
     <Record>
@@ -3175,7 +3231,7 @@
       <Value>Bajar Presión</Value>
     </Record>
     <Record>
-	<Key>Flush</Key>
+      <Key>Flush</Key>
       <Value>Purga</Value>
     </Record>
     <Record>
@@ -3365,6 +3421,30 @@
     <Record>
       <Key>Access</Key>
       <Value>Acceso</Value>
+    </Record>
+    <Record>
+      <Key>Magazine</Key>
+      <Value>Revista</Value>
+    </Record>
+    <Record>
+      <Key />
+      <Value />
+    </Record>
+    <Record>
+      <Key>TemperatureUp</Key>
+      <Value>Subir la Temperatura</Value>
+    </Record>
+    <Record>
+      <Key>TemperatureDown</Key>
+      <Value>Bajar la Temperatura</Value>
+    </Record>
+    <Record>
+      <Key>ThrustUp</Key>
+      <Value>Impulso hacia Arriba</Value>
+    </Record>
+    <Record>
+      <Key>ThrustDown</Key>
+      <Value>Impulso hacia Abajo</Value>
     </Record>
   </Interactables>
   <Interface>
@@ -4189,7 +4269,7 @@ Inténtalo de nuevo.</Value>
     </Record>
     <Record>
       <Key>SaveMenuNamePlaceholder</Key>
-      <Value>Escribe un nombre para guardar</Value>
+      <Value>Escribe Nombre para Guardar</Value>
     </Record>
     <Record>
       <Key>NewWorldModeCreative</Key>
@@ -4434,7 +4514,92 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
     <Record>
       <Key>SetThingValue</Key>
       <Value>Set {0}</Value>
-    </Record>	 
+    </Record>
+    <Record>
+      <Key>FurnaceChamber</Key>
+      <Value>Cámara</Value>
+    </Record>
+    <Record>
+      <Key>FurnaceChamberText</Key>
+      <Value>Presión {0}
+Temperatura {1}</Value>
+    </Record>
+    <Record>
+      <Key>FurnaceSmelting</Key>
+      <Value>Fundición {0}</Value>
+    </Record>
+    <Record>
+      <Key>LogicState</Key>
+      <Value>Estado {COLORGREEN:#VAR1#}</Value>
+    </Record>
+    <Record>
+      <Key>LogicNoDevice</Key>
+      <Value>No hay dispositivo</Value>
+    </Record>
+    <Record>
+      <Key>LogicNoSetting</Key>
+      <Value>No hay configuración</Value>
+    </Record>
+    <Record>
+      <Key>RequiresScrewdriver</Key>
+      <Value>Necesitas un {THING:ItemScrewdriver} para cambiar la configuración</Value>
+    </Record>
+    <Record>
+      <Key>LogicNoReadableDevices</Key>
+      <Value>No hay otros dispositivos legibles en la red</Value>
+    </Record>
+    <Record>
+      <Key>LogicNoReadableTypes</Key>
+      <Value>No hay otros tipos legibles en la red</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingTo</Key>
+      <Value>Cambiar a {0}</Value>
+    </Record>
+    <Record>
+      <Key>HoldForPreviousObject</Key>
+      <Value>Mantenga pulsada  {KEY:QuantityModifier} para el objeto anterior</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingToFor</Key>
+      <Value>Cambiar a &lt;color=yellow&gt;{0}&lt;/color&gt; for {1}</Value>
+    </Record>
+    <Record>
+      <Key>SettingsAtmosphericScattering</Key>
+      <Value>Dispersión atmosférica</Value>
+    </Record>
+    <Record>
+      <Key>ButtonReset</Key>
+      <Value>Resetear</Value>
+    </Record>
+    <Record>
+      <Key>ButtonClear</Key>
+      <Value>Limpiar</Value>
+    </Record>
+    <Record>
+      <Key>StatusWindowThrust</Key>
+      <Value>Propulsión</Value>
+    </Record>
+    <Record>
+      <Key>SettingsAmbientOcclusion</Key>
+      <Value>Oclusión Ambiental</Value>
+    </Record>
+    <Record>
+      <Key>SettingsLensFlares</Key>
+      <Value>Destellos de luz</Value>
+    </Record>
+    <Record>
+      <Key>SettingsInputSettings</Key>
+      <Value>Ajustes de Entrada</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldAreaEuropa</Key>
+      <Value>Europa</Value>
+    </Record>
+    <Record>
+      <Key>SettingsTitleAudioAlerts</Key>
+      <Value>Notificaciones de Voz</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
@@ -4486,7 +4651,7 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
       <Value>Purpura</Value>
     </Record>
   </Colors>
-  <Keys/>
+  <Keys />
   <Mineables>
     <Record>
       <Key>Iron</Key>
@@ -4537,5 +4702,5 @@ No te sientas triste cuando te haces pedazos pequeños o diminutos, o eres asalt
       <Value>Silicio</Value>
     </Record>
   </Mineables>
-  <GameTip/>
+  <GameTip />
 </Language>
