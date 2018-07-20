@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!-- Versión: v0.1.1508.7137   Fecha = 16/07/2018 -->
+  <Name>Spanish</Name>
+  <Code>ES</Code>
+  <Font>font_extended</Font>
+  <Interface>
+  	<!-- Fase de la Misión: En caso de Emergencia -->
+	<Record>
+      <Key>MarsTitleInCaseOfEmergency</Key>
+      <Value>En caso de Emergencia...</Value>
+    </Record>
+	<Record>
+      <Key>MarsDescInCaseOfEmergency</Key>
+      <Value>Tu traje está dañado y necesitas encontrar algo de comida.</Value>
+    </Record>
+	<Record>
+      <Key>MarsTaskGetTape</Key>
+      <Value>Encuentra algunos {THING:ItemDuctTape}</Value>
+    </Record>
+	<Record>
+      <Key>MarsTaskGetFood</Key>
+      <Value>Encuentra un {THING:ItemCerealBar}</Value>
+    </Record> 
+	<Record>
+      <Key>MarsTabletStage1Page1</Key>
+      <Value>Página 1 de 2 \nNO ENTRE EN PÁNICO.\n\nSi estás leyendo esto, sobreviviste a la evacuación - Felicitaciones. Independientemente de su entorno, su primera prioridad es comprobar su salud y la de los que le rodean.  Asegúrese de comprobar la integridad del traje, ya que no se sabe en qué entorno puede encontrarse y proteger el suministro de aire que tenga es crucial.</Value>
+    </Record> 
+	<Record>
+      <Key>MarsTabletStage1Page2</Key>
+      <Value>Página 2 de 2 \nSi usted está cerca de una cápsula de escape intacta y una caja de suministros adjunta, debe tener algunos suministros cruciales para ayudarlo a esperar el rescate. Si no, busque sobrevivientes.  Usted debe asegurarse de anotar la ubicación de, o recolectar, cualquier suministro que sea de suma importancia para su supervivencia, como alimentos, baterías, materiales de utilidad como cinta adhesiva y equipo portátil de supervivencia. \n
+</Value>
+    </Record> 
+
+	<!-- Fase de la Misión: Adquirir Materias Primas-->	
+	<Record>
+      <Key>MarsTitleRawMaterials</Key>
+      <Value>Adquirir Materias Primas</Value>
+    </Record>
+	<Record>
+      <Key>MarsDescRawMaterials</Key>
+      <Value>Encuentre una manera de producir los materiales básicos que necesita para poner en marcha la fabricación.</Value>
+    </Record>
+	<Record>
+      <Key>MarsTaskGetIronIngots</Key>
+      <Value>Obtenga un {THING:ItemIronIngot}</Value>
+    </Record>
+	<Record>
+      <Key>MarsTaskGetCopperIngots</Key>
+      <Value>Obtenga un {THING:ItemCopperIngot}</Value>
+    </Record>
+		<Record>
+      <Key>MarsTaskGetGoldIngots</Key>
+      <Value>Obtenga un {THING:ItemGoldIngot}</Value>
+    </Record>
+	<Record>
+      <Key>MarsTabletStage2Page1</Key>
+      <Value>Página 1 de 4 \nMENDIGAR, CAVAR O ROBAR\n\nAfortunadamente, nuestras herramientas de fabricación tienen conocimiento de todas las recetas que usted puede necesitar en su situación.  Desafortunadamente, necesitará materias primas para hacerlo.  Estos podrían provenir de varias fuentes según su situación:</Value>
+    </Record> 
+	<Record>
+      <Key>MarsTabletStage2Page2</Key>
+      <Value>Página 2 de 4 \nCARROÑEAR\n\nSi su nave aún está en gran parte intacta, es posible que pueda encontrar materiales en su forma procesada, ya sea dentro de las máquinas de fabricación o almacenados cerca de ellas.\n\nDESMANTELAR\n\nSi usted es capaz de encontrar o fabricar una amoladora de ángulo, usted debe ser capaz de utilizarlo para desmantelar algunos de los restos de su nave.  Un reciclador se puede utilizar para descomponerlos en una mezcla de sus materiales y componentes y una centrifugadora los separará para que se puedan volver a fundir en materiales utilizables.</Value>
+    </Record> 
+	
+	<!-- Fase de la Misión: Fabricación de Configuraciones -->
+	<Record>
+      <Key>MarsTitleSetupManufacturing</Key>
+      <Value>Aprovechar los recursos de producción</Value>
+    </Record>
+	<Record>
+      <Key>MarsDescSetupManufacturing</Key>
+      <Value>Para fabricar lo que necesitamos, debemos empezar con un {THING:ItemKitHydraulicPipeBender} y un {THING:ItemKitElectronicsPrinter}.</Value>
+    </Record>
+	<Record>
+      <Key>MarsTaskManufactureHPB</Key>
+      <Value>Fabricar un {THING:ItemKitHydraulicPipeBender}</Value>
+    </Record>
+	<Record>
+      <Key>MarsTaskManufactureEP</Key>
+      <Value>Fabricar un {THING:ItemKitElectronicsPrinter}</Value>
+    </Record>
+	<Record>
+      <Key>MarsTabletStage1Page1</Key>
+      <Value>Página 1 de 2\nNO ENTRE EN PÁNICO.\n\nSi estás leyendo esto, has sobrevivido a la evacuación. Felicitaciones.  Independientemente de su entorno, su primera prioridad es comprobar su salud y la de los que le rodean.  Asegúrese de comprobar la integridad del traje, ya que no se sabe en qué entorno puede encontrarse y proteger el suministro de aire que tenga es crucial.</Value>
+    </Record> 
+	<Record>
+      <Key>MarsTabletStage1Page2</Key>
+      <Value>Página 2 de 2 \nSi usted está cerca de una cápsula de escape intacta y una caja de suministros adjunta, debe tener algunos suministros cruciales para ayudarlo a esperar el rescate. Si no, busque sobrevivientes.  Usted debe asegurarse de anotar la ubicación , o recoger cualquier suministro que sea de suma importancia para su supervivencia, como alimentos, baterías, materiales de utilidad como cinta adhesiva y equipo portátil de supervivencia. \n</Value>
+    </Record> 
+	
+	<!-- Fase de la Misión: Suministro de Alimentos -->
+	<Record>
+      <Key>MarsTitleFoodSupply</Key>
+      <Value>Una fuente confiable de alimentos</Value>
+    </Record>
+	<Record>
+      <Key>MarsDescFoodSupply</Key>
+      <Value>No sabemos cuánto tiempo necesitarás para sobrevivir aquí.  Deberíamos preparar una fuente renovable de comida por si acaso.</Value>
+    </Record>
+	<Record>
+      <Key>MarsTaskPrepareAtmos</Key>
+      <Value>Crear una sala presurizada con una atmósfera suficiente para crecer {THING: ItemPotato}</Value>
+    </Record>
+	<Record>
+      <Key>MarsTaskGrowPotato</Key>
+      <Value>Obtener un {THING:ItemPotato}</Value>
+    </Record>
+
+	<!-- Fase de la Misión: Generar Nave Nodriza & Motor -->
+	<Record>
+      <Key>MarsTitleCreateMothership</Key>
+      <Value>Creando una Nave Nodriza</Value>
+    </Record>
+	<Record>
+      <Key>MarsDescCreateMothership</Key>
+      <Value>Crear una nave nodriza mediante la generación de un {THING:MothershipCore} y conectándole un  {THING:StructureRocketEngine} </Value>
+    </Record>
+	<Record>
+      <Key>MarsTaskSpawnMothershipCore</Key>
+      <Value>Generar un {THING:MothershipCore}</Value>
+    </Record>
+	<Record>
+      <Key>MarsTaskAttachEngine</Key>
+      <Value>Conecte un {THING:StructureRocketEngine} al {THING:MothershipCore}</Value>
+    </Record>
+	<Record>
+      <Key>MarsTitleLaunchMothership</Key>
+      <Value>Lanzamiento de una Nave Nodriza</Value>
+    </Record>
+	
+	<!-- Fase de la Misión: Lanzamiento -->
+	<Record>
+      <Key>MarsDescLaunchMothership</Key>
+      <Value>Despega al espacio y recupera tu lugar en los cielos!</Value>
+    </Record>
+	<Record>
+      <Key>MarsTaskLaunchMothership</Key>
+      <Value>Despegue su nave nodriza a una altitud de 100m</Value>
+    </Record>
+  </Interface>
+</Language>
