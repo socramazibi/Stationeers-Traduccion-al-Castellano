@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Versión: 0.1.1492.7067   Fecha = 13/07/2018 -->
+<!-- Versión: v0.1.1538.7256  Fecha = 20/07/2018 -->
   <Name>Spanish</Name>
   <Code>ES</Code>
   <Font>font_extended</Font>
@@ -119,6 +119,11 @@
       <Key>Potato</Key>
       <Value>Patata</Value>
       <Unit/>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>PotassiumIodide</Key>
+      <Value>Yoduro de Potasio</Value>
+      <Unit>g</Unit>
     </RecordReagent>
   </Reagents>
   <Gases>
@@ -2400,15 +2405,15 @@
     </Record>
     <Record>
       <Key>StructureDockPortSide</Key>
-      <Value>Structure Dock Port Side</Value>
+      <Value>Puerta de Acoplamiento del Muelle</Value>
     </Record>
     <Record>
       <Key>ItemKitDockingPort</Key>
-      <Value>Kit (Puerto de Acoplamiento)</Value>
+      <Value>Kit (Puerta de Acoplamiento)</Value>
     </Record>
     <Record>
       <Key>StructureDockShipSide</Key>
-      <Value>Structure Dock Ship Side</Value>
+      <Value>Puerta de Acoplamiento de la Nave</Value>
     </Record>
     <Record>
       <Key>StructureLightLong</Key>
@@ -2612,7 +2617,7 @@
     </Record>
     <Record>
       <Key>StructureWallPadding</Key>
-      <Value>Pared</Value>
+      <Value>Pared Acolchada</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddingArchVent</Key>
@@ -2620,7 +2625,7 @@
     </Record>
     <Record>
       <Key>StructureWallPaddingLightFitting</Key>
-      <Value>Relleno de la pared de Aplique de luz</Value>
+      <Value>Relleno de la Pared de Aplique de luz</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddingThin</Key>
@@ -2720,7 +2725,7 @@
     </Record>
     <Record>
       <Key>CartridgeAccessController</Key>
-      <Value>Cartucho {Controlador de Acceso}</Value>
+      <Value>Cartucho (Controlador de Acceso)</Value>
     </Record>
     <Record>
       <Key>AccessCardBlack</Key>
@@ -2776,7 +2781,7 @@
     </Record>
     <Record>
       <Key>ItemKitSecurityPrinter</Key>
-      <Value>Kit (Impresora de seguridad)</Value>
+      <Value>Kit (Impresora de Seguridad)</Value>
     </Record>
     <Record>
       <Key>Handgun</Key>
@@ -2896,7 +2901,7 @@
     </Record>
     <Record>
       <Key>StructureLogicBatchReader</Key>
-      <Value>Batch Reader</Value>
+      <Value>Lector de Lotes</Value>
     </Record>
     <Record>
       <Key>StructureLogicReagentReader</Key>
@@ -2909,6 +2914,62 @@
     <Record>
       <Key>ItemHardSuitHelmet</Key>
       <Value>Casco con Protección</Value>
+    </Record>
+    <Record>
+      <Key>ItemWearLamp</Key>
+      <Value>Linterna Frontal</Value>
+    </Record>
+    <Record>
+      <Key>StructureTurbineGenerator</Key>
+      <Value>Generador de Turbina</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitTurbineGenerator</Key>
+      <Value>Kit (Generador de Turbina)</Value>
+    </Record>
+    <Record>
+      <Key>ReagentSilver</Key>
+      <Value>Polvo de Plata</Value>
+    </Record>
+    <Record>
+      <Key>ReagentPotassiumIodide</Key>
+      <Value>Yoduro de Potasio en Polvo</Value>
+    </Record>
+    <Record>
+      <Key>ReagentInvar</Key>
+      <Value>Invar Polvo</Value>
+    </Record>
+    <Record>
+      <Key>ReagentElectrum</Key>
+      <Value>Polvo de Electrum</Value>
+    </Record>
+    <Record>
+      <Key>ReagentGold</Key>
+      <Value>Polvo de Oro</Value>
+    </Record>
+    <Record>
+      <Key>StructureUnloader</Key>
+      <Value>Descargar</Value>
+    </Record>
+    <Record>
+      <Key>ReagentFenoxitone</Key>
+      <Value>Fenoxitona en polvo</Value>
+    </Record>
+    <Record>
+      <Key>StructurePlatformLadderOpen</Key>
+      <Value>Plataforma de la Escalera</Value>
+    </Record>
+    <Record>
+      <Key>StructureLadderEnd</Key>
+      <Value>Fin de Escalera</Value>
+    </Record>
+    <Record>
+      <Key>StructureLockerSmall</Key>
+      <Value>Taquilla (Pequeña)</Value>			   
+    </Record>
+    <Record>
+      <Key>StructureLogicBatchSlotReader</Key>
+      <Value>Lector de Ranuras de Lotes</Value>			  
     </Record>
   </Things>
   <Slots>
@@ -3038,7 +3099,7 @@
     </Record>
     <Record>
       <Key>TransportSlot</Key>
-      <Value>Hueco de Transporte</Value>
+      <Value>Ranura de Transporte</Value>
     </Record>
     <Record>
       <Key>Motherboard</Key>
@@ -3054,7 +3115,7 @@
     </Record>
     <Record>
       <Key>PortableSlot</Key>
-      <Value>Hueco Portátil</Value>
+      <Value>Ranura Portátil</Value>
     </Record>
     <Record>
       <Key>Bed</Key>
@@ -3082,7 +3143,7 @@
     </Record>
     <Record>
       <Key>ContainerSlot</Key>
-      <Value>Container Slot</Value>			   
+      <Value>Ranura de Contenedor</Value>			   
     </Record>
     <Record>
       <Key>Plant</Key>
@@ -3124,11 +3185,11 @@
     </Record>
     <Record>
       <Key>Slot1</Key>
-      <Value>Hueco1</Value>
+      <Value>Ranura1</Value>
     </Record>
     <Record>
       <Key>Slot2</Key>
-      <Value>Hueco2</Value>
+      <Value>Ranura2</Value>
     </Record>
     <Record>
       <Key>GrabLeftHand</Key>
@@ -3160,35 +3221,35 @@
     </Record>
     <Record>
       <Key>Slot3</Key>
-      <Value>Hueco3</Value>
+      <Value>Ranura3</Value>
     </Record>
     <Record>
       <Key>Slot4</Key>
-      <Value>Hueco4</Value>
+      <Value>Ranura4</Value>
     </Record>
     <Record>
       <Key>Slot5</Key>
-      <Value>Hueco5</Value>
+      <Value>Ranura5</Value>
     </Record>
     <Record>
       <Key>Slot6</Key>
-      <Value>Hueco6</Value>
+      <Value>Ranura6</Value>
     </Record>
     <Record>
       <Key>Slot7</Key>
-      <Value>Hueco7</Value>
+      <Value>Ranura7</Value>
     </Record>
     <Record>
       <Key>Slot8</Key>
-      <Value>Hueco8</Value>
+      <Value>Ranura8</Value>
     </Record>
     <Record>
       <Key>Slot9</Key>
-      <Value>Hueco9</Value>
+      <Value>Ranura9</Value>
     </Record>
     <Record>
       <Key>Slot10</Key>
-      <Value>Hueco10</Value>
+      <Value>Ranura10</Value>
     </Record>
     <Record>
       <Key>Button2</Key>
@@ -3256,83 +3317,83 @@
     </Record>
     <Record>
       <Key>Slot11</Key>
-      <Value>Hueco11</Value>
+      <Value>Ranura11</Value>
     </Record>
     <Record>
       <Key>Slot12</Key>
-      <Value>Hueco12</Value>
+      <Value>Ranura12</Value>
     </Record>
     <Record>
       <Key>Slot13</Key>
-      <Value>Hueco13</Value>
+      <Value>Ranura13</Value>
     </Record>
     <Record>
       <Key>Slot14</Key>
-      <Value>Hueco14</Value>
+      <Value>Ranura14</Value>
     </Record>
     <Record>
       <Key>Slot15</Key>
-      <Value>Hueco15</Value>
+      <Value>Ranura15</Value>
     </Record>
     <Record>
       <Key>Slot16</Key>
-      <Value>Hueco16</Value>
+      <Value>Ranura16</Value>
     </Record>
     <Record>
       <Key>Slot17</Key>
-      <Value>Hueco17</Value>
+      <Value>Ranura17</Value>
     </Record>
     <Record>
       <Key>Slot18</Key>
-      <Value>Hueco18</Value>
+      <Value>Ranura18</Value>
     </Record>
     <Record>
       <Key>Slot19</Key>
-      <Value>Hueco19</Value>
+      <Value>Ranura19</Value>
     </Record>
     <Record>
       <Key>Slot20</Key>
-      <Value>Hueco20</Value>
+      <Value>Ranura20</Value>
     </Record>
     <Record>
       <Key>Slot21</Key>
-      <Value>Hueco21</Value>
+      <Value>Ranura21</Value>
     </Record>
     <Record>
       <Key>Slot22</Key>
-      <Value>Hueco22</Value>
+      <Value>Ranura22</Value>
     </Record>
     <Record>
       <Key>Slot23</Key>
-      <Value>Hueco23</Value>
+      <Value>Ranura23</Value>
     </Record>
     <Record>
       <Key>Slot24</Key>
-      <Value>Hueco24</Value>
+      <Value>Ranura24</Value>
     </Record>
     <Record>
       <Key>Slot25</Key>
-      <Value>Hueco25</Value>
+      <Value>Ranura25</Value>
     </Record>
     <Record>
       <Key>Slot26</Key>
-      <Value>Hueco26</Value>
+      <Value>Ranura26</Value>
     </Record>
     <Record>
       <Key>Slot27</Key>
-      <Value>Hueco27</Value>
+      <Value>Ranura27</Value>
     </Record>
     <Record>
       <Key>Slot28</Key>
-      <Value>Hueco28</Value>
+      <Value>Ranura28</Value>
     </Record>
     <Record>
       <Key>Slot29</Key>
-      <Value>Hueco29</Value>
+      <Value>Ranura29</Value>
     </Record>
     <Record>
       <Key>Slot30</Key>
-      <Value>Hueco30</Value>
+      <Value>Ranura30</Value>
     </Record>
     <Record>
       <Key>TiltUpwards</Key>
@@ -3427,10 +3488,6 @@
       <Value>Revista</Value>
     </Record>
     <Record>
-      <Key />
-      <Value />
-    </Record>
-    <Record>
       <Key>TemperatureUp</Key>
       <Value>Subir la Temperatura</Value>
     </Record>
@@ -3474,7 +3531,7 @@
     </Record>
     <Record>
       <Key>MainMenuTutorial</Key>
-      <Value>Tutorial</Value>
+      <Value>Tutorial&lt;color=green&gt; - NUEVO!&lt;/color&gt; </Value>
     </Record>
     <Record>
       <Key>MainMenuCredits</Key>
@@ -4600,6 +4657,46 @@ Temperatura {1}</Value>
       <Key>SettingsTitleAudioAlerts</Key>
       <Value>Notificaciones de Voz</Value>
     </Record>
+    <Record>
+      <Key>InventoryCloseAll</Key>
+      <Value>Cerrar Todo</Value>
+    </Record>
+    <Record>
+      <Key>ButtonResetWindows</Key>
+      <Value>Reset Ventana</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionFiltered</Key>
+      <Value>Con Filtro</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionUnfiltered</Key>
+      <Value>Sin Filtrar</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionInput</Key>
+      <Value>Entrada</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionOutput</Key>
+      <Value>Salida</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionWaste</Key>
+      <Value>Residuos</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionBreathing</Key>
+      <Value>Respiración</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionPropellant</Key>
+      <Value>Propulsor</Value>
+    </Record>
+    <Record>
+      <Key>SettingsChunkRenderDistance</Key>
+      <Value>Distancia de Renderizado de Trozos</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
@@ -4651,7 +4748,7 @@ Temperatura {1}</Value>
       <Value>Purpura</Value>
     </Record>
   </Colors>
-  <Keys />
+  <Keys/>
   <Mineables>
     <Record>
       <Key>Iron</Key>
@@ -4702,5 +4799,5 @@ Temperatura {1}</Value>
       <Value>Silicio</Value>
     </Record>
   </Mineables>
-  <GameTip />
+  <GameTip/>
 </Language>
